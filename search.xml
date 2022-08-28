@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>思想選擇</title>
-    <url>/2022/08/21/Murmur-001-%E6%80%9D%E6%83%B3%E9%81%B8%E6%93%87/</url>
-    <content><![CDATA[<p>正思想然後言論正</p>
-<p>我們無法阻擋別人的言語</p>
-<p>但，我們能選擇進入心房的語句。</p>
-]]></content>
+    <title>Kotaro Oshio(押尾光太郎) - Libertang(自由探戈)</title>
+    <url>/2022/08/28/Guitar-001-Kotaro-Oshio-%E6%8A%BC%E5%B0%BE%E5%85%89%E5%A4%AA%E9%83%8E-Libertang-%E8%87%AA%E7%94%B1%E6%8E%A2%E6%88%88/</url>
+    <content><![CDATA[<p>Kotaro Oshio(押尾光太郎) （<a href="https://www.kotaro-oshio.com/">官網</a>）</p>
+<p>Libertang (自由探戈，又名現實交會三分鐘)</p>
+<p>這是手風琴大師皮耶左拉 (Astor Piazzolla)的大作</p>
+<p>應該有很多人聽過這首曲子才是</p>
+<p>馬友友也曾演奏過這曲子</p>
+<p>想讓大家聽聽吉他版的風味</p>
+<p>由押尾大師操刀, 品質當然不在話下。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PHD_e5QE_N4" title="Libertang(自由探戈)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
       <categories>
-        <category>Murmur</category>
+        <category>Guitar</category>
       </categories>
       <tags>
-        <tag>Murmur</tag>
+        <tag>Guitar</tag>
       </tags>
   </entry>
   <entry>
@@ -41,16 +45,28 @@
       </tags>
   </entry>
   <entry>
-    <title>思考評判</title>
-    <url>/2022/08/25/Murmur-003-%E6%80%9D%E8%80%83%E8%A9%95%E5%88%A4/</url>
-    <content><![CDATA[<p>既然，你的心還會跳</p>
-<p>你就該用心思考</p>
+    <title>Hello Hexo</title>
+    <url>/2022/08/17/Hexo-001-Hello-/</url>
+    <content><![CDATA[<p><a href="https://hexo.io/">Hexo</a> 是快速、簡單的網誌框架，透過 Node.js 執行檔案產生，並支援 GitHub Markdown 的功能。並可搭配布署指令把網站部署到 GitHub Pages。</p>
+<h2 id="起手式"><a href="#起手式" class="headerlink" title="起手式"></a>起手式</h2><h3 id="建立新文章"><a href="#建立新文章" class="headerlink" title="建立新文章"></a>建立新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>相關寫作資訊：<a href="https://hexo.io/docs/writing.html">參考連結</a></p>
+<h3 id="啟動伺服器"><a href="#啟動伺服器" class="headerlink" title="啟動伺服器"></a>啟動伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>相關伺服器資訊: <a href="https://hexo.io/docs/server.html">參考連結</a></p>
+<h3 id="產生靜態檔案"><a href="#產生靜態檔案" class="headerlink" title="產生靜態檔案"></a>產生靜態檔案</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>相關資訊: <a href="https://hexo.io/docs/generating.html">參考連結</a></p>
+<h3 id="布署至遠端伺服器"><a href="#布署至遠端伺服器" class="headerlink" title="布署至遠端伺服器"></a>布署至遠端伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>相關布署資訊: <a href="https://hexo.io/docs/one-command-deployment.html">參考連結</a></p>
+<h3 id="Hexo-相關資訊"><a href="#Hexo-相關資訊" class="headerlink" title="Hexo 相關資訊"></a>Hexo 相關資訊</h3><p><a href="https://hexo.io/">Hexo官方網站</a> </p>
+<p><a href="https://hexo.io/docs/">Hexo文件</a></p>
+<p><a href="https://hexo.io/docs/troubleshooting.html">Hexo排錯</a> </p>
+<p><a href="https://github.com/hexojs/hexo/issues">Hexo GitHub</a>.</p>
 ]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
       <tags>
-        <tag>Murmur</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -68,10 +84,10 @@
       </tags>
   </entry>
   <entry>
-    <title>叉路永存</title>
-    <url>/2022/08/25/Murmur-004-%E5%8F%89%E8%B7%AF%E6%B0%B8%E5%AD%98/</url>
-    <content><![CDATA[<p>別因為你錯過某些路口</p>
-<p>就忘了依然有叉路等著你</p>
+    <title>思考評判</title>
+    <url>/2022/08/25/Murmur-003-%E6%80%9D%E8%80%83%E8%A9%95%E5%88%A4/</url>
+    <content><![CDATA[<p>既然，你的心還會跳</p>
+<p>你就該用心思考</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -81,10 +97,11 @@
       </tags>
   </entry>
   <entry>
-    <title>休息</title>
-    <url>/2022/08/25/Murmur-005-%E4%BC%91%E6%81%AF/</url>
-    <content><![CDATA[<p>不休息的時候</p>
-<p>你永遠不知道「你累了」</p>
+    <title>思想選擇</title>
+    <url>/2022/08/21/Murmur-001-%E6%80%9D%E6%83%B3%E9%81%B8%E6%93%87/</url>
+    <content><![CDATA[<p>正思想然後言論正</p>
+<p>我們無法阻擋別人的言語</p>
+<p>但，我們能選擇進入心房的語句。</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -108,10 +125,23 @@
       </tags>
   </entry>
   <entry>
-    <title>愛情結局</title>
-    <url>/2022/08/25/Murmur-007-%E6%84%9B%E6%83%85%E7%B5%90%E5%B1%80/</url>
-    <content><![CDATA[<p>愛情結局的圓滿與否</p>
-<p>都該在你的心底刻劃痕跡</p>
+    <title>休息</title>
+    <url>/2022/08/25/Murmur-005-%E4%BC%91%E6%81%AF/</url>
+    <content><![CDATA[<p>不休息的時候</p>
+<p>你永遠不知道「你累了」</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>叉路永存</title>
+    <url>/2022/08/25/Murmur-004-%E5%8F%89%E8%B7%AF%E6%B0%B8%E5%AD%98/</url>
+    <content><![CDATA[<p>別因為你錯過某些路口</p>
+<p>就忘了依然有叉路等著你</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -134,11 +164,10 @@
       </tags>
   </entry>
   <entry>
-    <title>想念</title>
-    <url>/2022/08/26/Murmur-011-%E6%83%B3%E5%BF%B5/</url>
-    <content><![CDATA[<p>無論睜眼及閉眼</p>
-<p>若你懂得想念</p>
-<p>它會一直存在</p>
+    <title>愛情結局</title>
+    <url>/2022/08/25/Murmur-007-%E6%84%9B%E6%83%85%E7%B5%90%E5%B1%80/</url>
+    <content><![CDATA[<p>愛情結局的圓滿與否</p>
+<p>都該在你的心底刻劃痕跡</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -152,6 +181,20 @@
     <url>/2022/08/25/Murmur-009-%E6%84%9B%EF%BC%9F/</url>
     <content><![CDATA[<p>有人問：「愛，是什麼？」</p>
 <p>我回答：「愛，永遠都是疑問號！」</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>想念 I</title>
+    <url>/2022/08/26/Murmur-011-%E6%83%B3%E5%BF%B5I/</url>
+    <content><![CDATA[<p>無論睜眼及閉眼</p>
+<p>若你懂得想念</p>
+<p>它會一直存在</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -201,20 +244,6 @@
       </tags>
   </entry>
   <entry>
-    <title>微笑</title>
-    <url>/2022/08/26/Murmur-015-%E5%BE%AE%E7%AC%91/</url>
-    <content><![CDATA[<p>懂得微笑時</p>
-<p>也會懂得冷靜</p>
-<p>Go for your life with calming smile. </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>誇實</title>
     <url>/2022/08/26/Murmur-014-%E8%AA%87%E5%AF%A6/</url>
     <content><![CDATA[<p>當你宣告著未完成的事已完成時</p>
@@ -229,22 +258,184 @@
       </tags>
   </entry>
   <entry>
-    <title>Garbage Warrior</title>
-    <url>/2022/08/21/Poem-001-Garbage-Warrior/</url>
-    <content><![CDATA[<p>我想，你是瘋了<br>存在由無到有的念頭<br>把生命浪費在廢物建築<br>一樣打造美好願景<br>長遠的簡單  </p>
-<p>諾亞的傻夢<br>刻劃在你的腦中<br>條規的局限<br>鎖你在不可前進的窘境<br>喪失犯錯的自由？<br>曙光才逐漸顯露  </p>
-<p>因為自然動了動身子<br>頓時醒悟了嗎？<br>眼前的渺小<br>才對稱了悲哀<br>請別躊躇<br>蹣跚只會帶來接續的苦難  </p>
-<p>我想，你踏出了第一步<br>在奇形怪狀的視界裡<br>我想，我是瘋了<br>為你描述著掙扎的事蹟。  </p>
-<pre><code>                零八年六月十一日  
-</code></pre>
-<p>Ps.<br>這部片，是部值得去看的片子<br>用力想想我們的世界倒底怎麼了</p>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-001-Garbage-Warrior.jpg"></p>
+    <title>微笑</title>
+    <url>/2022/08/26/Murmur-015-%E5%BE%AE%E7%AC%91/</url>
+    <content><![CDATA[<p>懂得微笑時</p>
+<p>也會懂得冷靜</p>
+<p>Go for your life with calming smile. </p>
 ]]></content>
       <categories>
-        <category>Poem</category>
+        <category>Murmur</category>
       </categories>
       <tags>
-        <tag>Poem</tag>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>雨</title>
+    <url>/2022/08/28/Murmur-016-%E9%9B%A8/</url>
+    <content><![CDATA[<p>聞到雨的味道時</p>
+<p>這位哭泣，因為雨小</p>
+<p>那位哭泣，因為雨大 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>相伴</title>
+    <url>/2022/08/28/Murmur-017-%E7%9B%B8%E4%BC%B4/</url>
+    <content><![CDATA[<p>知你</p>
+<p>而且愛你</p>
+<p>是攜手相伴的基石 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>未來</title>
+    <url>/2022/08/28/Murmur-018-%E6%9C%AA%E4%BE%86/</url>
+    <content><![CDATA[<p>當你驚覺時</p>
+<p>它已與你擦身而過</p>
+<p>在前方看著你，是它特有的表徵 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>＄</title>
+    <url>/2022/08/28/Murmur-019-%EF%BC%84/</url>
+    <content><![CDATA[<p>這個符號</p>
+<p>只是你買通生命的必要元件而已</p>
+<p>你該是它的主人、而非它的奴役 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於做</title>
+    <url>/2022/08/28/Murmur-020-%E9%97%9C%E6%96%BC%E5%81%9A/</url>
+    <content><![CDATA[<p>做與不做</p>
+<p>該做與不該做</p>
+<p>不就是一個二乘二矩陣結果嗎？ </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>想念II</title>
+    <url>/2022/08/28/Murmur-021-%E6%83%B3%E5%BF%B5II/</url>
+    <content><![CDATA[<p>無論睜眼或閉眼</p>
+<p>對方的身影如幻燈投射於前</p>
+<p>這等強烈，令人著迷卻也焦慮</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>寶貴的事</title>
+    <url>/2022/08/28/Murmur-022-%E5%AF%B6%E8%B2%B4%E7%9A%84%E4%BA%8B/</url>
+    <content><![CDATA[<p>這些事如果帶給你與他人共同的愉悅</p>
+<p>請保留些時間來做這些事</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>心意</title>
+    <url>/2022/08/28/Murmur-025-%E5%BF%83%E6%84%8F/</url>
+    <content><![CDATA[<p>若是心意不是用心來衡量</p>
+<p>那，要心意做甚!</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Murmur-023-活得如何？</title>
+    <url>/2022/08/28/Murmur-023-%E6%B4%BB%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F/</url>
+    <content><![CDATA[<p>如果你不需猶疑就能回答出你活得如何</p>
+<p>不管是好、是壞</p>
+<p>我都會給你我的掌聲。</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>品質</title>
+    <url>/2022/08/28/Murmur-027-%E5%93%81%E8%B3%AA/</url>
+    <content><![CDATA[<p>用金錢、物質衡量出來的品質</p>
+<p>與精神衡量出來的品質</p>
+<p>那個可以恆久呢？</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>青鳥</title>
+    <url>/2022/08/28/Murmur-024-%E9%9D%92%E9%B3%A5/</url>
+    <content><![CDATA[<p>不要只因還沒看見你的青鳥就躊躇不前</p>
+<p>需要的可能是再一點時間</p>
+<p>若你已可以遠眺見你的青鳥</p>
+<p>真的只要再一點時間的堅持</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>情緒藝術</title>
+    <url>/2022/08/28/Murmur-026-%E6%83%85%E7%B7%92%E8%97%9D%E8%A1%93/</url>
+    <content><![CDATA[<p>以杯量度</p>
+<p>一直處於可搖晃的境界而不溢出</p>
+<p>動而均衡堪稱之於情緒藝術</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
       </tags>
   </entry>
   <entry>
@@ -270,17 +461,16 @@
       </tags>
   </entry>
   <entry>
-    <title>Youth Without Youth</title>
-    <url>/2022/08/22/Poem-004-Youth-Without-Youth/</url>
-    <content><![CDATA[<p>自一開始，你就界定了一個問號<br>放置在劇終的前緣</p>
-<p>一道白光燃燒你老去的軀殼<br>褪去了過往<br>映現短暫的新生<br>是誰睿智、是誰？<br>追溯堅持八十個年頭的方向<br>並著新生的異象<br>刻劃著、隱藏著、逃離著、閃躲著<br>找著你的玫瑰<br>指著你的路</p>
-<p>下一道白光揭開前進的序幕<br>從第一聲梵語對話開始<br>攜著你的愛離開<br>接著囈出的語言<br>等同拿減損的生命<br>鋪出接近那誰堅持的源頭？</p>
-<p>離開，是故事的另一種開始。</p>
-<p>用什麼來交易什麼呢？<br>你的愛是嬌人的玫瑰<br>你卻是凋零的那朵</p>
-<p>第三朵玫瑰<br>自一開始就放置那兒了</p>
-<pre><code>                零九年十一月五日
+    <title>Garbage Warrior</title>
+    <url>/2022/08/21/Poem-001-Garbage-Warrior/</url>
+    <content><![CDATA[<p>我想，你是瘋了<br>存在由無到有的念頭<br>把生命浪費在廢物建築<br>一樣打造美好願景<br>長遠的簡單  </p>
+<p>諾亞的傻夢<br>刻劃在你的腦中<br>條規的局限<br>鎖你在不可前進的窘境<br>喪失犯錯的自由？<br>曙光才逐漸顯露  </p>
+<p>因為自然動了動身子<br>頓時醒悟了嗎？<br>眼前的渺小<br>才對稱了悲哀<br>請別躊躇<br>蹣跚只會帶來接續的苦難  </p>
+<p>我想，你踏出了第一步<br>在奇形怪狀的視界裡<br>我想，我是瘋了<br>為你描述著掙扎的事蹟。  </p>
+<pre><code>                零八年六月十一日  
 </code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-004-Youth-Without-Youth.jpg"></p>
+<p>Ps.<br>這部片，是部值得去看的片子<br>用力想想我們的世界倒底怎麼了</p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-001-Garbage-Warrior.jpg"></p>
 ]]></content>
       <categories>
         <category>Poem</category>
@@ -327,32 +517,17 @@
       </tags>
   </entry>
   <entry>
-    <title>第36個故事 Taipei Exchange</title>
-    <url>/2022/08/22/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange/</url>
-    <content><![CDATA[<p>用故事的開端譜出了場景<br>潟著輕繞的音樂<br>和著淡苦微甜的提拉米蘇<br>品著濃烈的Espresso<br>記憶一開始<br>化成故事<br>故事　　交換著</p>
-<p>帶來了香氣的時間<br>要怎麼描述<br>懂得意像的瞬間<br>執筆繪出<br>色彩與時間的結合<br>帶走了我走進了你</p>
-<p>記憶並行<br>時間共進<br>端著咖啡香的你<br>等候我<br>接續的故事</p>
-<pre><code>                一Ｏ年九月二日
+    <title>Youth Without Youth</title>
+    <url>/2022/08/22/Poem-004-Youth-Without-Youth/</url>
+    <content><![CDATA[<p>自一開始，你就界定了一個問號<br>放置在劇終的前緣</p>
+<p>一道白光燃燒你老去的軀殼<br>褪去了過往<br>映現短暫的新生<br>是誰睿智、是誰？<br>追溯堅持八十個年頭的方向<br>並著新生的異象<br>刻劃著、隱藏著、逃離著、閃躲著<br>找著你的玫瑰<br>指著你的路</p>
+<p>下一道白光揭開前進的序幕<br>從第一聲梵語對話開始<br>攜著你的愛離開<br>接著囈出的語言<br>等同拿減損的生命<br>鋪出接近那誰堅持的源頭？</p>
+<p>離開，是故事的另一種開始。</p>
+<p>用什麼來交易什麼呢？<br>你的愛是嬌人的玫瑰<br>你卻是凋零的那朵</p>
+<p>第三朵玫瑰<br>自一開始就放置那兒了</p>
+<pre><code>                零九年十一月五日
 </code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>親愛的醫生 Dear Doctor</title>
-    <url>/2022/08/22/Poem-009-%E8%A6%AA%E6%84%9B%E7%9A%84%E9%86%AB%E7%94%9F-Dear-Doctor/</url>
-    <content><![CDATA[<p>遠處路環著綠意<br>和著緩緩的步伐<br>夾著松青的吆呼<br>也有嫩芽般的嬉戲<br>在放眼的綠意裡<br>竄來流去</p>
-<p>呼喊著您的到來<br>已然成了安心呼吸的常態<br>對應著您揚著魚尾紋的話語<br>讓緩慢的生命<br>順著您揚起的紋路<br>走得清爽愉悅</p>
-<p>是啊!<br>“他們一個一個離開了村子，過著他們夢寐以求生活。”<br>一屋子滿載的空洞<br>填塞得讓句子喘不過氣<br>交疊的感情<br>在視覺上是一段似而同軌的平行線</p>
-<p>您的離去<br>帶走一些希望與信任<br>帶來一些冷清與悵然<br>掉進思索的同時<br>揚著魚尾紋的笑語<br>伴著一杯熱茶溢起了香氣。</p>
-<pre><code>                一一年一月七日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-009-%E8%A6%AA%E6%84%9B%E7%9A%84%E9%86%AB%E7%94%9F-Dear-Doctor.jpg"></p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-004-Youth-Without-Youth.jpg"></p>
 ]]></content>
       <categories>
         <category>Poem</category>
@@ -379,6 +554,23 @@
       </tags>
   </entry>
   <entry>
+    <title>第36個故事 Taipei Exchange</title>
+    <url>/2022/08/22/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange/</url>
+    <content><![CDATA[<p>用故事的開端譜出了場景<br>潟著輕繞的音樂<br>和著淡苦微甜的提拉米蘇<br>品著濃烈的Espresso<br>記憶一開始<br>化成故事<br>故事　　交換著</p>
+<p>帶來了香氣的時間<br>要怎麼描述<br>懂得意像的瞬間<br>執筆繪出<br>色彩與時間的結合<br>帶走了我走進了你</p>
+<p>記憶並行<br>時間共進<br>端著咖啡香的你<br>等候我<br>接續的故事</p>
+<pre><code>                一Ｏ年九月二日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>夏天協奏曲 Summer times</title>
     <url>/2022/08/22/Poem-008-%E5%A4%8F%E5%A4%A9%E5%8D%94%E5%A5%8F%E6%9B%B2-Summer-times/</url>
     <content><![CDATA[<p>用六個連結點<br>就可以關連起妳、我<br>那相遇的島嶼<br>不是只有過客能駐足<br>不是只有旅人能去留</p>
@@ -388,6 +580,24 @@
 <pre><code>                一Ｏ年九月三日
 </code></pre>
 <p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-008-%E5%A4%8F%E5%A4%A9%E5%8D%94%E5%A5%8F%E6%9B%B2-Summer-times.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>親愛的醫生 Dear Doctor</title>
+    <url>/2022/08/22/Poem-009-%E8%A6%AA%E6%84%9B%E7%9A%84%E9%86%AB%E7%94%9F-Dear-Doctor/</url>
+    <content><![CDATA[<p>遠處路環著綠意<br>和著緩緩的步伐<br>夾著松青的吆呼<br>也有嫩芽般的嬉戲<br>在放眼的綠意裡<br>竄來流去</p>
+<p>呼喊著您的到來<br>已然成了安心呼吸的常態<br>對應著您揚著魚尾紋的話語<br>讓緩慢的生命<br>順著您揚起的紋路<br>走得清爽愉悅</p>
+<p>是啊!<br>“他們一個一個離開了村子，過著他們夢寐以求生活。”<br>一屋子滿載的空洞<br>填塞得讓句子喘不過氣<br>交疊的感情<br>在視覺上是一段似而同軌的平行線</p>
+<p>您的離去<br>帶走一些希望與信任<br>帶來一些冷清與悵然<br>掉進思索的同時<br>揚著魚尾紋的笑語<br>伴著一杯熱茶溢起了香氣。</p>
+<pre><code>                一一年一月七日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-009-%E8%A6%AA%E6%84%9B%E7%9A%84%E9%86%AB%E7%94%9F-Dear-Doctor.jpg"></p>
 ]]></content>
       <categories>
         <category>Poem</category>
@@ -487,31 +697,6 @@
       </categories>
       <tags>
         <tag>PostgreSQL</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>初探 Hexo</title>
-    <url>/2022/08/17/hello-hexo/</url>
-    <content><![CDATA[<p><a href="https://hexo.io/">Hexo</a> 是快速、簡單的網誌框架，透過 Node.js 執行檔案產生，並支援 GitHub Markdown 的功能。並可搭配布署指令把網站部署到 GitHub Pages。</p>
-<h2 id="起手式"><a href="#起手式" class="headerlink" title="起手式"></a>起手式</h2><h3 id="建立新文章"><a href="#建立新文章" class="headerlink" title="建立新文章"></a>建立新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>相關寫作資訊：<a href="https://hexo.io/docs/writing.html">參考連結</a></p>
-<h3 id="啟動伺服器"><a href="#啟動伺服器" class="headerlink" title="啟動伺服器"></a>啟動伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>相關伺服器資訊: <a href="https://hexo.io/docs/server.html">參考連結</a></p>
-<h3 id="產生靜態檔案"><a href="#產生靜態檔案" class="headerlink" title="產生靜態檔案"></a>產生靜態檔案</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>相關資訊: <a href="https://hexo.io/docs/generating.html">參考連結</a></p>
-<h3 id="布署至遠端伺服器"><a href="#布署至遠端伺服器" class="headerlink" title="布署至遠端伺服器"></a>布署至遠端伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>相關布署資訊: <a href="https://hexo.io/docs/one-command-deployment.html">參考連結</a></p>
-<h3 id="Hexo-相關資訊"><a href="#Hexo-相關資訊" class="headerlink" title="Hexo 相關資訊"></a>Hexo 相關資訊</h3><p><a href="https://hexo.io/">Hexo官方網站</a> </p>
-<p><a href="https://hexo.io/docs/">Hexo文件</a></p>
-<p><a href="https://hexo.io/docs/troubleshooting.html">Hexo排錯</a> </p>
-<p><a href="https://github.com/hexojs/hexo/issues">Hexo GitHub</a>.</p>
-]]></content>
-      <tags>
-        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>

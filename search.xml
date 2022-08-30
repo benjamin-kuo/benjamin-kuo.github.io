@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Kotaro Oshio(押尾光太郎) - Libertang(自由探戈)</title>
-    <url>/2022/08/28/Guitar-002-Kotaro-Oshio-%E6%8A%BC%E5%B0%BE%E5%85%89%E5%A4%AA%E9%83%8E-Libertang-%E8%87%AA%E7%94%B1%E6%8E%A2%E6%88%88/</url>
-    <content><![CDATA[<p>Kotaro Oshio(押尾光太郎) （<a href="https://www.kotaro-oshio.com/">官網</a>）</p>
-<p>Libertang (自由探戈，又名現實交會三分鐘)</p>
-<p>這是手風琴大師皮耶左拉 (Astor Piazzolla)的大作</p>
-<p>應該有很多人聽過這首曲子才是</p>
-<p>馬友友也曾演奏過這曲子</p>
-<p>想讓大家聽聽吉他版的風味</p>
-<p>由押尾桑操刀, 品質當然不在話下。</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PHD_e5QE_N4" title="Libertang(自由探戈)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
-      <categories>
-        <category>Guitar</category>
-      </categories>
-      <tags>
-        <tag>Guitar</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Masaaki Kishibe(岸部真明) - Hajimari(啟航)</title>
     <url>/2022/08/28/Guitar-003-Masaaki-Kishibe-%E5%B2%B8%E9%83%A8%E7%9C%9F%E6%98%8E-Hajimari-%E5%95%9F%E8%88%AA/</url>
     <content><![CDATA[<p>Masaaki Kishibe(岸部真明)（<a href="https://masaaki-kishibe.com/">官網</a>）</p>
@@ -64,6 +46,38 @@
       </tags>
   </entry>
   <entry>
+    <title>Kotaro Oshio(押尾光太郎) - Libertang(自由探戈)</title>
+    <url>/2022/08/28/Guitar-002-Kotaro-Oshio-%E6%8A%BC%E5%B0%BE%E5%85%89%E5%A4%AA%E9%83%8E-Libertang-%E8%87%AA%E7%94%B1%E6%8E%A2%E6%88%88/</url>
+    <content><![CDATA[<p>Kotaro Oshio(押尾光太郎) （<a href="https://www.kotaro-oshio.com/">官網</a>）</p>
+<p>Libertang (自由探戈，又名現實交會三分鐘)</p>
+<p>這是手風琴大師皮耶左拉 (Astor Piazzolla)的大作</p>
+<p>應該有很多人聽過這首曲子才是</p>
+<p>馬友友也曾演奏過這曲子</p>
+<p>想讓大家聽聽吉他版的風味</p>
+<p>由押尾桑操刀, 品質當然不在話下。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PHD_e5QE_N4" title="Libertang(自由探戈)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+      <categories>
+        <category>Guitar</category>
+      </categories>
+      <tags>
+        <tag>Guitar</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>思想選擇</title>
+    <url>/2022/08/21/Murmur-001-%E6%80%9D%E6%83%B3%E9%81%B8%E6%93%87/</url>
+    <content><![CDATA[<p>正思想然後言論正</p>
+<p>我們無法阻擋別人的言語</p>
+<p>但，我們能選擇進入心房的語句。</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>反射機制</title>
     <url>/2022/08/23/Java-001-%E5%8F%8D%E5%B0%84%E6%A9%9F%E5%88%B6/</url>
     <content><![CDATA[<p>Reflection is a feature in the Java programming language. It allows an executing Java program to examine or “introspect” upon itself, and manipulate internal properties of the program. For example, it’s possible for a Java class to obtain the names of all its members and display them. (<a href="https://www.oracle.com/technical-resources/articles/java/javareflection.html">https://www.oracle.com/technical-resources/articles/java/javareflection.html</a>)</p>
@@ -87,6 +101,19 @@
       </categories>
       <tags>
         <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>叉路永存</title>
+    <url>/2022/08/25/Murmur-004-%E5%8F%89%E8%B7%AF%E6%B0%B8%E5%AD%98/</url>
+    <content><![CDATA[<p>別因為你錯過某些路口</p>
+<p>就忘了依然有叉路等著你</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
       </tags>
   </entry>
   <entry>
@@ -115,37 +142,10 @@
       </tags>
   </entry>
   <entry>
-    <title>思想選擇</title>
-    <url>/2022/08/21/Murmur-001-%E6%80%9D%E6%83%B3%E9%81%B8%E6%93%87/</url>
-    <content><![CDATA[<p>正思想然後言論正</p>
-<p>我們無法阻擋別人的言語</p>
-<p>但，我們能選擇進入心房的語句。</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>思考評判</title>
-    <url>/2022/08/25/Murmur-003-%E6%80%9D%E8%80%83%E8%A9%95%E5%88%A4/</url>
-    <content><![CDATA[<p>既然，你的心還會跳</p>
-<p>你就該用心思考</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>叉路永存</title>
-    <url>/2022/08/25/Murmur-004-%E5%8F%89%E8%B7%AF%E6%B0%B8%E5%AD%98/</url>
-    <content><![CDATA[<p>別因為你錯過某些路口</p>
-<p>就忘了依然有叉路等著你</p>
+    <title>休息</title>
+    <url>/2022/08/25/Murmur-005-%E4%BC%91%E6%81%AF/</url>
+    <content><![CDATA[<p>不休息的時候</p>
+<p>你永遠不知道「你累了」</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -169,10 +169,24 @@
       </tags>
   </entry>
   <entry>
-    <title>休息</title>
-    <url>/2022/08/25/Murmur-005-%E4%BC%91%E6%81%AF/</url>
-    <content><![CDATA[<p>不休息的時候</p>
-<p>你永遠不知道「你累了」</p>
+    <title>拿捏妝扮</title>
+    <url>/2022/08/25/Murmur-006-%E6%8B%BF%E6%8D%8F%E5%A6%9D%E6%89%AE/</url>
+    <content><![CDATA[<p>化妝與喬裝只是一線之差</p>
+<p>喬裝與偽裝僅距咫呎</p>
+<p>拿捏失當就是循環的開始</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>思考評判</title>
+    <url>/2022/08/25/Murmur-003-%E6%80%9D%E8%80%83%E8%A9%95%E5%88%A4/</url>
+    <content><![CDATA[<p>既然，你的心還會跳</p>
+<p>你就該用心思考</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -195,11 +209,10 @@
       </tags>
   </entry>
   <entry>
-    <title>拿捏妝扮</title>
-    <url>/2022/08/25/Murmur-006-%E6%8B%BF%E6%8D%8F%E5%A6%9D%E6%89%AE/</url>
-    <content><![CDATA[<p>化妝與喬裝只是一線之差</p>
-<p>喬裝與偽裝僅距咫呎</p>
-<p>拿捏失當就是循環的開始</p>
+    <title>轉彎</title>
+    <url>/2022/08/25/Murmur-010-%E8%BD%89%E5%BD%8E/</url>
+    <content><![CDATA[<p>碰到叉路時，你總須選擇彎向</p>
+<p>不然，撞牆的慘劇免不了發生</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -226,19 +239,6 @@
     <url>/2022/08/25/Murmur-008-%E4%BA%BA%E7%94%9F%E4%B9%8B%E8%B7%AF/</url>
     <content><![CDATA[<p>人生難得完美</p>
 <p>所以需要懂得如何不完美地往下走</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>轉彎</title>
-    <url>/2022/08/25/Murmur-010-%E8%BD%89%E5%BD%8E/</url>
-    <content><![CDATA[<p>碰到叉路時，你總須選擇彎向</p>
-<p>不然，撞牆的慘劇免不了發生</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -276,20 +276,6 @@
       </tags>
   </entry>
   <entry>
-    <title>誇實</title>
-    <url>/2022/08/26/Murmur-014-%E8%AA%87%E5%AF%A6/</url>
-    <content><![CDATA[<p>當你宣告著未完成的事已完成時</p>
-<p>懸空的心情</p>
-<p>理應油然而起 </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>體會快樂</title>
     <url>/2022/08/26/Murmur-013-%E9%AB%94%E6%9C%83%E5%BF%AB%E6%A8%82/</url>
     <content><![CDATA[<p>懂得不快樂後</p>
@@ -303,11 +289,11 @@
       </tags>
   </entry>
   <entry>
-    <title>微笑</title>
-    <url>/2022/08/26/Murmur-015-%E5%BE%AE%E7%AC%91/</url>
-    <content><![CDATA[<p>懂得微笑時</p>
-<p>也會懂得冷靜</p>
-<p>Go for your life with calming smile. </p>
+    <title>誇實</title>
+    <url>/2022/08/26/Murmur-014-%E8%AA%87%E5%AF%A6/</url>
+    <content><![CDATA[<p>當你宣告著未完成的事已完成時</p>
+<p>懸空的心情</p>
+<p>理應油然而起 </p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -331,6 +317,34 @@
       </tags>
   </entry>
   <entry>
+    <title>未來</title>
+    <url>/2022/08/28/Murmur-018-%E6%9C%AA%E4%BE%86/</url>
+    <content><![CDATA[<p>當你驚覺時</p>
+<p>它已與你擦身而過</p>
+<p>在前方看著你，是它特有的表徵 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>微笑</title>
+    <url>/2022/08/26/Murmur-015-%E5%BE%AE%E7%AC%91/</url>
+    <content><![CDATA[<p>懂得微笑時</p>
+<p>也會懂得冷靜</p>
+<p>Go for your life with calming smile. </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>相伴</title>
     <url>/2022/08/28/Murmur-017-%E7%9B%B8%E4%BC%B4/</url>
     <content><![CDATA[<p>知你</p>
@@ -345,11 +359,39 @@
       </tags>
   </entry>
   <entry>
-    <title>未來</title>
-    <url>/2022/08/28/Murmur-018-%E6%9C%AA%E4%BE%86/</url>
-    <content><![CDATA[<p>當你驚覺時</p>
-<p>它已與你擦身而過</p>
-<p>在前方看著你，是它特有的表徵 </p>
+    <title>寶貴的事</title>
+    <url>/2022/08/28/Murmur-022-%E5%AF%B6%E8%B2%B4%E7%9A%84%E4%BA%8B/</url>
+    <content><![CDATA[<p>這些事如果帶給你與他人共同的愉悅</p>
+<p>請保留些時間來做這些事</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>活得如何？</title>
+    <url>/2022/08/28/Murmur-023-%E6%B4%BB%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F/</url>
+    <content><![CDATA[<p>如果你不需猶疑就能回答出你活得如何</p>
+<p>不管是好、是壞</p>
+<p>我都會給你我的掌聲。</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>青鳥</title>
+    <url>/2022/08/28/Murmur-024-%E9%9D%92%E9%B3%A5/</url>
+    <content><![CDATA[<p>不要只因還沒看見你的青鳥就躊躇不前</p>
+<p>需要的可能是再一點時間</p>
+<p>若你已可以遠眺見你的青鳥</p>
+<p>真的只要再一點時間的堅持</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -401,24 +443,11 @@
       </tags>
   </entry>
   <entry>
-    <title>寶貴的事</title>
-    <url>/2022/08/28/Murmur-022-%E5%AF%B6%E8%B2%B4%E7%9A%84%E4%BA%8B/</url>
-    <content><![CDATA[<p>這些事如果帶給你與他人共同的愉悅</p>
-<p>請保留些時間來做這些事</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Murmur-023-活得如何？</title>
-    <url>/2022/08/28/Murmur-023-%E6%B4%BB%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F/</url>
-    <content><![CDATA[<p>如果你不需猶疑就能回答出你活得如何</p>
-<p>不管是好、是壞</p>
-<p>我都會給你我的掌聲。</p>
+    <title>情緒藝術</title>
+    <url>/2022/08/28/Murmur-026-%E6%83%85%E7%B7%92%E8%97%9D%E8%A1%93/</url>
+    <content><![CDATA[<p>以杯量度</p>
+<p>一直處於可搖晃的境界而不溢出</p>
+<p>動而均衡堪稱之於情緒藝術</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -441,68 +470,6 @@
       </tags>
   </entry>
   <entry>
-    <title>青鳥</title>
-    <url>/2022/08/28/Murmur-024-%E9%9D%92%E9%B3%A5/</url>
-    <content><![CDATA[<p>不要只因還沒看見你的青鳥就躊躇不前</p>
-<p>需要的可能是再一點時間</p>
-<p>若你已可以遠眺見你的青鳥</p>
-<p>真的只要再一點時間的堅持</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>品質</title>
-    <url>/2022/08/28/Murmur-027-%E5%93%81%E8%B3%AA/</url>
-    <content><![CDATA[<p>用金錢、物質衡量出來的品質</p>
-<p>與精神衡量出來的品質</p>
-<p>那個可以恆久呢？</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>情緒藝術</title>
-    <url>/2022/08/28/Murmur-026-%E6%83%85%E7%B7%92%E8%97%9D%E8%A1%93/</url>
-    <content><![CDATA[<p>以杯量度</p>
-<p>一直處於可搖晃的境界而不溢出</p>
-<p>動而均衡堪稱之於情緒藝術</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Garbage Warrior</title>
-    <url>/2022/08/21/Poem-001-Garbage-Warrior/</url>
-    <content><![CDATA[<p>我想，你是瘋了<br>存在由無到有的念頭<br>把生命浪費在廢物建築<br>一樣打造美好願景<br>長遠的簡單  </p>
-<p>諾亞的傻夢<br>刻劃在你的腦中<br>條規的局限<br>鎖你在不可前進的窘境<br>喪失犯錯的自由？<br>曙光才逐漸顯露  </p>
-<p>因為自然動了動身子<br>頓時醒悟了嗎？<br>眼前的渺小<br>才對稱了悲哀<br>請別躊躇<br>蹣跚只會帶來接續的苦難  </p>
-<p>我想，你踏出了第一步<br>在奇形怪狀的視界裡<br>我想，我是瘋了<br>為你描述著掙扎的事蹟。  </p>
-<pre><code>                零八年六月十一日  
-</code></pre>
-<p>Ps.<br>這部片，是部值得去看的片子<br>用力想想我們的世界倒底怎麼了</p>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-001-Garbage-Warrior.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>The Great Debaters</title>
     <url>/2022/08/22/Poem-003-The-Great-Debaters/</url>
     <content><![CDATA[<p><span style="color:red">Who’s the judge?</span><br>The judge is God.<br><span style="color:red">Why is God?</span><br>Because he decides who wins or loses not my opponent.<br><span style="color:red">Who is your opponent?</span><br>He doesn’t exist.<br><span style="color:red">Why he does not exist?</span><br>Because he is one voice of dissent against the truth that I speak.</p>
@@ -522,6 +489,20 @@
       </tags>
   </entry>
   <entry>
+    <title>品質</title>
+    <url>/2022/08/28/Murmur-027-%E5%93%81%E8%B3%AA/</url>
+    <content><![CDATA[<p>用金錢、物質衡量出來的品質</p>
+<p>與精神衡量出來的品質</p>
+<p>那個可以恆久呢？</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Darfur Now</title>
     <url>/2022/08/22/Poem-002-Darfur-Now/</url>
     <content><![CDATA[<p>你的角色是那一個？</p>
@@ -535,6 +516,26 @@
 </code></pre>
 <p>Ps.<br>這部片在描述Darfur的現狀<br>種族仇殺、暴力綿延<br>透過一些人的努力，希望展現一點光明<br>加油。</p>
 <p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-002-Darfur-Now.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Youth Without Youth</title>
+    <url>/2022/08/22/Poem-004-Youth-Without-Youth/</url>
+    <content><![CDATA[<p>自一開始，你就界定了一個問號<br>放置在劇終的前緣</p>
+<p>一道白光燃燒你老去的軀殼<br>褪去了過往<br>映現短暫的新生<br>是誰睿智、是誰？<br>追溯堅持八十個年頭的方向<br>並著新生的異象<br>刻劃著、隱藏著、逃離著、閃躲著<br>找著你的玫瑰<br>指著你的路</p>
+<p>下一道白光揭開前進的序幕<br>從第一聲梵語對話開始<br>攜著你的愛離開<br>接著囈出的語言<br>等同拿減損的生命<br>鋪出接近那誰堅持的源頭？</p>
+<p>離開，是故事的另一種開始。</p>
+<p>用什麼來交易什麼呢？<br>你的愛是嬌人的玫瑰<br>你卻是凋零的那朵</p>
+<p>第三朵玫瑰<br>自一開始就放置那兒了</p>
+<pre><code>                零九年十一月五日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-004-Youth-Without-Youth.jpg"></p>
 ]]></content>
       <categories>
         <category>Poem</category>
@@ -562,17 +563,33 @@
       </tags>
   </entry>
   <entry>
-    <title>Youth Without Youth</title>
-    <url>/2022/08/22/Poem-004-Youth-Without-Youth/</url>
-    <content><![CDATA[<p>自一開始，你就界定了一個問號<br>放置在劇終的前緣</p>
-<p>一道白光燃燒你老去的軀殼<br>褪去了過往<br>映現短暫的新生<br>是誰睿智、是誰？<br>追溯堅持八十個年頭的方向<br>並著新生的異象<br>刻劃著、隱藏著、逃離著、閃躲著<br>找著你的玫瑰<br>指著你的路</p>
-<p>下一道白光揭開前進的序幕<br>從第一聲梵語對話開始<br>攜著你的愛離開<br>接著囈出的語言<br>等同拿減損的生命<br>鋪出接近那誰堅持的源頭？</p>
-<p>離開，是故事的另一種開始。</p>
-<p>用什麼來交易什麼呢？<br>你的愛是嬌人的玫瑰<br>你卻是凋零的那朵</p>
-<p>第三朵玫瑰<br>自一開始就放置那兒了</p>
-<pre><code>                零九年十一月五日
+    <title>Garbage Warrior</title>
+    <url>/2022/08/21/Poem-001-Garbage-Warrior/</url>
+    <content><![CDATA[<p>我想，你是瘋了<br>存在由無到有的念頭<br>把生命浪費在廢物建築<br>一樣打造美好願景<br>長遠的簡單  </p>
+<p>諾亞的傻夢<br>刻劃在你的腦中<br>條規的局限<br>鎖你在不可前進的窘境<br>喪失犯錯的自由？<br>曙光才逐漸顯露  </p>
+<p>因為自然動了動身子<br>頓時醒悟了嗎？<br>眼前的渺小<br>才對稱了悲哀<br>請別躊躇<br>蹣跚只會帶來接續的苦難  </p>
+<p>我想，你踏出了第一步<br>在奇形怪狀的視界裡<br>我想，我是瘋了<br>為你描述著掙扎的事蹟。  </p>
+<pre><code>                零八年六月十一日  
 </code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-004-Youth-Without-Youth.jpg"></p>
+<p>Ps.<br>這部片，是部值得去看的片子<br>用力想想我們的世界倒底怎麼了</p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-001-Garbage-Warrior.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>(500) Days of Summer</title>
+    <url>/2022/08/22/Poem-006-500-Days-of-Summer/</url>
+    <content><![CDATA[<p>原來生命的線條呈現著某種弧度<br>開始的交會<br>只是時間剛好<br>地點恰巧<br>屬於你的命運<br>不屬於妳的命運<br>挑明地講，卻總是有人愛往下跳</p>
+<p>要花一些時間觀察妳的可愛<br>用一點心思瞭解與妳的互動<br>你的前行<br>妳的前行<br>交會的開始<br>交會的結束<br>要花一些時間觀察對妳的恨<br>用一點心思回收對妳的喜歡<br>不屬於你的命運，關閉<br>屬於妳的命運，開啟</p>
+<p>時間的刻痕<br>並不是想像中的深<br>大多數的365天<br>不曾記得些什麼<br>在時間剛好<br>地點恰巧<br>屬於他的命運、妳的命運<br>屬於你的命運、她的命運<br>跨了出去<br>交會才會無限延申</p>
+<pre><code>                一Ｏ年五月二十六日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-006-500-Days-of-Summer.jpg"></p>
 ]]></content>
       <categories>
         <category>Poem</category>
@@ -608,23 +625,6 @@
 <pre><code>                一Ｏ年九月三日
 </code></pre>
 <p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-008-%E5%A4%8F%E5%A4%A9%E5%8D%94%E5%A5%8F%E6%9B%B2-Summer-times.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>(500) Days of Summer</title>
-    <url>/2022/08/22/Poem-006-500-Days-of-Summer/</url>
-    <content><![CDATA[<p>原來生命的線條呈現著某種弧度<br>開始的交會<br>只是時間剛好<br>地點恰巧<br>屬於你的命運<br>不屬於妳的命運<br>挑明地講，卻總是有人愛往下跳</p>
-<p>要花一些時間觀察妳的可愛<br>用一點心思瞭解與妳的互動<br>你的前行<br>妳的前行<br>交會的開始<br>交會的結束<br>要花一些時間觀察對妳的恨<br>用一點心思回收對妳的喜歡<br>不屬於你的命運，關閉<br>屬於妳的命運，開啟</p>
-<p>時間的刻痕<br>並不是想像中的深<br>大多數的365天<br>不曾記得些什麼<br>在時間剛好<br>地點恰巧<br>屬於他的命運、妳的命運<br>屬於你的命運、她的命運<br>跨了出去<br>交會才會無限延申</p>
-<pre><code>                一Ｏ年五月二十六日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-006-500-Days-of-Summer.jpg"></p>
 ]]></content>
       <categories>
         <category>Poem</category>
@@ -670,26 +670,6 @@
       </tags>
   </entry>
   <entry>
-    <title>記錄</title>
-    <url>/2022/08/22/Poem-011-%E8%A8%98%E9%8C%84/</url>
-    <content><![CDATA[<p>關於生命的描述<br>擺在第幾順位<br>關於靈魂的去留<br>置前或後<br>把雙眼聚焦<br>仔細定位</p>
-<p>原本就是脆弱的爭戰<br>從他方來<br>自這裡去<br>短促自由<br>快門捕捉瞬間<br>是你料想得到<br>是我想像不及</p>
-<p>關於所有的歷程<br>不該假手他人<br>要呼吸的自我<br>在你剝奪我之前<br>逃脫</p>
-<p>卡擦、停止呼吸後<br>流傳</p>
-<pre><code>                零八年六月七日				
-</code></pre>
-<p>Ps.<br>以下是兩張朋友想要我去挖掘的相片<br>我想，我很謝謝她提醒。	</p>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-1.jpg" alt=" The Falling Man(911)"></p>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-2.jpg" alt="Trang Bang after a VNAF napalm attack.">				</p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>景氣</title>
     <url>/2022/08/22/Poem-012-%E6%99%AF%E6%B0%A3/</url>
     <content><![CDATA[<p>吹來一陣涼風<br>拉緊衣領<br>走的步伐呈現休息的狀態<br>煥散的眼神<br>望向<br>那一點星光遠遠的地方</p>
@@ -699,24 +679,6 @@
 <p>它，只是一個無法解釋的名詞<br>不懂或懂<br>存在的意義遠小於擲出去的履歷<br>不想聽惠帝的話語<br>不想看杜工部的文詞<br>捨件衣裳給孩子吧！<br>捨碗飯給溫飽吧！<br>是因為吶喊聲音太小？<br>還是因為距離太遠？<br>只是小小的祈求<br>誰有聽見？</p>
 <pre><code>                零八年十二月八日
 </code></pre>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>冰路</title>
-    <url>/2022/08/22/Poem-013-%E5%86%B0%E8%B7%AF/</url>
-    <content><![CDATA[<p>襲來的風<br>紅了雙頰<br>蒼白了唇</p>
-<p>顫著的手<br>曳拖身軀<br>路映前方</p>
-<p>來時風雪<br>冷冽<br>回首<br>望穿白原</p>
-<p>走過<br>白皓印下<br>接續<br>前進</p>
-<pre><code>                一一年一月二十五日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-013-%E5%86%B0%E8%B7%AF.jpg"></p>
 ]]></content>
       <categories>
         <category>Poem</category>
@@ -742,6 +704,44 @@
       </categories>
       <tags>
         <tag>PostgreSQL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>冰路</title>
+    <url>/2022/08/22/Poem-013-%E5%86%B0%E8%B7%AF/</url>
+    <content><![CDATA[<p>襲來的風<br>紅了雙頰<br>蒼白了唇</p>
+<p>顫著的手<br>曳拖身軀<br>路映前方</p>
+<p>來時風雪<br>冷冽<br>回首<br>望穿白原</p>
+<p>走過<br>白皓印下<br>接續<br>前進</p>
+<pre><code>                一一年一月二十五日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-013-%E5%86%B0%E8%B7%AF.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>記錄</title>
+    <url>/2022/08/22/Poem-011-%E8%A8%98%E9%8C%84/</url>
+    <content><![CDATA[<p>關於生命的描述<br>擺在第幾順位<br>關於靈魂的去留<br>置前或後<br>把雙眼聚焦<br>仔細定位</p>
+<p>原本就是脆弱的爭戰<br>從他方來<br>自這裡去<br>短促自由<br>快門捕捉瞬間<br>是你料想得到<br>是我想像不及</p>
+<p>關於所有的歷程<br>不該假手他人<br>要呼吸的自我<br>在你剝奪我之前<br>逃脫</p>
+<p>卡擦、停止呼吸後<br>流傳</p>
+<pre><code>                零八年六月七日				
+</code></pre>
+<p>Ps.<br>以下是兩張朋友想要我去挖掘的相片<br>我想，我很謝謝她提醒。	</p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-1.jpg" alt=" The Falling Man(911)"></p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-2.jpg" alt="Trang Bang after a VNAF napalm attack.">				</p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
       </tags>
   </entry>
 </search>

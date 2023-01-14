@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Kotaro Oshio(押尾光太郎) - Libertang(自由探戈)</title>
+    <url>/2022/08/28/Guitar-002-Kotaro-Oshio-%E6%8A%BC%E5%B0%BE%E5%85%89%E5%A4%AA%E9%83%8E-Libertang-%E8%87%AA%E7%94%B1%E6%8E%A2%E6%88%88/</url>
+    <content><![CDATA[<p>Kotaro Oshio(押尾光太郎) （<a href="https://www.kotaro-oshio.com/">官網</a>）</p>
+<p>Libertang (自由探戈，又名現實交會三分鐘)</p>
+<p>這是手風琴大師皮耶左拉 (Astor Piazzolla)的大作</p>
+<p>應該有很多人聽過這首曲子才是</p>
+<p>馬友友也曾演奏過這曲子</p>
+<p>想讓大家聽聽吉他版的風味</p>
+<p>由押尾桑操刀, 品質當然不在話下。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PHD_e5QE_N4" title="Libertang(自由探戈)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+      <categories>
+        <category>Guitar</category>
+      </categories>
+      <tags>
+        <tag>Guitar</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Kotaro Oshio(押尾光太郎) - あの夏の白い雲(白色夏季雲)</title>
     <url>/2022/08/28/Guitar-001-Kotaro-Oshio-%E6%8A%BC%E5%B0%BE%E5%85%89%E5%A4%AA%E9%83%8E-%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%AE%E7%99%BD%E3%81%84%E9%9B%B2-%E7%99%BD%E8%89%B2%E5%A4%8F%E5%AD%A3%E9%9B%B2/</url>
     <content><![CDATA[<p>Kotaro Oshio(押尾光太郎) （<a href="https://www.kotaro-oshio.com/">官網</a>）</p>
@@ -16,6 +34,28 @@
 <p>給各位一首他的曲子</p>
 <p>曲名叫：あの夏の白い雲(白色夏季雲)</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lf95QMuaoY8" title="あの夏の白い雲(白色夏季雲)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+      <categories>
+        <category>Guitar</category>
+      </categories>
+      <tags>
+        <tag>Guitar</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Masaaki Kishibe(岸部真明) - Hajimari(啟航)</title>
+    <url>/2022/08/28/Guitar-003-Masaaki-Kishibe-%E5%B2%B8%E9%83%A8%E7%9C%9F%E6%98%8E-Hajimari-%E5%95%9F%E8%88%AA/</url>
+    <content><![CDATA[<p>Masaaki Kishibe(岸部真明)（<a href="https://masaaki-kishibe.com/">官網</a>）</p>
+<p>日本的一個Finger Style名人</p>
+<p>1964出生在大阪</p>
+<p>有人說他的音樂有一種清新的感覺</p>
+<p>我也認為的確有他自己清新的味道</p>
+<p>對這位吉他大師的第一個印象就是他好像都戴著帽子</p>
+<p>整個Fu就跟其他的吉他手不太一樣</p>
+<p>網路上並沒有太多關於他的介紹</p>
+<p>我還是去挖了他不少的音樂來聽聽看</p>
+<p>選一首自己認為很舒服的曲子給大家</p>
+<p>曲名叫：Hajimari(啟航) </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHdPy8CfzXE" title="Hajimari(啟航)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
       <categories>
         <category>Guitar</category>
       </categories>
@@ -48,6 +88,31 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello Hexo</title>
+    <url>/2022/08/17/Hexo-001-Hello-/</url>
+    <content><![CDATA[<p><a href="https://hexo.io/">Hexo</a> 是快速、簡單的網誌框架，透過 Node.js 執行檔案產生，並支援 GitHub Markdown 的功能。並可搭配布署指令把網站部署到 GitHub Pages。</p>
+<h2 id="起手式"><a href="#起手式" class="headerlink" title="起手式"></a>起手式</h2><h3 id="建立新文章"><a href="#建立新文章" class="headerlink" title="建立新文章"></a>建立新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>相關寫作資訊：<a href="https://hexo.io/docs/writing.html">參考連結</a></p>
+<h3 id="啟動伺服器"><a href="#啟動伺服器" class="headerlink" title="啟動伺服器"></a>啟動伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>相關伺服器資訊: <a href="https://hexo.io/docs/server.html">參考連結</a></p>
+<h3 id="產生靜態檔案"><a href="#產生靜態檔案" class="headerlink" title="產生靜態檔案"></a>產生靜態檔案</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>相關資訊: <a href="https://hexo.io/docs/generating.html">參考連結</a></p>
+<h3 id="布署至遠端伺服器"><a href="#布署至遠端伺服器" class="headerlink" title="布署至遠端伺服器"></a>布署至遠端伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>相關布署資訊: <a href="https://hexo.io/docs/one-command-deployment.html">參考連結</a></p>
+<h3 id="Hexo-相關資訊"><a href="#Hexo-相關資訊" class="headerlink" title="Hexo 相關資訊"></a>Hexo 相關資訊</h3><p><a href="https://hexo.io/">Hexo官方網站</a> </p>
+<p><a href="https://hexo.io/docs/">Hexo文件</a></p>
+<p><a href="https://hexo.io/docs/troubleshooting.html">Hexo排錯</a> </p>
+<p><a href="https://github.com/hexojs/hexo/issues">Hexo GitHub</a>.</p>
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>反射機制</title>
     <url>/2022/08/23/Java-001-%E5%8F%8D%E5%B0%84%E6%A9%9F%E5%88%B6/</url>
     <content><![CDATA[<p>Reflection is a feature in the Java programming language. It allows an executing Java program to examine or “introspect” upon itself, and manipulate internal properties of the program. For example, it’s possible for a Java class to obtain the names of all its members and display them. (<a href="https://www.oracle.com/technical-resources/articles/java/javareflection.html">https://www.oracle.com/technical-resources/articles/java/javareflection.html</a>)</p>
@@ -71,46 +136,6 @@
       </categories>
       <tags>
         <tag>Java</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Masaaki Kishibe(岸部真明) - Hajimari(啟航)</title>
-    <url>/2022/08/28/Guitar-003-Masaaki-Kishibe-%E5%B2%B8%E9%83%A8%E7%9C%9F%E6%98%8E-Hajimari-%E5%95%9F%E8%88%AA/</url>
-    <content><![CDATA[<p>Masaaki Kishibe(岸部真明)（<a href="https://masaaki-kishibe.com/">官網</a>）</p>
-<p>日本的一個Finger Style名人</p>
-<p>1964出生在大阪</p>
-<p>有人說他的音樂有一種清新的感覺</p>
-<p>我也認為的確有他自己清新的味道</p>
-<p>對這位吉他大師的第一個印象就是他好像都戴著帽子</p>
-<p>整個Fu就跟其他的吉他手不太一樣</p>
-<p>網路上並沒有太多關於他的介紹</p>
-<p>我還是去挖了他不少的音樂來聽聽看</p>
-<p>選一首自己認為很舒服的曲子給大家</p>
-<p>曲名叫：Hajimari(啟航) </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHdPy8CfzXE" title="Hajimari(啟航)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
-      <categories>
-        <category>Guitar</category>
-      </categories>
-      <tags>
-        <tag>Guitar</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Kotaro Oshio(押尾光太郎) - Libertang(自由探戈)</title>
-    <url>/2022/08/28/Guitar-002-Kotaro-Oshio-%E6%8A%BC%E5%B0%BE%E5%85%89%E5%A4%AA%E9%83%8E-Libertang-%E8%87%AA%E7%94%B1%E6%8E%A2%E6%88%88/</url>
-    <content><![CDATA[<p>Kotaro Oshio(押尾光太郎) （<a href="https://www.kotaro-oshio.com/">官網</a>）</p>
-<p>Libertang (自由探戈，又名現實交會三分鐘)</p>
-<p>這是手風琴大師皮耶左拉 (Astor Piazzolla)的大作</p>
-<p>應該有很多人聽過這首曲子才是</p>
-<p>馬友友也曾演奏過這曲子</p>
-<p>想讓大家聽聽吉他版的風味</p>
-<p>由押尾桑操刀, 品質當然不在話下。</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PHD_e5QE_N4" title="Libertang(自由探戈)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
-      <categories>
-        <category>Guitar</category>
-      </categories>
-      <tags>
-        <tag>Guitar</tag>
       </tags>
   </entry>
   <entry>
@@ -143,48 +168,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Regular Expression</title>
-    <url>/2022/09/24/Java-003-Regular-Expression/</url>
-    <content><![CDATA[<p>正規表示式(Regular Expression)用以針對特定內文做其搜尋、比對、替代等的模式。</p>
-<p>這裡有一個測試正則表達式滿方便的網站（<a href="https://regex101.com/">regex101.com</a>），可以去在這裡設計你想要做比對、檢核的正規表示式。</p>
-<p>在Java中，在許多場景也會需要進行對文字內容做搜尋、比對、替代。針對這三個場景，都各用一個簡單的範例，來感受一下正規表示式的方便，當然，前提還是得對該表示式有一些認識才可以。</p>
-<p><strong>搜尋、比對</strong>，如想要針對一個文字段落中檢查是否存在IP的格式。  </p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 透過 Regular Expressions 來檢視字串中是否有符合 ipv4 的格式</span></span><br><span class="line"><span class="type">String</span> <span class="variable">ipString</span> <span class="operator">=</span> <span class="string">&quot;jdbc:postgresql://192.168.0.200:5432/ooxx&quot;</span>;</span><br><span class="line"><span class="type">String</span> <span class="variable">ipv4Pattern</span> <span class="operator">=</span> <span class="string">&quot;(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.)&#123;3&#125;([01]?\\d\\d?|2[0-4]\\d|25[0-5])&quot;</span>;</span><br><span class="line"></span><br><span class="line"><span class="type">Pattern</span> <span class="variable">pattern</span> <span class="operator">=</span> Pattern.compile(ipv4Pattern);</span><br><span class="line"><span class="type">Matcher</span> <span class="variable">matcher</span> <span class="operator">=</span> pattern.matcher(ipString);</span><br><span class="line"><span class="type">boolean</span> <span class="variable">matchFound</span> <span class="operator">=</span> matcher.find();</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span>(matchFound) &#123;</span><br><span class="line">  System.out.println(<span class="string">&quot;Match found！&quot;</span>);</span><br><span class="line">&#125; <span class="keyword">else</span> &#123;</span><br><span class="line">  System.out.println(<span class="string">&quot;Match not found&quot;</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> (matchFound) &#123;</span><br><span class="line">  System.out.println(matcher.group());</span><br><span class="line">&#125;</span><br><span class="line">   </span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>Java</category>
-      </categories>
-      <tags>
-        <tag>Java</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello Hexo</title>
-    <url>/2022/08/17/Hexo-001-Hello-/</url>
-    <content><![CDATA[<p><a href="https://hexo.io/">Hexo</a> 是快速、簡單的網誌框架，透過 Node.js 執行檔案產生，並支援 GitHub Markdown 的功能。並可搭配布署指令把網站部署到 GitHub Pages。</p>
-<h2 id="起手式"><a href="#起手式" class="headerlink" title="起手式"></a>起手式</h2><h3 id="建立新文章"><a href="#建立新文章" class="headerlink" title="建立新文章"></a>建立新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>相關寫作資訊：<a href="https://hexo.io/docs/writing.html">參考連結</a></p>
-<h3 id="啟動伺服器"><a href="#啟動伺服器" class="headerlink" title="啟動伺服器"></a>啟動伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>相關伺服器資訊: <a href="https://hexo.io/docs/server.html">參考連結</a></p>
-<h3 id="產生靜態檔案"><a href="#產生靜態檔案" class="headerlink" title="產生靜態檔案"></a>產生靜態檔案</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>相關資訊: <a href="https://hexo.io/docs/generating.html">參考連結</a></p>
-<h3 id="布署至遠端伺服器"><a href="#布署至遠端伺服器" class="headerlink" title="布署至遠端伺服器"></a>布署至遠端伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>相關布署資訊: <a href="https://hexo.io/docs/one-command-deployment.html">參考連結</a></p>
-<h3 id="Hexo-相關資訊"><a href="#Hexo-相關資訊" class="headerlink" title="Hexo 相關資訊"></a>Hexo 相關資訊</h3><p><a href="https://hexo.io/">Hexo官方網站</a> </p>
-<p><a href="https://hexo.io/docs/">Hexo文件</a></p>
-<p><a href="https://hexo.io/docs/troubleshooting.html">Hexo排錯</a> </p>
-<p><a href="https://github.com/hexojs/hexo/issues">Hexo GitHub</a>.</p>
-]]></content>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>心的廣度</title>
     <url>/2022/08/22/Murmur-002-%E5%BF%83%E7%9A%84%E5%BB%A3%E5%BA%A6/</url>
     <content><![CDATA[<p>孩子要懂得珍惜周遭人、事、物</p>
@@ -213,16 +196,24 @@
       </tags>
   </entry>
   <entry>
-    <title>休息</title>
-    <url>/2022/08/25/Murmur-005-%E4%BC%91%E6%81%AF/</url>
-    <content><![CDATA[<p>不休息的時候</p>
-<p>你永遠不知道「你累了」</p>
+    <title>Regular Expression</title>
+    <url>/2022/09/24/Java-003-Regular-Expression/</url>
+    <content><![CDATA[<p>正規表示式(Regular Expression)用以針對特定內文做其搜尋、比對、取代等的模式。</p>
+<p>這裡有一個測試正則表達式滿方便的網站（<a href="https://regex101.com/">regex101.com</a>），可以去在這裡設計你想要做比對、檢核的正規表示式。</p>
+<p>在Java中，在許多場景也會需要進行對文字內容做搜尋、比對、取代。針對這三個場景，都各用一個簡單的範例，來感受一下正規表示式的方便，當然，前提還是得對該表示式有一些認識才可以。</p>
+<p><strong>搜尋、比對</strong>，如想要針對一個文字段落中檢查是否存在IP的格式。  </p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 透過 Regular Expressions 來檢視字串中是否有符合 ipv4 的格式</span></span><br><span class="line"><span class="type">String</span> <span class="variable">ipString</span> <span class="operator">=</span> <span class="string">&quot;jdbc:postgresql://192.168.0.200:5432/ooxx&quot;</span>;</span><br><span class="line"><span class="type">String</span> <span class="variable">ipv4Pattern</span> <span class="operator">=</span> <span class="string">&quot;(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.)&#123;3&#125;([01]?\\d\\d?|2[0-4]\\d|25[0-5])&quot;</span>;</span><br><span class="line"></span><br><span class="line"><span class="type">Pattern</span> <span class="variable">pattern</span> <span class="operator">=</span> Pattern.compile(ipv4Pattern);</span><br><span class="line"><span class="type">Matcher</span> <span class="variable">matcher</span> <span class="operator">=</span> pattern.matcher(ipString);</span><br><span class="line"><span class="type">boolean</span> <span class="variable">matchFound</span> <span class="operator">=</span> matcher.find();</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span>(matchFound) &#123;</span><br><span class="line">  System.out.println(<span class="string">&quot;Match&quot;</span>);</span><br><span class="line">&#125; <span class="keyword">else</span> &#123;</span><br><span class="line">  System.out.println(<span class="string">&quot;Not Match&quot;</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> (matchFound) &#123;</span><br><span class="line">  System.out.println(matcher.group());</span><br><span class="line">&#125;</span><br><span class="line">   </span><br></pre></td></tr></table></figure>
+<p>範列程式中的2-3行為檢測的文字內容與正規表示式的格式。而5-13行則是Java中進行比對與搜尋的method。若檢查文字裡有符合正規表示式的格式則回傳<strong>Match</strong>，反之則回傳<strong>Not Match</strong>。</p>
+<p>而若想要取得符合表示式的段落內容，參照第16行matcher.group()，就可以取得。</p>
+<p><strong>替代</strong>，如想要針對一個文字段落中符合的格式進行取代。  </p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="type">String</span> <span class="variable">values</span> <span class="operator">=</span> <span class="string">&quot;&#123;&#123;&#123;&#123;1000&#125;10&#125;&quot;</span>;</span><br><span class="line"><span class="type">String</span> <span class="variable">replacedValue</span> <span class="operator">=</span> values.replaceAll(<span class="string">&quot;([&#123;&#125;])&quot;</span>, <span class="string">&quot;&quot;</span>);</span><br><span class="line">System.out.println(replacedValue);</span><br><span class="line">   </span><br></pre></td></tr></table></figure>
+<p>範列程式中透過 Regular Expressions 把 大括號 取代成空白。</p>
 ]]></content>
       <categories>
-        <category>Murmur</category>
+        <category>Java</category>
       </categories>
       <tags>
-        <tag>Murmur</tag>
+        <tag>Java</tag>
       </tags>
   </entry>
   <entry>
@@ -239,10 +230,10 @@
       </tags>
   </entry>
   <entry>
-    <title>人生之路</title>
-    <url>/2022/08/25/Murmur-008-%E4%BA%BA%E7%94%9F%E4%B9%8B%E8%B7%AF/</url>
-    <content><![CDATA[<p>人生難得完美</p>
-<p>所以需要懂得如何不完美地往下走</p>
+    <title>休息</title>
+    <url>/2022/08/25/Murmur-005-%E4%BC%91%E6%81%AF/</url>
+    <content><![CDATA[<p>不休息的時候</p>
+<p>你永遠不知道「你累了」</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -305,6 +296,19 @@
       </tags>
   </entry>
   <entry>
+    <title>人生之路</title>
+    <url>/2022/08/25/Murmur-008-%E4%BA%BA%E7%94%9F%E4%B9%8B%E8%B7%AF/</url>
+    <content><![CDATA[<p>人生難得完美</p>
+<p>所以需要懂得如何不完美地往下走</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>轉彎</title>
     <url>/2022/08/25/Murmur-010-%E8%BD%89%E5%BD%8E/</url>
     <content><![CDATA[<p>碰到叉路時，你總須選擇彎向</p>
@@ -323,6 +327,20 @@
     <content><![CDATA[<p>無論睜眼及閉眼</p>
 <p>若你懂得想念</p>
 <p>它會一直存在</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>誇實</title>
+    <url>/2022/08/26/Murmur-014-%E8%AA%87%E5%AF%A6/</url>
+    <content><![CDATA[<p>當你宣告著未完成的事已完成時</p>
+<p>懸空的心情</p>
+<p>理應油然而起 </p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -359,34 +377,6 @@
       </tags>
   </entry>
   <entry>
-    <title>誇實</title>
-    <url>/2022/08/26/Murmur-014-%E8%AA%87%E5%AF%A6/</url>
-    <content><![CDATA[<p>當你宣告著未完成的事已完成時</p>
-<p>懸空的心情</p>
-<p>理應油然而起 </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>雨</title>
-    <url>/2022/08/28/Murmur-016-%E9%9B%A8/</url>
-    <content><![CDATA[<p>聞到雨的味道時</p>
-<p>這位哭泣，因為雨小</p>
-<p>那位哭泣，因為雨大 </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>微笑</title>
     <url>/2022/08/26/Murmur-015-%E5%BE%AE%E7%AC%91/</url>
     <content><![CDATA[<p>懂得微笑時</p>
@@ -401,25 +391,11 @@
       </tags>
   </entry>
   <entry>
-    <title>＄</title>
-    <url>/2022/08/28/Murmur-019-%EF%BC%84/</url>
-    <content><![CDATA[<p>這個符號</p>
-<p>只是你買通生命的必要元件而已</p>
-<p>你該是它的主人、而非它的奴役 </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於做</title>
-    <url>/2022/08/28/Murmur-020-%E9%97%9C%E6%96%BC%E5%81%9A/</url>
-    <content><![CDATA[<p>做與不做</p>
-<p>該做與不該做</p>
-<p>不就是一個二乘二矩陣結果嗎？ </p>
+    <title>雨</title>
+    <url>/2022/08/28/Murmur-016-%E9%9B%A8/</url>
+    <content><![CDATA[<p>聞到雨的味道時</p>
+<p>這位哭泣，因為雨小</p>
+<p>那位哭泣，因為雨大 </p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -457,10 +433,25 @@
       </tags>
   </entry>
   <entry>
-    <title>寶貴的事</title>
-    <url>/2022/08/28/Murmur-022-%E5%AF%B6%E8%B2%B4%E7%9A%84%E4%BA%8B/</url>
-    <content><![CDATA[<p>這些事如果帶給你與他人共同的愉悅</p>
-<p>請保留些時間來做這些事</p>
+    <title>＄</title>
+    <url>/2022/08/28/Murmur-019-%EF%BC%84/</url>
+    <content><![CDATA[<p>這個符號</p>
+<p>只是你買通生命的必要元件而已</p>
+<p>你該是它的主人、而非它的奴役 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於做</title>
+    <url>/2022/08/28/Murmur-020-%E9%97%9C%E6%96%BC%E5%81%9A/</url>
+    <content><![CDATA[<p>做與不做</p>
+<p>該做與不該做</p>
+<p>不就是一個二乘二矩陣結果嗎？ </p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -484,10 +475,10 @@
       </tags>
   </entry>
   <entry>
-    <title>心意</title>
-    <url>/2022/08/28/Murmur-025-%E5%BF%83%E6%84%8F/</url>
-    <content><![CDATA[<p>若是心意不是用心來衡量</p>
-<p>那，要心意做甚!</p>
+    <title>寶貴的事</title>
+    <url>/2022/08/28/Murmur-022-%E5%AF%B6%E8%B2%B4%E7%9A%84%E4%BA%8B/</url>
+    <content><![CDATA[<p>這些事如果帶給你與他人共同的愉悅</p>
+<p>請保留些時間來做這些事</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -502,6 +493,62 @@
     <content><![CDATA[<p>如果你不需猶疑就能回答出你活得如何</p>
 <p>不管是好、是壞</p>
 <p>我都會給你我的掌聲。</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>青鳥</title>
+    <url>/2022/08/28/Murmur-024-%E9%9D%92%E9%B3%A5/</url>
+    <content><![CDATA[<p>不要只因還沒看見你的青鳥就躊躇不前</p>
+<p>需要的可能是再一點時間</p>
+<p>若你已可以遠眺見你的青鳥</p>
+<p>真的只要再一點時間的堅持</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>心意</title>
+    <url>/2022/08/28/Murmur-025-%E5%BF%83%E6%84%8F/</url>
+    <content><![CDATA[<p>若是心意不是用心來衡量</p>
+<p>那，要心意做甚!</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>情緒藝術</title>
+    <url>/2022/08/28/Murmur-026-%E6%83%85%E7%B7%92%E8%97%9D%E8%A1%93/</url>
+    <content><![CDATA[<p>以杯量度</p>
+<p>一直處於可搖晃的境界而不溢出</p>
+<p>動而均衡堪稱之於情緒藝術</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>品質</title>
+    <url>/2022/08/28/Murmur-027-%E5%93%81%E8%B3%AA/</url>
+    <content><![CDATA[<p>用金錢、物質衡量出來的品質</p>
+<p>與精神衡量出來的品質</p>
+<p>那個可以恆久呢？</p>
 ]]></content>
       <categories>
         <category>Murmur</category>
@@ -527,35 +574,6 @@
       </categories>
       <tags>
         <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>青鳥</title>
-    <url>/2022/08/28/Murmur-024-%E9%9D%92%E9%B3%A5/</url>
-    <content><![CDATA[<p>不要只因還沒看見你的青鳥就躊躇不前</p>
-<p>需要的可能是再一點時間</p>
-<p>若你已可以遠眺見你的青鳥</p>
-<p>真的只要再一點時間的堅持</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>情緒藝術</title>
-    <url>/2022/08/28/Murmur-026-%E6%83%85%E7%B7%92%E8%97%9D%E8%A1%93/</url>
-    <content><![CDATA[<p>以杯量度</p>
-<p>一直處於可搖晃的境界而不溢出</p>
-<p>動而均衡堪稱之於情緒藝術</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
       </tags>
   </entry>
   <entry>
@@ -591,54 +609,6 @@
 <pre><code>                零八年十一月十四日
 </code></pre>
 <p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-003-The-Great-Debaters.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>品質</title>
-    <url>/2022/08/28/Murmur-027-%E5%93%81%E8%B3%AA/</url>
-    <content><![CDATA[<p>用金錢、物質衡量出來的品質</p>
-<p>與精神衡量出來的品質</p>
-<p>那個可以恆久呢？</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>(500) Days of Summer</title>
-    <url>/2022/08/22/Poem-006-500-Days-of-Summer/</url>
-    <content><![CDATA[<p>原來生命的線條呈現著某種弧度<br>開始的交會<br>只是時間剛好<br>地點恰巧<br>屬於你的命運<br>不屬於妳的命運<br>挑明地講，卻總是有人愛往下跳</p>
-<p>要花一些時間觀察妳的可愛<br>用一點心思瞭解與妳的互動<br>你的前行<br>妳的前行<br>交會的開始<br>交會的結束<br>要花一些時間觀察對妳的恨<br>用一點心思回收對妳的喜歡<br>不屬於你的命運，關閉<br>屬於妳的命運，開啟</p>
-<p>時間的刻痕<br>並不是想像中的深<br>大多數的365天<br>不曾記得些什麼<br>在時間剛好<br>地點恰巧<br>屬於他的命運、妳的命運<br>屬於你的命運、她的命運<br>跨了出去<br>交會才會無限延申</p>
-<pre><code>                一Ｏ年五月二十六日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-006-500-Days-of-Summer.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第36個故事 Taipei Exchange</title>
-    <url>/2022/08/22/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange/</url>
-    <content><![CDATA[<p>用故事的開端譜出了場景<br>潟著輕繞的音樂<br>和著淡苦微甜的提拉米蘇<br>品著濃烈的Espresso<br>記憶一開始<br>化成故事<br>故事　　交換著</p>
-<p>帶來了香氣的時間<br>要怎麼描述<br>懂得意像的瞬間<br>執筆繪出<br>色彩與時間的結合<br>帶走了我走進了你</p>
-<p>記憶並行<br>時間共進<br>端著咖啡香的你<br>等候我<br>接續的故事</p>
-<pre><code>                一Ｏ年九月二日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange.jpg"></p>
 ]]></content>
       <categories>
         <category>Poem</category>
@@ -686,6 +656,40 @@
       </tags>
   </entry>
   <entry>
+    <title>(500) Days of Summer</title>
+    <url>/2022/08/22/Poem-006-500-Days-of-Summer/</url>
+    <content><![CDATA[<p>原來生命的線條呈現著某種弧度<br>開始的交會<br>只是時間剛好<br>地點恰巧<br>屬於你的命運<br>不屬於妳的命運<br>挑明地講，卻總是有人愛往下跳</p>
+<p>要花一些時間觀察妳的可愛<br>用一點心思瞭解與妳的互動<br>你的前行<br>妳的前行<br>交會的開始<br>交會的結束<br>要花一些時間觀察對妳的恨<br>用一點心思回收對妳的喜歡<br>不屬於你的命運，關閉<br>屬於妳的命運，開啟</p>
+<p>時間的刻痕<br>並不是想像中的深<br>大多數的365天<br>不曾記得些什麼<br>在時間剛好<br>地點恰巧<br>屬於他的命運、妳的命運<br>屬於你的命運、她的命運<br>跨了出去<br>交會才會無限延申</p>
+<pre><code>                一Ｏ年五月二十六日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-006-500-Days-of-Summer.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第36個故事 Taipei Exchange</title>
+    <url>/2022/08/22/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange/</url>
+    <content><![CDATA[<p>用故事的開端譜出了場景<br>潟著輕繞的音樂<br>和著淡苦微甜的提拉米蘇<br>品著濃烈的Espresso<br>記憶一開始<br>化成故事<br>故事　　交換著</p>
+<p>帶來了香氣的時間<br>要怎麼描述<br>懂得意像的瞬間<br>執筆繪出<br>色彩與時間的結合<br>帶走了我走進了你</p>
+<p>記憶並行<br>時間共進<br>端著咖啡香的你<br>等候我<br>接續的故事</p>
+<pre><code>                一Ｏ年九月二日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>夏天協奏曲 Summer times</title>
     <url>/2022/08/22/Poem-008-%E5%A4%8F%E5%A4%A9%E5%8D%94%E5%A5%8F%E6%9B%B2-Summer-times/</url>
     <content><![CDATA[<p>用六個連結點<br>就可以關連起妳、我<br>那相遇的島嶼<br>不是只有過客能駐足<br>不是只有旅人能去留</p>
@@ -713,6 +717,80 @@
 <pre><code>                一一年一月七日
 </code></pre>
 <p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-009-%E8%A6%AA%E6%84%9B%E7%9A%84%E9%86%AB%E7%94%9F-Dear-Doctor.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>久違了</title>
+    <url>/2022/08/22/Poem-010-%E4%B9%85%E9%81%95%E4%BA%86/</url>
+    <content><![CDATA[<p>久違了，我的衝動<br>輕吼一聲<br>盪開山嵐<br>風，吹著這個來由<br>涼意夾帶暖流</p>
+<p>久違了，我的懦弱<br>踏出一步的思索<br>佔據多少刻鐘<br>雨水刷洗著塵囂<br>映出最末的線條</p>
+<p>久違了，我的沈靜<br>用雙眼凝視、雙手緊抱<br>穿透血脈<br>流動下，掙出四面八方的<br>意向</p>
+<p>久違了，我的感動<br>停罷<br>重歸振盪</p>
+<pre><code>                零八年六月二日 
+</code></pre>
+<p>　　　　　　　　　　　　　</p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>記錄</title>
+    <url>/2022/08/22/Poem-011-%E8%A8%98%E9%8C%84/</url>
+    <content><![CDATA[<p>關於生命的描述<br>擺在第幾順位<br>關於靈魂的去留<br>置前或後<br>把雙眼聚焦<br>仔細定位</p>
+<p>原本就是脆弱的爭戰<br>從他方來<br>自這裡去<br>短促自由<br>快門捕捉瞬間<br>是你料想得到<br>是我想像不及</p>
+<p>關於所有的歷程<br>不該假手他人<br>要呼吸的自我<br>在你剝奪我之前<br>逃脫</p>
+<p>卡擦、停止呼吸後<br>流傳</p>
+<pre><code>                零八年六月七日				
+</code></pre>
+<p>Ps.<br>以下是兩張朋友想要我去挖掘的相片<br>我想，我很謝謝她提醒。	</p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-1.jpg" alt=" The Falling Man(911)"></p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-2.jpg" alt="Trang Bang after a VNAF napalm attack.">				</p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>景氣</title>
+    <url>/2022/08/22/Poem-012-%E6%99%AF%E6%B0%A3/</url>
+    <content><![CDATA[<p>吹來一陣涼風<br>拉緊衣領<br>走的步伐呈現休息的狀態<br>煥散的眼神<br>望向<br>那一點星光遠遠的地方</p>
+<p>把一生託寄於一張紙上<br>是你給的<br>他給的</p>
+<p>達成<br>是第一波的上峰<br>未殆<br>是第幾波的下緣<br>形成的反覆<br>與心底的聲?同時<br>呼應</p>
+<p>要走多遠呢？<br>要走多久呢？<br>要等多長呢？<br>孩子這樣問著。<br>要等、要等‧‧‧<br>誰，這樣回答著？</p>
+<p>它，只是一個無法解釋的名詞<br>不懂或懂<br>存在的意義遠小於擲出去的履歷<br>不想聽惠帝的話語<br>不想看杜工部的文詞<br>捨件衣裳給孩子吧！<br>捨碗飯給溫飽吧！<br>是因為吶喊聲音太小？<br>還是因為距離太遠？<br>只是小小的祈求<br>誰有聽見？</p>
+<pre><code>                零八年十二月八日
+</code></pre>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>冰路</title>
+    <url>/2022/08/22/Poem-013-%E5%86%B0%E8%B7%AF/</url>
+    <content><![CDATA[<p>襲來的風<br>紅了雙頰<br>蒼白了唇</p>
+<p>顫著的手<br>曳拖身軀<br>路映前方</p>
+<p>來時風雪<br>冷冽<br>回首<br>望穿白原</p>
+<p>走過<br>白皓印下<br>接續<br>前進</p>
+<pre><code>                一一年一月二十五日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-013-%E5%86%B0%E8%B7%AF.jpg"></p>
 ]]></content>
       <categories>
         <category>Poem</category>
@@ -757,42 +835,6 @@
       </tags>
   </entry>
   <entry>
-    <title>久違了</title>
-    <url>/2022/08/22/Poem-010-%E4%B9%85%E9%81%95%E4%BA%86/</url>
-    <content><![CDATA[<p>久違了，我的衝動<br>輕吼一聲<br>盪開山嵐<br>風，吹著這個來由<br>涼意夾帶暖流</p>
-<p>久違了，我的懦弱<br>踏出一步的思索<br>佔據多少刻鐘<br>雨水刷洗著塵囂<br>映出最末的線條</p>
-<p>久違了，我的沈靜<br>用雙眼凝視、雙手緊抱<br>穿透血脈<br>流動下，掙出四面八方的<br>意向</p>
-<p>久違了，我的感動<br>停罷<br>重歸振盪</p>
-<pre><code>                零八年六月二日 
-</code></pre>
-<p>　　　　　　　　　　　　　</p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>冰路</title>
-    <url>/2022/08/22/Poem-013-%E5%86%B0%E8%B7%AF/</url>
-    <content><![CDATA[<p>襲來的風<br>紅了雙頰<br>蒼白了唇</p>
-<p>顫著的手<br>曳拖身軀<br>路映前方</p>
-<p>來時風雪<br>冷冽<br>回首<br>望穿白原</p>
-<p>走過<br>白皓印下<br>接續<br>前進</p>
-<pre><code>                一一年一月二十五日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-013-%E5%86%B0%E8%B7%AF.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>pg_stat_statements SQL語句統計模組</title>
     <url>/2022/08/24/PostgreSQL-001-pg-stat-statements-SQL%E8%AA%9E%E5%8F%A5%E7%B5%B1%E8%A8%88%E6%A8%A1%E7%B5%84/</url>
     <content><![CDATA[<p>The <code>pg_stat_statements</code> module provides a means for tracking planning and execution statistics of all SQL statements executed by a server.(<a href="https://www.postgresql.org/docs/current/pgstatstatements.html">https://www.postgresql.org/docs/current/pgstatstatements.html</a>)</p>
@@ -812,35 +854,67 @@
       </tags>
   </entry>
   <entry>
-    <title>記錄</title>
-    <url>/2022/08/22/Poem-011-%E8%A8%98%E9%8C%84/</url>
-    <content><![CDATA[<p>關於生命的描述<br>擺在第幾順位<br>關於靈魂的去留<br>置前或後<br>把雙眼聚焦<br>仔細定位</p>
-<p>原本就是脆弱的爭戰<br>從他方來<br>自這裡去<br>短促自由<br>快門捕捉瞬間<br>是你料想得到<br>是我想像不及</p>
-<p>關於所有的歷程<br>不該假手他人<br>要呼吸的自我<br>在你剝奪我之前<br>逃脫</p>
-<p>卡擦、停止呼吸後<br>流傳</p>
-<pre><code>                零八年六月七日				
+    <title>The Five People You Meet in Heaven</title>
+    <url>/2023/01/14/Poem-014-The-Five-People-You-Meet-in-Heaven/</url>
+    <content><![CDATA[<p>壹、The Blue Man</p>
+<pre><code>無語
+    帶來聆聽的心，清晰著
+    對方的言語
+    
+    演著的故事
+    是你看著？還是我看著？
+    同一齣吧？在重疊的時間軸上！
 </code></pre>
-<p>Ps.<br>以下是兩張朋友想要我去挖掘的相片<br>我想，我很謝謝她提醒。	</p>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-1.jpg" alt=" The Falling Man(911)"></p>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-2.jpg" alt="Trang Bang after a VNAF napalm attack.">				</p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>景氣</title>
-    <url>/2022/08/22/Poem-012-%E6%99%AF%E6%B0%A3/</url>
-    <content><![CDATA[<p>吹來一陣涼風<br>拉緊衣領<br>走的步伐呈現休息的狀態<br>煥散的眼神<br>望向<br>那一點星光遠遠的地方</p>
-<p>把一生託寄於一張紙上<br>是你給的<br>他給的</p>
-<p>達成<br>是第一波的上峰<br>未殆<br>是第幾波的下緣<br>形成的反覆<br>與心底的聲?同時<br>呼應</p>
-<p>要走多遠呢？<br>要走多久呢？<br>要等多長呢？<br>孩子這樣問著。<br>要等、要等‧‧‧<br>誰，這樣回答著？</p>
-<p>它，只是一個無法解釋的名詞<br>不懂或懂<br>存在的意義遠小於擲出去的履歷<br>不想聽惠帝的話語<br>不想看杜工部的文詞<br>捨件衣裳給孩子吧！<br>捨碗飯給溫飽吧！<br>是因為吶喊聲音太小？<br>還是因為距離太遠？<br>只是小小的祈求<br>誰有聽見？</p>
-<pre><code>                零八年十二月八日
+<p>貳、The Captain</p>
+<pre><code>時間的容貎
+    在腦海裡變化，一直一直
+    如何才能停駐讓人看清、看懂
+    
+    痛苦乘除延續的等式
+    擺在眼前是想像？
+    還是真實？
+    
+    給了或失去？
+    四下無聲之中清晰。
 </code></pre>
+<p>  參、Ruby</p>
+<pre><code>摒住氣息
+    平靜才不會受驚嚇
+    已走過的故事
+    偷偷刻劃著未來的線條
+    
+    惱火
+    抽出了雙面刃
+    還是收入劍鞘？
+    
+    解開綁在身上的結
+    掉落的繩，織起湖的鏡面
+    
+</code></pre>
+<p>肆、Marguerite</p>
+<pre><code>路，有終點
+    仍可以遠眺
+    
+    失去的得到
+    得到的失去
+    
+    譜上一曲與回憶共舞
+    愛，只是換了裝扮。
+</code></pre>
+<p>伍、 Tala girl</p>
+<pre><code>哪裡有個位置？
+    在遍尋不著之際
+
+    就算是一朵不知名的花
+    不會莫名奇妙地生長綻放
+</code></pre>
+<p>末、Eddie</p>
+<pre><code>成了個圓
+    帶著點寧靜的副作用。
+
+                一一一年九月二十六日
+</code></pre>
+<p><img src="https://github.com/benjamin-kuo/images/blob/main/poem/Poem-014-The-Five-People-You-Meet-in-Heaven.jpg?raw=true"></p>
 ]]></content>
       <categories>
         <category>Poem</category>

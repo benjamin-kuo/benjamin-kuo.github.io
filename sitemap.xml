@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://benjamin-kuo.github.io/2023/04/05/DevOps-001-What-Is-APIOps-%E4%BB%80%E9%BA%BC%E6%98%AFAPIOps/</loc>
+    
+    <lastmod>2023-04-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://benjamin-kuo.github.io/2023/01/14/Poem-014-The-Five-People-You-Meet-in-Heaven/</loc>
     
     <lastmod>2023-01-14</lastmod>
@@ -481,57 +490,64 @@
 
   <url>
     <loc>https://benjamin-kuo.github.io/</loc>
-    <lastmod>2023-01-14</lastmod>
+    <lastmod>2023-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://benjamin-kuo.github.io/tags/Poem/</loc>
-    <lastmod>2023-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://benjamin-kuo.github.io/tags/Guitar/</loc>
-    <lastmod>2023-01-14</lastmod>
+    <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://benjamin-kuo.github.io/tags/Java/</loc>
-    <lastmod>2023-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://benjamin-kuo.github.io/tags/Hexo/</loc>
-    <lastmod>2023-01-14</lastmod>
+    <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://benjamin-kuo.github.io/tags/Spring/</loc>
-    <lastmod>2023-01-14</lastmod>
+    <lastmod>2023-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/tags/Hexo/</loc>
+    <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://benjamin-kuo.github.io/tags/Murmur/</loc>
-    <lastmod>2023-01-14</lastmod>
+    <lastmod>2023-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/tags/Poem/</loc>
+    <lastmod>2023-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/tags/DevOps/</loc>
+    <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://benjamin-kuo.github.io/tags/PostgreSQL/</loc>
-    <lastmod>2023-01-14</lastmod>
+    <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -539,36 +555,43 @@
 
   
   <url>
-    <loc>https://benjamin-kuo.github.io/categories/Poem/</loc>
-    <lastmod>2023-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://benjamin-kuo.github.io/categories/Guitar/</loc>
-    <lastmod>2023-01-14</lastmod>
+    <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://benjamin-kuo.github.io/categories/Java/</loc>
-    <lastmod>2023-01-14</lastmod>
+    <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://benjamin-kuo.github.io/categories/Murmur/</loc>
-    <lastmod>2023-01-14</lastmod>
+    <lastmod>2023-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/categories/Poem/</loc>
+    <lastmod>2023-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/categories/DevOps/</loc>
+    <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://benjamin-kuo.github.io/categories/PostgreSQL/</loc>
-    <lastmod>2023-01-14</lastmod>
+    <lastmod>2023-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

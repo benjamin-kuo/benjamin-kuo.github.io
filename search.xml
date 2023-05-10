@@ -1023,4 +1023,31 @@
         <tag>Dart</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Microservices CAP &amp; BASE</title>
+    <url>/2023/05/05/MicroService-001-CAP-BASE/</url>
+    <content><![CDATA[<h2 id="CAP-Theorem"><a href="#CAP-Theorem" class="headerlink" title="CAP Theorem"></a>CAP Theorem</h2><p>　　CAP Theorem 又被稱為布魯爾定理，由 Eric A. Brewer 所提出，應用於分佈式系統，即分佈式系統只能提供三個所需特性中的兩個：一致性、可用性和分區容錯性（CAP 中的“C”、“A”和“P” )。此理論之後被 Seth Gilbert 及 Nancy Lynch 兩位 MIT的教授證明。（<a href="https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf">Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services</a>）</p>
+<ul>
+<li>一致性（Consistency）：客戶端無論連接到哪個節點，所有客戶端時看到的數據都一致。</li>
+<li>可用性（Availability）：即使一個或多個節點已關閉，任何發出數據請求的客戶端都依然能得到響應。</li>
+<li>分區容錯性（Partition tolerance）：儘管系統中的節點之間存在任何數量的通信故障，集群必須能持續運作。</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/turtorial/CAP.png" alt="Image"></p>
+<p>理解 CAP 定理後，有利於進入設計微服務（Microservices）應用程序時選擇需要的方案。若水平擴展的能力對應用服務至關重要，而容忍最終（而不是嚴格）一致性，則像 Cassandra 數據庫可以滿足AP；另一方面，如果應用服務嚴重依賴數據一致性（如在電子商務應用程序或支付服務中），則選擇 PostgreSQL 類的關係數據庫可達到CP。</p>
+<p>然而實際在設計一個微服務系統時，常常不是唯一的CP或是AP；某些服務可能必要CP，而可能有些服務則側重在AP，整個系統就成了一種混合式的模式。</p>
+<h2 id="BASE"><a href="#BASE" class="headerlink" title="BASE"></a>BASE</h2><p>BASE理論，一樣由 Eric A. Brewer 所提出，可算是CAP理論的延伸，主要目的在於補足無法作到嚴格一致性（Strong Consistency）, 但可以用適當的方式達成最終一致性（Eventually Consistency）與可用性（Availability）。</p>
+<ul>
+<li>基本可用（Basically Available）：在出現故障時，允許損失部分可用性，但保證核心可用。</li>
+<li>軟狀態（Soft State）：允許系統中的數據存在中間狀態，即允許系統在多個不同節點的數據副本存在數據延遲。</li>
+<li>最終一致性（Eventual Consistency）：系統裡所有資料經過一定時間後，最終能夠達到一致的狀態。</li>
+</ul>
+<p>所以在某些大型系統的設計，為補足CP部份，則會擇中採用一些特定方法，達到 Base 的最終一致性。當然前提也是系統需能接受在達到最終一致性前，可能在使用某節點的結果集會有不同的情況。</p>
+]]></content>
+      <categories>
+        <category>Microservices</category>
+      </categories>
+      <tags>
+        <tag>Microservices</tag>
+      </tags>
+  </entry>
 </search>

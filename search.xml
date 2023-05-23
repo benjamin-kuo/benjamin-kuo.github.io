@@ -1050,4 +1050,96 @@
         <tag>Microservices</tag>
       </tags>
   </entry>
+  <entry>
+    <title>王立、沈伯洋《阿共打來怎麼辦：你以為知道但實際一無所知的台海軍事常識》</title>
+    <url>/2023/05/23/Book-002-%E7%8E%8B%E7%AB%8B-%E6%B2%88%E4%BC%AF%E6%B4%8B-%E9%98%BF%E5%85%B1%E6%89%93%E4%BE%86%E6%80%8E%E9%BA%BC%E8%BE%A6/</url>
+    <content><![CDATA[<p><a href="https://news.ltn.com.tw/news/politics/breakingnews/4301016">新聞：阿共打來怎麼辦</a>，因為看到這篇新聞，反而引起我的興趣。用物理的實際概念，破除以下十個常見的攻台軍事謠言。</p>
+<ul>
+<li>彈道飛彈無敵論</li>
+<li>千台無人機癱瘓防禦論</li>
+<li>空降部隊奇襲斬首論</li>
+<li>直升機快速打擊部隊斬首論</li>
+<li>民航機奪取機場論</li>
+<li>萬船齊發攻台論</li>
+<li>航空母艦夾擊論（台灣東部淪陷論）</li>
+<li>貨櫃改裝飛彈船突襲論（美軍航母擊沉論）</li>
+<li>近年正夯的巡弋飛彈與長程火箭彈襲台論</li>
+<li>萬年不變的經典謠言——封鎖台灣</li>
+</ul>
+<p>這十個謠言，都有其基礎的論述，值得花點時間理解一下。。</p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/books/%E9%98%BF%E5%85%B1%E6%89%93%E4%BE%86%E6%80%8E%E9%BA%BC%E8%BE%A6_%20%E7%8E%8B%E7%AB%8B_%E6%B2%88%E4%BC%AF%E6%B4%8B.png"></p>
+]]></content>
+      <categories>
+        <category>Books</category>
+      </categories>
+      <tags>
+        <tag>Books</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Java threads</title>
+    <url>/2023/05/17/Java-004-Threads/</url>
+    <content><![CDATA[<p>要創建線程（實現 Callable 接口或者 Runnable 接口），然後通過提交給線程池 ( ExecutorService Pool )去執行。若不使用線程池</p>
+<h2 id="Runnable"><a href="#Runnable" class="headerlink" title="Runnable"></a>Runnable</h2><p>先實作Runnable的RunnableTaskA</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">RunnableTaskA</span> <span class="keyword">implements</span> <span class="title class_">Runnable</span> &#123;</span><br><span class="line">  <span class="keyword">private</span> <span class="keyword">final</span> <span class="keyword">static</span> <span class="type">Logger</span> <span class="variable">logger</span> <span class="operator">=</span> LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());</span><br><span class="line">  <span class="meta">@Override</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">run</span><span class="params">()</span> &#123;</span><br><span class="line">    logger.info(<span class="string">&quot;RunnableTaskA start&quot;</span>);</span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">      Thread.sleep(<span class="number">5000</span>);</span><br><span class="line">    &#125; <span class="keyword">catch</span> (InterruptedException e) &#123;</span><br><span class="line">      e.printStackTrace();</span><br><span class="line">    &#125;</span><br><span class="line">    logger.info(<span class="string">&quot;RunnableTaskA end&quot;</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>然後實作主線程與異步線程的程式，main thread 的執行過程中，呼叫異步任務RunnableTaskA。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">RunnableTask</span> &#123;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">private</span> <span class="keyword">final</span> <span class="keyword">static</span> <span class="type">Logger</span> <span class="variable">logger</span> <span class="operator">=</span> LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());</span><br><span class="line"></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">    <span class="comment">// set Pool</span></span><br><span class="line">    <span class="type">ExecutorService</span> <span class="variable">threadPool</span> <span class="operator">=</span> Executors.newFixedThreadPool(<span class="number">5</span>);</span><br><span class="line"></span><br><span class="line">    <span class="comment">// Thread tasks</span></span><br><span class="line">    <span class="type">RunnableTaskA</span> <span class="variable">taskA</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">RunnableTaskA</span>();</span><br><span class="line"></span><br><span class="line">    <span class="comment">// submit thread</span></span><br><span class="line">    threadPool.submit(taskA);</span><br><span class="line"></span><br><span class="line">    <span class="comment">// close pool</span></span><br><span class="line">    threadPool.shutdown();</span><br><span class="line"></span><br><span class="line">    <span class="comment">// main thread</span></span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">      Thread.sleep(<span class="number">2000</span>);</span><br><span class="line">    &#125; <span class="keyword">catch</span> (InterruptedException e) &#123;</span><br><span class="line">      e.printStackTrace();</span><br><span class="line">    &#125;</span><br><span class="line">    logger.info(<span class="string">&quot;main thread is done.&quot;</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>執行結果：</p>
+<blockquote>
+<p>22:49:32 INFO 2-thread-1 t.callable.RunnableTaskA      :12  RunnableTaskA start<br><br>22:49:34 INFO main       t.callable.RunnableTask       :39  main thread is done.<br><br>22:49:37 INFO 2-thread-1 t.callable.RunnableTaskA      :18  RunnableTaskA end<br></p>
+</blockquote>
+<p>由RunnableTaskA是實作Runnable，故無法返回任何結果。</p>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Cardinal points of Spring Cache Annotations</title>
+    <url>/2023/05/16/Spring-001-Cache-Annotations/</url>
+    <content><![CDATA[<h2 id="Spring-Cache"><a href="#Spring-Cache" class="headerlink" title="Spring Cache"></a>Spring Cache</h2><p> Spring 和 Spring Boot 提供了快取機制，可以輕鬆地對系統添加需要的快取。以下是相關的 Annotation。</p>
+<ol>
+<li>@EnableCaching：將此 annotation 加入 Spring Project 裡的設定類裡。</li>
+<li>@Cacheable：在需快取資料的 method，加入此 annotation。</li>
+<li>@CachePut：在需要更新 cache 的 method，加入此 annotation。 </li>
+<li>@CacheEvict ：在需要移除 cache 的 method，加入此 annotation。</li>
+</ol>
+<h2 id="Why-Caching"><a href="#Why-Caching" class="headerlink" title="Why Caching"></a>Why Caching</h2><p>為什麼要使用快取？</p>
+<ul>
+<li>提高性能：減少從資料庫或其他外部源獲取數據所需的時間來提高系統的性能。</li>
+<li>減少外部資源的負載：將頻繁訪問的資料存儲在快取中，可以減少外部資源的負載。</li>
+<li>提高可伸縮性：減少系統和外部資源需要完成的工作量，提高系統的可伸縮性。</li>
+<li>更好的用戶體驗：更快響應時間可以帶來更好的用戶體驗。</li>
+</ul>
+<h2 id="When-Caching"><a href="#When-Caching" class="headerlink" title="When Caching"></a>When Caching</h2><p>什麼時候使用快取呢？</p>
+<p>經常訪問查詢成本相對較高的數據（例如資料庫查詢或 Web 服務請求）時使用快取。然而，要注意快取不是靈丹妙藥，並非所有資料都適合快取。例如，頻繁更新的資料就不適合快取。</p>
+<h2 id="適用場景"><a href="#適用場景" class="headerlink" title="適用場景"></a>適用場景</h2><ul>
+<li>只快取經常讀取的數據：可以顯著提高性能，但只快取經常訪問的資料很重要，很少或從不訪問的快取數據會佔用寶貴的記憶體，而導致性能問題。</li>
+<li>根據系統需求選擇合適的快取策略。 Spring Boot 支持多種快取機制的配合，包括 Ehcache、Hazelcast 和 Redis。</li>
+<li>使用快取時的潛在線程安全問題：對快取的並發查詢可能會導致數據不一致，因此必要時使用適當的同步機制非常重要。</li>
+<li>避免過度快取：快取對於提高性能很有用，但過多的快取實際上會消耗寶貴的記憶體資源，可能導致性能上的問題。</li>
+<li>快取逐出（Evict）策略：定義適當的快取逐出策略，確保從快取中刪除舊的或無用的資料。</li>
+<li>快取鍵（Key）設計：快取鍵對於每個資料項都應該是唯一的。</li>
+</ul>
+<h2 id="潛在的問題"><a href="#潛在的問題" class="headerlink" title="潛在的問題"></a>潛在的問題</h2><ul>
+<li>Spring Cache 預設：使用 ConcurrentHashMap，它不會自動回收，若使用默認的這個緩存，可能因為沒到回收，最終可能導致OOM（Out of Memory）。</li>
+<li>舊資料：若快取資料不定期更新，可能導致將不正確或過時的資料返回給客戶端。</li>
+<li>記憶體消耗：如果快取管理不當，會消耗大量記憶體資源。。</li>
+<li>快取鍵（Key）衝突：如果快取鍵沒有明確定義，可能會導致鍵衝突。</li>
+<li>序列化問題：如果快取的對像不可序列化，則可能導致序列化錯誤。</li>
+<li>網絡延遲：如果快取提供程序（如 Redis）與系統不在同一台機器上運行，網絡延遲可能成為瓶頸並降低快取的有效性。</li>
+<li>@Cacheable 失效：私有方法不支援 @Cacheable，Spring cache 的實現原理是基於 AOP 的動態代理實現的，AOP 不支持對 private 私有方法的攔截，所以@Cacheable 亦會失效。</li>
+</ul>
+<p>　　總的來說，在避免可能的潛在問題之下，cache annotations 的運用可以顯著提高 Spring &amp; Spring Boot 系統的性能與響應時間，從而提供出色的用戶體驗。</p>
+]]></content>
+      <categories>
+        <category>Java, Spring</category>
+      </categories>
+      <tags>
+        <tag>Java, Spring</tag>
+      </tags>
+  </entry>
 </search>

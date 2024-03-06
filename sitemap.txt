@@ -1,5 +1,5 @@
-https://benjamin-kuo.github.io/2024/02/05/Data-001-Database-DataWarehouseDataLake/
 https://benjamin-kuo.github.io/2023/10/14/Book-003-%E5%A1%A9%E8%A6%8B%E5%8A%AA-%E7%82%BA%E4%BD%95%E8%B2%B7%E8%82%A1%E6%9C%8990%EF%BC%85%E7%9A%84%E4%BA%BA%E8%B3%A0%E9%8C%A2%EF%BC%8C%E5%8D%BB%E5%8F%AA%E6%9C%8910%EF%BC%85%E7%9A%84%E4%BA%BA%E8%B3%BA%E4%B8%8A%E5%84%84%EF%BC%9F/
+https://benjamin-kuo.github.io/2024/02/05/Data-001-Database-DataWarehouseDataLake/
 https://benjamin-kuo.github.io/2023/05/23/Book-002-%E7%8E%8B%E7%AB%8B-%E6%B2%88%E4%BC%AF%E6%B4%8B-%E9%98%BF%E5%85%B1%E6%89%93%E4%BE%86%E6%80%8E%E9%BA%BC%E8%BE%A6/
 https://benjamin-kuo.github.io/2023/05/17/Java-004-Threads/
 https://benjamin-kuo.github.io/2023/05/16/Spring-001-Cache-Annotations/

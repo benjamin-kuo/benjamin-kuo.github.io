@@ -729,13 +729,6 @@
   </url>
   
   <url>
-    <loc>https://benjamin-kuo.github.io/categories/Investment/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://benjamin-kuo.github.io/categories/App/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -751,6 +744,13 @@
   
   <url>
     <loc>https://benjamin-kuo.github.io/categories/Microservices/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/categories/Investment/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

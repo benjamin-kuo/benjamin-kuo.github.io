@@ -83,10 +83,10 @@ https://benjamin-kuo.github.io/categories/Murmur/
 https://benjamin-kuo.github.io/categories/Poem/
 https://benjamin-kuo.github.io/categories/PostgreSQL/
 https://benjamin-kuo.github.io/categories/Books/
-https://benjamin-kuo.github.io/categories/Investment/
 https://benjamin-kuo.github.io/categories/App/
 https://benjamin-kuo.github.io/categories/DevOps/
 https://benjamin-kuo.github.io/categories/Microservices/
+https://benjamin-kuo.github.io/categories/Investment/
 https://benjamin-kuo.github.io/categories/Java-Spring/
 https://benjamin-kuo.github.io/categories/Data-Science/
 https://benjamin-kuo.github.io/categories/programming/

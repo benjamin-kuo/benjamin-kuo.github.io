@@ -1,822 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Kotaro Oshio(押尾光太郎) - Libertang(自由探戈)</title>
-    <url>/2022/08/28/Guitar-002-Kotaro-Oshio-%E6%8A%BC%E5%B0%BE%E5%85%89%E5%A4%AA%E9%83%8E-Libertang-%E8%87%AA%E7%94%B1%E6%8E%A2%E6%88%88/</url>
-    <content><![CDATA[<p>Kotaro Oshio(押尾光太郎) （<a href="https://www.kotaro-oshio.com/">官網</a>）</p>
-<p>Libertang (自由探戈，又名現實交會三分鐘)</p>
-<p>這是手風琴大師皮耶左拉 (Astor Piazzolla)的大作</p>
-<p>應該有很多人聽過這首曲子才是</p>
-<p>馬友友也曾演奏過這曲子</p>
-<p>想讓大家聽聽吉他版的風味</p>
-<p>由押尾桑操刀, 品質當然不在話下。</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PHD_e5QE_N4" title="Libertang(自由探戈)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
-      <categories>
-        <category>Guitar</category>
-      </categories>
-      <tags>
-        <tag>Guitar</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Kanaho 奏帆 - November (Masaaki Kishibe)</title>
-    <url>/2022/09/09/Guitar-004-Kanaho-%E5%A5%8F%E5%B8%86-November-Masaaki-Kishibe/</url>
-    <content><![CDATA[<p>Kanaho (奏帆)（<a href="https://www.facebook.com/profile.php?id=100050262229098">官網</a>）</p>
-<p>選了一首她早期演奏岸部真明的曲子，</p>
-<p>曲名是：November</p>
-<p>或許是當時青澀年紀</p>
-<p>然就演奏的部份已經是滿好狀態</p>
-<p>但流露出的意味，還是與原作有相當大的不同(至少給我的感受是如此)</p>
-<p>讓大家看一下兩個人的演奏</p>
-<p>或許大家也會有不一樣的感受</p>
-<p>曲名：November (Masaaki Kishibe)</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CSNsBPhNBiI" title="November" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<p>曲名：November (Cover by Kanano)</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nllg1L5XSqM" title="November" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
-      <categories>
-        <category>Guitar</category>
-      </categories>
-      <tags>
-        <tag>Guitar</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello Hexo</title>
-    <url>/2022/08/17/Hexo-001-Hello-/</url>
-    <content><![CDATA[<p><a href="https://hexo.io/">Hexo</a> 是快速、簡單的網誌框架，透過 Node.js 執行檔案產生，並支援 GitHub Markdown 的功能。並可搭配布署指令把網站部署到 GitHub Pages。</p>
-<h2 id="起手式"><a href="#起手式" class="headerlink" title="起手式"></a>起手式</h2><h3 id="建立新文章"><a href="#建立新文章" class="headerlink" title="建立新文章"></a>建立新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>相關寫作資訊：<a href="https://hexo.io/docs/writing.html">參考連結</a></p>
-<h3 id="啟動伺服器"><a href="#啟動伺服器" class="headerlink" title="啟動伺服器"></a>啟動伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>相關伺服器資訊: <a href="https://hexo.io/docs/server.html">參考連結</a></p>
-<h3 id="產生靜態檔案"><a href="#產生靜態檔案" class="headerlink" title="產生靜態檔案"></a>產生靜態檔案</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>相關資訊: <a href="https://hexo.io/docs/generating.html">參考連結</a></p>
-<h3 id="布署至遠端伺服器"><a href="#布署至遠端伺服器" class="headerlink" title="布署至遠端伺服器"></a>布署至遠端伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>相關布署資訊: <a href="https://hexo.io/docs/one-command-deployment.html">參考連結</a></p>
-<h3 id="Hexo-相關資訊"><a href="#Hexo-相關資訊" class="headerlink" title="Hexo 相關資訊"></a>Hexo 相關資訊</h3><p><a href="https://hexo.io/">Hexo官方網站</a> </p>
-<p><a href="https://hexo.io/docs/">Hexo文件</a></p>
-<p><a href="https://hexo.io/docs/troubleshooting.html">Hexo排錯</a> </p>
-<p><a href="https://github.com/hexojs/hexo/issues">Hexo GitHub</a>.</p>
-]]></content>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Kotaro Oshio(押尾光太郎) - あの夏の白い雲(白色夏季雲)</title>
-    <url>/2022/08/28/Guitar-001-Kotaro-Oshio-%E6%8A%BC%E5%B0%BE%E5%85%89%E5%A4%AA%E9%83%8E-%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%AE%E7%99%BD%E3%81%84%E9%9B%B2-%E7%99%BD%E8%89%B2%E5%A4%8F%E5%AD%A3%E9%9B%B2/</url>
-    <content><![CDATA[<p>Kotaro Oshio(押尾光太郎) （<a href="https://www.kotaro-oshio.com/">官網</a>）</p>
-<p>押尾桑於1968&#x2F;02&#x2F;01出生於日本大阪</p>
-<p>他的音樂被歸類在pop、new age、jazz等領域</p>
-<p>他常用的技巧有finger picking、tab harmonics 還有一種他很獨特的叫”Nail Attack”</p>
-<p>聽他的作品也一陣子了</p>
-<p>是聽不膩的那一型喔</p>
-<p>押尾桑很愛笑</p>
-<p>如果各位有去看一些他在網路上的曲子就可以知道我的意思</p>
-<p>有時候覺得押尾桑有點笑到傻掉的樣子(這只是題外話啦！大家不要太介意我的說法)</p>
-<p>Anyway，只能用厲害兩個字來形容押尾桑</p>
-<p>給各位一首他的曲子</p>
-<p>曲名叫：あの夏の白い雲(白色夏季雲)</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lf95QMuaoY8" title="あの夏の白い雲(白色夏季雲)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
-      <categories>
-        <category>Guitar</category>
-      </categories>
-      <tags>
-        <tag>Guitar</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Masaaki Kishibe(岸部真明) - Hajimari(啟航)</title>
-    <url>/2022/08/28/Guitar-003-Masaaki-Kishibe-%E5%B2%B8%E9%83%A8%E7%9C%9F%E6%98%8E-Hajimari-%E5%95%9F%E8%88%AA/</url>
-    <content><![CDATA[<p>Masaaki Kishibe(岸部真明)（<a href="https://masaaki-kishibe.com/">官網</a>）</p>
-<p>日本的一個Finger Style名人</p>
-<p>1964出生在大阪</p>
-<p>有人說他的音樂有一種清新的感覺</p>
-<p>我也認為的確有他自己清新的味道</p>
-<p>對這位吉他大師的第一個印象就是他好像都戴著帽子</p>
-<p>整個Fu就跟其他的吉他手不太一樣</p>
-<p>網路上並沒有太多關於他的介紹</p>
-<p>我還是去挖了他不少的音樂來聽聽看</p>
-<p>選一首自己認為很舒服的曲子給大家</p>
-<p>曲名叫：Hajimari(啟航) </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHdPy8CfzXE" title="Hajimari(啟航)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
-      <categories>
-        <category>Guitar</category>
-      </categories>
-      <tags>
-        <tag>Guitar</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>反射機制</title>
-    <url>/2022/08/23/Java-001-%E5%8F%8D%E5%B0%84%E6%A9%9F%E5%88%B6/</url>
-    <content><![CDATA[<p>Reflection is a feature in the Java programming language. It allows an executing Java program to examine or “introspect” upon itself, and manipulate internal properties of the program. For example, it’s possible for a Java class to obtain the names of all its members and display them. (<a href="https://www.oracle.com/technical-resources/articles/java/javareflection.html">https://www.oracle.com/technical-resources/articles/java/javareflection.html</a>)</p>
-<p>一般而言，我們會訂義interface來描述不同類別的共通行為。以ITest為例，定義了一個testReflect的method，而ITestImpl1及ITestImpl2分別去實作ITest。</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="title class_">ITest</span> &#123;</span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">testReflect</span><span class="params">()</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">ITestImpl1</span> <span class="keyword">implements</span> <span class="title class_">ITest</span> &#123;</span><br><span class="line">  <span class="meta">@Override</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">testReflect</span><span class="params">()</span> &#123;</span><br><span class="line">    System.out.println(<span class="string">&quot;I am ITestImpl1 !&quot;</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">ITestImpl2</span> <span class="keyword">implements</span> <span class="title class_">ITest</span> &#123;</span><br><span class="line">  <span class="meta">@Override</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">testReflect</span><span class="params">()</span> &#123;</span><br><span class="line">    System.out.println(<span class="string">&quot;I am ITestImpl2 !&quot;</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">InterfaceMain</span> &#123;</span><br><span class="line">  <span class="comment">//降低耦合度（通過介面來實現）</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">    <span class="comment">//普通寫法，使用New 關鍵字</span></span><br><span class="line">    <span class="type">ITest</span> <span class="variable">iTest</span> <span class="operator">=</span> createITest(<span class="string">&quot;ITestImpl1&quot;</span>);</span><br><span class="line">    iTest.testReflect();</span><br><span class="line">    <span class="type">ITest</span> <span class="variable">iTest2</span> <span class="operator">=</span> createITest(<span class="string">&quot;ITestImpl2&quot;</span>);</span><br><span class="line">    iTest2.testReflect();</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="comment">//createITest 普通寫法，使用New關鍵字, 缺點, 每新加一種實作, 就需加入程式段落判斷</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> ITest <span class="title function_">createITest1</span><span class="params">(String name)</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (name.equals(<span class="string">&quot;ITestImpl1&quot;</span>)) &#123;</span><br><span class="line">      <span class="keyword">return</span> <span class="keyword">new</span> <span class="title class_">ITestImpl1</span>();</span><br><span class="line">    &#125; <span class="keyword">else</span> <span class="keyword">if</span> (name.equals(<span class="string">&quot;ITestImpl2&quot;</span>)) &#123;</span><br><span class="line">      <span class="keyword">return</span> <span class="keyword">new</span> <span class="title class_">ITestImpl2</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">null</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>透過interface的實作，可以有效降低程式的偶合，但也有其相對的缺點，每新加一種實作, 就需加入程式段落判斷！當實作的類別多了，就會是一種困擾。</p>
-<p><strong>要怎麼讓這個每新加一種實作，就需加入程式段落判斷的狀況消除，讓程式可以自動調配，可以使用 Reflection 這個機制來達成。</strong></p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">ReflectionMain</span> &#123;</span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">    <span class="comment">//使用反射機制</span></span><br><span class="line">    <span class="comment">// class forName 需要包含 package</span></span><br><span class="line">    <span class="type">ITest</span> <span class="variable">iTest1</span> <span class="operator">=</span> createITest(<span class="string">&quot;ITestImpl1&quot;</span>);</span><br><span class="line">    iTest1.testReflect();</span><br><span class="line">    <span class="type">ITest</span> <span class="variable">iTest2</span> <span class="operator">=</span> createITest(<span class="string">&quot;ITestImpl2&quot;</span>);</span><br><span class="line">    iTest2.testReflect();</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="comment">//createITest 使用反射機制:當有N個不同ITest需要建立時，不用針對每個建立ITest物件   </span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> ITest <span class="title function_">createITest2</span><span class="params">(String name)</span> &#123;</span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">      <span class="comment">// class forName 需要包含 package</span></span><br><span class="line">      Class&lt;?&gt; clazz = Class.forName(name);</span><br><span class="line">      <span class="keyword">return</span> (ITest) clazz.getDeclaredConstructor().newInstance();</span><br><span class="line">    &#125; <span class="keyword">catch</span> (ClassNotFoundException | NoSuchMethodException | InstantiationException | IllegalAccessException | InvocationTargetException e) &#123;</span><br><span class="line">      e.printStackTrace();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">null</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>createITest2 就是利用反射機制”動態”的建立物件，讓程式可以自動去適應新的實作類別。</p>
-]]></content>
-      <categories>
-        <category>Java</category>
-      </categories>
-      <tags>
-        <tag>Java</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Regular Expression</title>
-    <url>/2022/09/24/Java-003-Regular-Expression/</url>
-    <content><![CDATA[<p>正規表示式(Regular Expression)用以針對特定內文做其搜尋、比對、取代等的模式。</p>
-<p>這裡有一個測試正則表達式滿方便的網站（<a href="https://regex101.com/">regex101.com</a>），可以去在這裡設計你想要做比對、檢核的正規表示式。</p>
-<p>在Java中，在許多場景也會需要進行對文字內容做搜尋、比對、取代。針對這三個場景，都各用一個簡單的範例，來感受一下正規表示式的方便，當然，前提還是得對該表示式有一些認識才可以。</p>
-<p><strong>搜尋、比對</strong>，如想要針對一個文字段落中檢查是否存在IP的格式。  </p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 透過 Regular Expressions 來檢視字串中是否有符合 ipv4 的格式</span></span><br><span class="line"><span class="type">String</span> <span class="variable">ipString</span> <span class="operator">=</span> <span class="string">&quot;jdbc:postgresql://192.168.0.200:5432/ooxx&quot;</span>;</span><br><span class="line"><span class="type">String</span> <span class="variable">ipv4Pattern</span> <span class="operator">=</span> <span class="string">&quot;(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.)&#123;3&#125;([01]?\\d\\d?|2[0-4]\\d|25[0-5])&quot;</span>;</span><br><span class="line"></span><br><span class="line"><span class="type">Pattern</span> <span class="variable">pattern</span> <span class="operator">=</span> Pattern.compile(ipv4Pattern);</span><br><span class="line"><span class="type">Matcher</span> <span class="variable">matcher</span> <span class="operator">=</span> pattern.matcher(ipString);</span><br><span class="line"><span class="type">boolean</span> <span class="variable">matchFound</span> <span class="operator">=</span> matcher.find();</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span>(matchFound) &#123;</span><br><span class="line">  System.out.println(<span class="string">&quot;Match&quot;</span>);</span><br><span class="line">&#125; <span class="keyword">else</span> &#123;</span><br><span class="line">  System.out.println(<span class="string">&quot;Not Match&quot;</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> (matchFound) &#123;</span><br><span class="line">  System.out.println(matcher.group());</span><br><span class="line">&#125;</span><br><span class="line">   </span><br></pre></td></tr></table></figure>
-<p>範列程式中的2-3行為檢測的文字內容與正規表示式的格式。而5-13行則是Java中進行比對與搜尋的method。若檢查文字裡有符合正規表示式的格式則回傳<strong>Match</strong>，反之則回傳<strong>Not Match</strong>。</p>
-<p>而若想要取得符合表示式的段落內容，參照第16行matcher.group()，就可以取得。</p>
-<p><strong>替代</strong>，如想要針對一個文字段落中符合的格式進行取代。  </p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="type">String</span> <span class="variable">values</span> <span class="operator">=</span> <span class="string">&quot;&#123;&#123;&#123;&#123;1000&#125;10&#125;&quot;</span>;</span><br><span class="line"><span class="type">String</span> <span class="variable">replacedValue</span> <span class="operator">=</span> values.replaceAll(<span class="string">&quot;([&#123;&#125;])&quot;</span>, <span class="string">&quot;&quot;</span>);</span><br><span class="line">System.out.println(replacedValue);</span><br><span class="line">   </span><br></pre></td></tr></table></figure>
-<p>範列程式中透過 Regular Expressions 把 大括號 取代成空白。</p>
-]]></content>
-      <categories>
-        <category>Java</category>
-      </categories>
-      <tags>
-        <tag>Java</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>思想選擇</title>
-    <url>/2022/08/21/Murmur-001-%E6%80%9D%E6%83%B3%E9%81%B8%E6%93%87/</url>
-    <content><![CDATA[<p>正思想然後言論正</p>
-<p>我們無法阻擋別人的言語</p>
-<p>但，我們能選擇進入心房的語句。</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>心的廣度</title>
-    <url>/2022/08/22/Murmur-002-%E5%BF%83%E7%9A%84%E5%BB%A3%E5%BA%A6/</url>
-    <content><![CDATA[<p>孩子要懂得珍惜周遭人、事、物</p>
-<p>更要懂得原諒與接受原諒</p>
-<p>心，該是很寬廣的。</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Mockito：doReturn與 thenReturn</title>
-    <url>/2022/09/14/Java-002-Mockito-doReturn-thenReturn/</url>
-    <content><![CDATA[<p>Mokito（<a href="https://site.mockito.org/">官網</a>）<br>Mokito是一個針對Java單元測試可口的模擬框架(Tasty mocking framework for unit tests in Java)。</p>
-<p>這裡針對Mokito在執行單元測試時，呼叫Method時如何定義它的回傳，Mockito可以使用以下兩種方式來達成。  </p>
-<ol>
-<li>when-thenReturn  </li>
-<li>doReturn-when</li>
-</ol>
-<p>在大部份的場景下，使用when-thenReturn，在測試程式的撰寫過程具較佳的可讀性。</p>
-<p><strong>when-thenReturn</strong> 與 <strong>doReturn-when</strong> 兩者在撰寫測試的時候，有一個最大的差別為型別安全(Type Safety)。前者不具型別安全的檢查，故在撰寫測試的過程，就比較不有寫作上的副作用，例如IDE工具的型別檢查。而後者，則存在型別必須等同mockito的method所回傳的型別。</p>
-<p>以下舉個子來說明</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Service</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">MockitoService</span> &#123;</span><br><span class="line">  <span class="keyword">public</span> String <span class="title function_">helloMockito</span><span class="params">(String key)</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (<span class="string">&quot;hello&quot;</span>.equals(key)) &#123;</span><br><span class="line">      <span class="keyword">return</span> <span class="string">&quot;Hello Mockito&quot;</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;Bye&quot;</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@MockBean</span></span><br><span class="line">MockitoService mockitoService;</span><br><span class="line"></span><br><span class="line"><span class="meta">@Test</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">doTest</span><span class="params">()</span> &#123;</span><br><span class="line">  <span class="comment">// when-theReturn</span></span><br><span class="line">  when(mockitoService.helloMockito(<span class="string">&quot;123&quot;</span>)).thenReturn(<span class="string">&quot;Bye&quot;</span>);</span><br><span class="line"></span><br><span class="line">  <span class="type">String</span> <span class="variable">valExpected</span> <span class="operator">=</span> mockitoService.helloMockito(<span class="string">&quot;123&quot;</span>);</span><br><span class="line">  <span class="type">String</span> <span class="variable">valReturned</span> <span class="operator">=</span> <span class="string">&quot;Bye&quot;</span>;</span><br><span class="line">  assertEquals(valReturned, valExpected, <span class="string">&quot;expected value eq &quot;</span> + valExpected);</span><br><span class="line">  </span><br><span class="line">  <span class="comment">// doReturn-when</span></span><br><span class="line">  doReturn(<span class="number">123</span>).when(mockitoService).helloMockito(anyString());</span><br><span class="line"></span><br><span class="line">  valExpected = <span class="string">&quot;Hello Mockito&quot;</span>;</span><br><span class="line">  valReturned = mockitoService.helloMockito(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">  assertEquals(valReturned, valExpected, <span class="string">&quot;expected value eq &quot;</span> + valExpected);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>實作一個Spring service class，同時也針對此service class進行單元測試。於單元測試程式裡第7行使用 <strong>when-theReturn</strong>， 而第14行使用 <strong>doReturn-when</strong>。</p>
-<p>由於when-theReturn是Type Safety，而我們要測試的目標method回傳型別為String，所以在mocktio return 的value，也必須符合String 型別，所以填入的Bye為String，如此一來執行測試前的編譯才會正常通過。</p>
-<p>反之doReturn-when並非Type Safety，在doReturn可以填入Integer的的123，此時在測試前的編譯並不會報錯。但在執行時，則會出現WrongTypeOfReturnValue的狀況。就是一種寫起來比較隨興，但之後得再付出額外成本的感覺。</p>
-<p>兩種模式，雖都能達到單元測試的效果，但個人是傾向使用<strong>when-theReturn</strong>，因為一則代表正確理解了要測試的method所回傳的型別或物件。再者如一開頭所言，其閱讀的體驗上也比較好。</p>
-]]></content>
-      <categories>
-        <category>Java</category>
-      </categories>
-      <tags>
-        <tag>Java</tag>
-        <tag>Spring</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>思考評判</title>
-    <url>/2022/08/25/Murmur-003-%E6%80%9D%E8%80%83%E8%A9%95%E5%88%A4/</url>
-    <content><![CDATA[<p>既然，你的心還會跳</p>
-<p>你就該用心思考</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>叉路永存</title>
-    <url>/2022/08/25/Murmur-004-%E5%8F%89%E8%B7%AF%E6%B0%B8%E5%AD%98/</url>
-    <content><![CDATA[<p>別因為你錯過某些路口</p>
-<p>就忘了依然有叉路等著你</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>休息</title>
-    <url>/2022/08/25/Murmur-005-%E4%BC%91%E6%81%AF/</url>
-    <content><![CDATA[<p>不休息的時候</p>
-<p>你永遠不知道「你累了」</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>人生之路</title>
-    <url>/2022/08/25/Murmur-008-%E4%BA%BA%E7%94%9F%E4%B9%8B%E8%B7%AF/</url>
-    <content><![CDATA[<p>人生難得完美</p>
-<p>所以需要懂得如何不完美地往下走</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>愛？</title>
-    <url>/2022/08/25/Murmur-009-%E6%84%9B%EF%BC%9F/</url>
-    <content><![CDATA[<p>有人問：「愛，是什麼？」</p>
-<p>我回答：「愛，永遠都是疑問號！」</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>想念 I</title>
-    <url>/2022/08/26/Murmur-011-%E6%83%B3%E5%BF%B5I/</url>
-    <content><![CDATA[<p>無論睜眼及閉眼</p>
-<p>若你懂得想念</p>
-<p>它會一直存在</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>轉彎</title>
-    <url>/2022/08/25/Murmur-010-%E8%BD%89%E5%BD%8E/</url>
-    <content><![CDATA[<p>碰到叉路時，你總須選擇彎向</p>
-<p>不然，撞牆的慘劇免不了發生</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>愛情結局</title>
-    <url>/2022/08/25/Murmur-007-%E6%84%9B%E6%83%85%E7%B5%90%E5%B1%80/</url>
-    <content><![CDATA[<p>愛情結局的圓滿與否</p>
-<p>都該在你的心底刻劃痕跡</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>體會快樂</title>
-    <url>/2022/08/26/Murmur-013-%E9%AB%94%E6%9C%83%E5%BF%AB%E6%A8%82/</url>
-    <content><![CDATA[<p>懂得不快樂後</p>
-<p>才能體會快樂</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>相知</title>
-    <url>/2022/08/26/Murmur-012-%E7%9B%B8%E7%9F%A5/</url>
-    <content><![CDATA[<p>關於心情</p>
-<p>說完後若你不懂，沒有關係</p>
-<p>但你懂的話，我會投予你一抺微笑</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>誇實</title>
-    <url>/2022/08/26/Murmur-014-%E8%AA%87%E5%AF%A6/</url>
-    <content><![CDATA[<p>當你宣告著未完成的事已完成時</p>
-<p>懸空的心情</p>
-<p>理應油然而起 </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>微笑</title>
-    <url>/2022/08/26/Murmur-015-%E5%BE%AE%E7%AC%91/</url>
-    <content><![CDATA[<p>懂得微笑時</p>
-<p>也會懂得冷靜</p>
-<p>Go for your life with calming smile. </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>相伴</title>
-    <url>/2022/08/28/Murmur-017-%E7%9B%B8%E4%BC%B4/</url>
-    <content><![CDATA[<p>知你</p>
-<p>而且愛你</p>
-<p>是攜手相伴的基石 </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>雨</title>
-    <url>/2022/08/28/Murmur-016-%E9%9B%A8/</url>
-    <content><![CDATA[<p>聞到雨的味道時</p>
-<p>這位哭泣，因為雨小</p>
-<p>那位哭泣，因為雨大 </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>未來</title>
-    <url>/2022/08/28/Murmur-018-%E6%9C%AA%E4%BE%86/</url>
-    <content><![CDATA[<p>當你驚覺時</p>
-<p>它已與你擦身而過</p>
-<p>在前方看著你，是它特有的表徵 </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>拿捏妝扮</title>
-    <url>/2022/08/25/Murmur-006-%E6%8B%BF%E6%8D%8F%E5%A6%9D%E6%89%AE/</url>
-    <content><![CDATA[<p>化妝與喬裝只是一線之差</p>
-<p>喬裝與偽裝僅距咫呎</p>
-<p>拿捏失當就是循環的開始</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>青鳥</title>
-    <url>/2022/08/28/Murmur-024-%E9%9D%92%E9%B3%A5/</url>
-    <content><![CDATA[<p>不要只因還沒看見你的青鳥就躊躇不前</p>
-<p>需要的可能是再一點時間</p>
-<p>若你已可以遠眺見你的青鳥</p>
-<p>真的只要再一點時間的堅持</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>想念II</title>
-    <url>/2022/08/28/Murmur-021-%E6%83%B3%E5%BF%B5II/</url>
-    <content><![CDATA[<p>無論睜眼或閉眼</p>
-<p>對方的身影如幻燈投射於前</p>
-<p>這等強烈，令人著迷卻也焦慮</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於做</title>
-    <url>/2022/08/28/Murmur-020-%E9%97%9C%E6%96%BC%E5%81%9A/</url>
-    <content><![CDATA[<p>做與不做</p>
-<p>該做與不該做</p>
-<p>不就是一個二乘二矩陣結果嗎？ </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>寶貴的事</title>
-    <url>/2022/08/28/Murmur-022-%E5%AF%B6%E8%B2%B4%E7%9A%84%E4%BA%8B/</url>
-    <content><![CDATA[<p>這些事如果帶給你與他人共同的愉悅</p>
-<p>請保留些時間來做這些事</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>心意</title>
-    <url>/2022/08/28/Murmur-025-%E5%BF%83%E6%84%8F/</url>
-    <content><![CDATA[<p>若是心意不是用心來衡量</p>
-<p>那，要心意做甚!</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>情緒藝術</title>
-    <url>/2022/08/28/Murmur-026-%E6%83%85%E7%B7%92%E8%97%9D%E8%A1%93/</url>
-    <content><![CDATA[<p>以杯量度</p>
-<p>一直處於可搖晃的境界而不溢出</p>
-<p>動而均衡堪稱之於情緒藝術</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>品質</title>
-    <url>/2022/08/28/Murmur-027-%E5%93%81%E8%B3%AA/</url>
-    <content><![CDATA[<p>用金錢、物質衡量出來的品質</p>
-<p>與精神衡量出來的品質</p>
-<p>那個可以恆久呢？</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Darfur Now</title>
-    <url>/2022/08/22/Poem-002-Darfur-Now/</url>
-    <content><![CDATA[<p>你的角色是那一個？</p>
-<p>原來，有一個種族名為人類<br>只是，被膚色遺忘<br>被大陸區隔了<br>從言語分離<br>持槍對峙</p>
-<p>那是父親的苦痛<br>母親的淚水<br>孩子的無助<br>死亡凝聚<br>流離匯集<br>在黃沙塵塵<br>希望渺渺的Darfur</p>
-<p>我的角色是那一個？</p>
-<p>原來，有一種不變的精神<br>在孩子眼神中流露<br>沒有區隔<br>沒有分離<br>沒有對峙<br>純真常駐、生命延續<br>竟是一點小小希望</p>
-<p>我不是行動派<br>希冀一點言語<br>擊落荼毒煞星</p>
-<p>你的角色是那一個？</p>
-<pre><code>                零八年六月十四日
-</code></pre>
-<p>Ps.<br>這部片在描述Darfur的現狀<br>種族仇殺、暴力綿延<br>透過一些人的努力，希望展現一點光明<br>加油。</p>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-002-Darfur-Now.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Garbage Warrior</title>
-    <url>/2022/08/21/Poem-001-Garbage-Warrior/</url>
-    <content><![CDATA[<p>我想，你是瘋了<br>存在由無到有的念頭<br>把生命浪費在廢物建築<br>一樣打造美好願景<br>長遠的簡單  </p>
-<p>諾亞的傻夢<br>刻劃在你的腦中<br>條規的局限<br>鎖你在不可前進的窘境<br>喪失犯錯的自由？<br>曙光才逐漸顯露  </p>
-<p>因為自然動了動身子<br>頓時醒悟了嗎？<br>眼前的渺小<br>才對稱了悲哀<br>請別躊躇<br>蹣跚只會帶來接續的苦難  </p>
-<p>我想，你踏出了第一步<br>在奇形怪狀的視界裡<br>我想，我是瘋了<br>為你描述著掙扎的事蹟。  </p>
-<pre><code>                零八年六月十一日  
-</code></pre>
-<p>Ps.<br>這部片，是部值得去看的片子<br>用力想想我們的世界倒底怎麼了</p>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-001-Garbage-Warrior.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>The Great Debaters</title>
-    <url>/2022/08/22/Poem-003-The-Great-Debaters/</url>
-    <content><![CDATA[<p><span style="color:red">Who’s the judge?</span><br>The judge is God.<br><span style="color:red">Why is God?</span><br>Because he decides who wins or loses not my opponent.<br><span style="color:red">Who is your opponent?</span><br>He doesn’t exist.<br><span style="color:red">Why he does not exist?</span><br>Because he is one voice of dissent against the truth that I speak.</p>
-<p>有種色系的悲哀<br>在1930年代<br>眼神對峙<br>誰是弱者</p>
-<p>方向是對的<br>不會因為無知而轉向<br>風吹來時<br>不會分辨對象是誰</p>
-<p>站穩你的腳跟<br>堅持<br>時代的劃分<br>向正確的方向走</p>
-<p>你鏗鏘聲音<br>堅韌的短字<br>己印在心中<br>迴響</p>
-<pre><code>                零八年十一月十四日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-003-The-Great-Debaters.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>The Rebound</title>
-    <url>/2022/08/22/Poem-005-The-Rebound/</url>
-    <content><![CDATA[<p>背叛的瞬間<br>穿越場景的聲音<br>實現了切換<br>舊式藩籬關上<br>開啟<br>需要時間等待</p>
-<p>愛情故事的原本<br>埋藏了正確的錯誤<br>配角的眼神笑著<br>話語帶上驚奇<br>交會持續        直至<br>數字上的差異<br>她覺得不行<br>他喊著可以</p>
-<p>離開遠走<br>沈澱在最底<br>時間在流<br>空間轉換<br>鏡頭拉回另一個數字<br>她、他<br>覺得可以<br>桌下的雙手執牽</p>
-<p>同樣數字上的差異<br>方向是向左或向右<br>拿什麼來考驗?<br>問她?<br>還是他?</p>
-<pre><code>                一Ｏ年二月二十六日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-005-The-Rebound.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Youth Without Youth</title>
-    <url>/2022/08/22/Poem-004-Youth-Without-Youth/</url>
-    <content><![CDATA[<p>自一開始，你就界定了一個問號<br>放置在劇終的前緣</p>
-<p>一道白光燃燒你老去的軀殼<br>褪去了過往<br>映現短暫的新生<br>是誰睿智、是誰？<br>追溯堅持八十個年頭的方向<br>並著新生的異象<br>刻劃著、隱藏著、逃離著、閃躲著<br>找著你的玫瑰<br>指著你的路</p>
-<p>下一道白光揭開前進的序幕<br>從第一聲梵語對話開始<br>攜著你的愛離開<br>接著囈出的語言<br>等同拿減損的生命<br>鋪出接近那誰堅持的源頭？</p>
-<p>離開，是故事的另一種開始。</p>
-<p>用什麼來交易什麼呢？<br>你的愛是嬌人的玫瑰<br>你卻是凋零的那朵</p>
-<p>第三朵玫瑰<br>自一開始就放置那兒了</p>
-<pre><code>                零九年十一月五日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-004-Youth-Without-Youth.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第36個故事 Taipei Exchange</title>
-    <url>/2022/08/22/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange/</url>
-    <content><![CDATA[<p>用故事的開端譜出了場景<br>潟著輕繞的音樂<br>和著淡苦微甜的提拉米蘇<br>品著濃烈的Espresso<br>記憶一開始<br>化成故事<br>故事　　交換著</p>
-<p>帶來了香氣的時間<br>要怎麼描述<br>懂得意像的瞬間<br>執筆繪出<br>色彩與時間的結合<br>帶走了我走進了你</p>
-<p>記憶並行<br>時間共進<br>端著咖啡香的你<br>等候我<br>接續的故事</p>
-<pre><code>                一Ｏ年九月二日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>＄</title>
-    <url>/2022/08/28/Murmur-019-%EF%BC%84/</url>
-    <content><![CDATA[<p>這個符號</p>
-<p>只是你買通生命的必要元件而已</p>
-<p>你該是它的主人、而非它的奴役 </p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>活得如何？</title>
-    <url>/2022/08/28/Murmur-023-%E6%B4%BB%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F/</url>
-    <content><![CDATA[<p>如果你不需猶疑就能回答出你活得如何</p>
-<p>不管是好、是壞</p>
-<p>我都會給你我的掌聲。</p>
-]]></content>
-      <categories>
-        <category>Murmur</category>
-      </categories>
-      <tags>
-        <tag>Murmur</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>(500) Days of Summer</title>
-    <url>/2022/08/22/Poem-006-500-Days-of-Summer/</url>
-    <content><![CDATA[<p>原來生命的線條呈現著某種弧度<br>開始的交會<br>只是時間剛好<br>地點恰巧<br>屬於你的命運<br>不屬於妳的命運<br>挑明地講，卻總是有人愛往下跳</p>
-<p>要花一些時間觀察妳的可愛<br>用一點心思瞭解與妳的互動<br>你的前行<br>妳的前行<br>交會的開始<br>交會的結束<br>要花一些時間觀察對妳的恨<br>用一點心思回收對妳的喜歡<br>不屬於你的命運，關閉<br>屬於妳的命運，開啟</p>
-<p>時間的刻痕<br>並不是想像中的深<br>大多數的365天<br>不曾記得些什麼<br>在時間剛好<br>地點恰巧<br>屬於他的命運、妳的命運<br>屬於你的命運、她的命運<br>跨了出去<br>交會才會無限延申</p>
-<pre><code>                一Ｏ年五月二十六日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-006-500-Days-of-Summer.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>親愛的醫生 Dear Doctor</title>
-    <url>/2022/08/22/Poem-009-%E8%A6%AA%E6%84%9B%E7%9A%84%E9%86%AB%E7%94%9F-Dear-Doctor/</url>
-    <content><![CDATA[<p>遠處路環著綠意<br>和著緩緩的步伐<br>夾著松青的吆呼<br>也有嫩芽般的嬉戲<br>在放眼的綠意裡<br>竄來流去</p>
-<p>呼喊著您的到來<br>已然成了安心呼吸的常態<br>對應著您揚著魚尾紋的話語<br>讓緩慢的生命<br>順著您揚起的紋路<br>走得清爽愉悅</p>
-<p>是啊!<br>“他們一個一個離開了村子，過著他們夢寐以求生活。”<br>一屋子滿載的空洞<br>填塞得讓句子喘不過氣<br>交疊的感情<br>在視覺上是一段似而同軌的平行線</p>
-<p>您的離去<br>帶走一些希望與信任<br>帶來一些冷清與悵然<br>掉進思索的同時<br>揚著魚尾紋的笑語<br>伴著一杯熱茶溢起了香氣。</p>
-<pre><code>                一一年一月七日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-009-%E8%A6%AA%E6%84%9B%E7%9A%84%E9%86%AB%E7%94%9F-Dear-Doctor.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>景氣</title>
-    <url>/2022/08/22/Poem-012-%E6%99%AF%E6%B0%A3/</url>
-    <content><![CDATA[<p>吹來一陣涼風<br>拉緊衣領<br>走的步伐呈現休息的狀態<br>煥散的眼神<br>望向<br>那一點星光遠遠的地方</p>
-<p>把一生託寄於一張紙上<br>是你給的<br>他給的</p>
-<p>達成<br>是第一波的上峰<br>未殆<br>是第幾波的下緣<br>形成的反覆<br>與心底的聲?同時<br>呼應</p>
-<p>要走多遠呢？<br>要走多久呢？<br>要等多長呢？<br>孩子這樣問著。<br>要等、要等‧‧‧<br>誰，這樣回答著？</p>
-<p>它，只是一個無法解釋的名詞<br>不懂或懂<br>存在的意義遠小於擲出去的履歷<br>不想聽惠帝的話語<br>不想看杜工部的文詞<br>捨件衣裳給孩子吧！<br>捨碗飯給溫飽吧！<br>是因為吶喊聲音太小？<br>還是因為距離太遠？<br>只是小小的祈求<br>誰有聽見？</p>
-<pre><code>                零八年十二月八日
-</code></pre>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>久違了</title>
-    <url>/2022/08/22/Poem-010-%E4%B9%85%E9%81%95%E4%BA%86/</url>
-    <content><![CDATA[<p>久違了，我的衝動<br>輕吼一聲<br>盪開山嵐<br>風，吹著這個來由<br>涼意夾帶暖流</p>
-<p>久違了，我的懦弱<br>踏出一步的思索<br>佔據多少刻鐘<br>雨水刷洗著塵囂<br>映出最末的線條</p>
-<p>久違了，我的沈靜<br>用雙眼凝視、雙手緊抱<br>穿透血脈<br>流動下，掙出四面八方的<br>意向</p>
-<p>久違了，我的感動<br>停罷<br>重歸振盪</p>
-<pre><code>                零八年六月二日 
-</code></pre>
-<p>　　　　　　　　　　　　　</p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>冰路</title>
-    <url>/2022/08/22/Poem-013-%E5%86%B0%E8%B7%AF/</url>
-    <content><![CDATA[<p>襲來的風<br>紅了雙頰<br>蒼白了唇</p>
-<p>顫著的手<br>曳拖身軀<br>路映前方</p>
-<p>來時風雪<br>冷冽<br>回首<br>望穿白原</p>
-<p>走過<br>白皓印下<br>接續<br>前進</p>
-<pre><code>                一一年一月二十五日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-013-%E5%86%B0%E8%B7%AF.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>虛實二十法 - 白靈</title>
-    <url>/2022/09/11/Poem-%E8%99%9B%E5%AF%A6%E4%BA%8C%E5%8D%81%E6%B3%95-%E7%99%BD%E9%9D%88/</url>
-    <content><![CDATA[<p>節錄自白靈《一首詩的誔生》</p>
-<ol>
-<li>象則意之(景則情之)</li>
-<li>意則象人(情則景之)</li>
-<li>小則大之</li>
-<li>大則小之</li>
-<li>遠之近之</li>
-<li>近則遠之</li>
-<li>此覺則彼覺之(感官移位)</li>
-<li>靜之動之</li>
-<li>動則靜之</li>
-<li>主動則被動之</li>
-<li>被動則主動之</li>
-<li>多則少之</li>
-<li>少則多之</li>
-<li>正則反之</li>
-<li>反則正之</li>
-<li>急則緩之</li>
-<li>緩則急之</li>
-<li>密則疏之</li>
-<li>雜則序之</li>
-<li>全體則部份之</li>
-</ol>
-<p>所謂之詩，則在此虛實不定之中。</p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>記錄</title>
-    <url>/2022/08/22/Poem-011-%E8%A8%98%E9%8C%84/</url>
-    <content><![CDATA[<p>關於生命的描述<br>擺在第幾順位<br>關於靈魂的去留<br>置前或後<br>把雙眼聚焦<br>仔細定位</p>
-<p>原本就是脆弱的爭戰<br>從他方來<br>自這裡去<br>短促自由<br>快門捕捉瞬間<br>是你料想得到<br>是我想像不及</p>
-<p>關於所有的歷程<br>不該假手他人<br>要呼吸的自我<br>在你剝奪我之前<br>逃脫</p>
-<p>卡擦、停止呼吸後<br>流傳</p>
-<pre><code>                零八年六月七日				
-</code></pre>
-<p>Ps.<br>以下是兩張朋友想要我去挖掘的相片<br>我想，我很謝謝她提醒。	</p>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-1.jpg" alt=" The Falling Man(911)"></p>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-2.jpg" alt="Trang Bang after a VNAF napalm attack.">				</p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>川本三郎《少了你的餐桌》</title>
     <url>/2023/04/06/Book-001-%E5%B7%9D%E6%9C%AC%E4%B8%89%E9%83%8E-%E5%B0%91%E4%BA%86%E4%BD%A0%E7%9A%84%E9%A4%90%E6%A1%8C/</url>
     <content><![CDATA[<ul>
@@ -832,68 +16,6 @@
       </categories>
       <tags>
         <tag>Books</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>pg_stat_statements SQL語句統計模組</title>
-    <url>/2022/08/24/PostgreSQL-001-pg-stat-statements-SQL%E8%AA%9E%E5%8F%A5%E7%B5%B1%E8%A8%88%E6%A8%A1%E7%B5%84/</url>
-    <content><![CDATA[<p>The <code>pg_stat_statements</code> module provides a means for tracking planning and execution statistics of all SQL statements executed by a server.(<a href="https://www.postgresql.org/docs/current/pgstatstatements.html">https://www.postgresql.org/docs/current/pgstatstatements.html</a>)</p>
-<h4 id="✔️-最耗IO-SQL，單次調用最耗IO-SQL-TOP-50-milliseconds"><a href="#✔️-最耗IO-SQL，單次調用最耗IO-SQL-TOP-50-milliseconds" class="headerlink" title="✔️ 最耗IO SQL，單次調用最耗IO SQL TOP 50 , milliseconds"></a>✔️ 最耗IO SQL，單次調用最耗IO SQL TOP 50 , milliseconds</h4><p><code>select userid::regrole, dbid, (blk_read_time+blk_write_time) as times , calls , query from pg_stat_statements order by (blk_read_time+blk_write_time)/calls desc limit 50;</code></p>
-<h4 id="✔️-總最耗IO-SQL-TOP-50"><a href="#✔️-總最耗IO-SQL-TOP-50" class="headerlink" title="✔️ 總最耗IO SQL TOP 50"></a>✔️ 總最耗IO SQL TOP 50</h4><p><code>select userid::regrole, dbid,  (blk_read_time+blk_write_time) as times,  query from pg_stat_statements order by (blk_read_time+blk_write_time) desc limit 50;</code></p>
-<h4 id="✔️-最耗時-SQL，單次調用最耗時-SQL-TOP-50"><a href="#✔️-最耗時-SQL，單次調用最耗時-SQL-TOP-50" class="headerlink" title="✔️ 最耗時 SQL，單次調用最耗時 SQL TOP 50"></a>✔️ 最耗時 SQL，單次調用最耗時 SQL TOP 50</h4><p><code>select userid::regrole, dbid, to_char(mean_time,&#39;999999999999.999&#39;) as min_time , query from pg_stat_statements order by mean_time desc limit 50;</code></p>
-<h4 id="✔️-總最耗時-SQL-TOP-50"><a href="#✔️-總最耗時-SQL-TOP-50" class="headerlink" title="✔️ 總最耗時 SQL TOP 50"></a>✔️ 總最耗時 SQL TOP 50</h4><p><code>select userid::regrole, dbid, to_char(total_time,&#39;999999999999.999&#39;) as total_time, query from pg_stat_statements order by total_time desc limit 50;</code></p>
-<h4 id="✔️-響應時間振盪最嚴重-SQL"><a href="#✔️-響應時間振盪最嚴重-SQL" class="headerlink" title="✔️ 響應時間振盪最嚴重 SQL"></a>✔️ 響應時間振盪最嚴重 SQL</h4><p><code>select userid::regrole, dbid,to_char(stddev_time,&#39;999999999999.999&#39;) as stddev_time, query from pg_stat_statements order by stddev_time desc limit 50;</code></p>
-<h4 id="✔️-最耗共享記憶體-SQL"><a href="#✔️-最耗共享記憶體-SQL" class="headerlink" title="✔️ 最耗共享記憶體 SQL"></a>✔️ 最耗共享記憶體 SQL</h4><p><code>select userid::regrole, dbid,(shared_blks_hit+shared_blks_dirtied) as shared, query from pg_stat_statements order by (shared_blks_hit+shared_blks_dirtied) desc limit 50;</code></p>
-<h4 id="✔️-最耗臨時空間-SQL"><a href="#✔️-最耗臨時空間-SQL" class="headerlink" title="✔️ 最耗臨時空間 SQL"></a>✔️ 最耗臨時空間 SQL</h4><p><code>select userid::regrole, dbid, temp_blks_written, query from pg_stat_statements order by temp_blks_written desc limit 50;</code></p>
-]]></content>
-      <categories>
-        <category>PostgreSQL</category>
-      </categories>
-      <tags>
-        <tag>PostgreSQL</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>王立、沈伯洋《阿共打來怎麼辦：你以為知道但實際一無所知的台海軍事常識》</title>
-    <url>/2023/05/23/Book-002-%E7%8E%8B%E7%AB%8B-%E6%B2%88%E4%BC%AF%E6%B4%8B-%E9%98%BF%E5%85%B1%E6%89%93%E4%BE%86%E6%80%8E%E9%BA%BC%E8%BE%A6/</url>
-    <content><![CDATA[<p><a href="https://news.ltn.com.tw/news/politics/breakingnews/4301016">新聞：阿共打來怎麼辦</a>，因為看到這篇新聞，反而引起我的興趣。用物理與地理的實際概念，破除以下十個常見的攻台軍事謠言，這十個謠言，都有其基礎的論述，值得花點時間理解一下。（其實作者還挺風趣）</p>
-<ul>
-<li>彈道飛彈無敵論</li>
-<li>千台無人機癱瘓防禦論</li>
-<li>空降部隊奇襲斬首論</li>
-<li>直升機快速打擊部隊斬首論</li>
-<li>民航機奪取機場論</li>
-<li>萬船齊發攻台論</li>
-<li>航空母艦夾擊論（台灣東部淪陷論）</li>
-<li>貨櫃改裝飛彈船突襲論（美軍航母擊沉論）</li>
-<li>近年正夯的巡弋飛彈與長程火箭彈襲台論</li>
-<li>萬年不變的經典謠言——封鎖台灣</li>
-</ul>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/books/%E9%98%BF%E5%85%B1%E6%89%93%E4%BE%86%E6%80%8E%E9%BA%BC%E8%BE%A6_%20%E7%8E%8B%E7%AB%8B_%E6%B2%88%E4%BC%AF%E6%B4%8B.png"></p>
-]]></content>
-      <categories>
-        <category>Books</category>
-      </categories>
-      <tags>
-        <tag>Books</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>夏天協奏曲 Summer times</title>
-    <url>/2022/08/22/Poem-008-%E5%A4%8F%E5%A4%A9%E5%8D%94%E5%A5%8F%E6%9B%B2-Summer-times/</url>
-    <content><![CDATA[<p>用六個連結點<br>就可以關連起妳、我<br>那相遇的島嶼<br>不是只有過客能駐足<br>不是只有旅人能去留</p>
-<p>用離開創下的痕跡<br>留下冷漠的心<br>因為感受而感動<br>是夫妻魚的生死相守<br>是夏日精靈的比翼而飛<br>在陽光的祝福下<br>妳的愛情<br>我的愛情<br>發酵、昇華</p>
-<p>歌聲唱到了獨自一人的段落<br>用呼喊落出悲傷<br>”到死了，也要飛回來”<br>一個人的時候<br>一樣會想妳</p>
-<p>坐在妳的墓前<br>陪妳聊聊天<br>在夕陽的祝福下<br>是一版哀傷的愛情</p>
-<pre><code>                一Ｏ年九月三日
-</code></pre>
-<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-008-%E5%A4%8F%E5%A4%A9%E5%8D%94%E5%A5%8F%E6%9B%B2-Summer-times.jpg"></p>
-]]></content>
-      <categories>
-        <category>Poem</category>
-      </categories>
-      <tags>
-        <tag>Poem</tag>
       </tags>
   </entry>
   <entry>
@@ -1046,24 +168,79 @@
       </tags>
   </entry>
   <entry>
-    <title>Java threads</title>
-    <url>/2023/05/17/Java-004-Threads/</url>
-    <content><![CDATA[<p>要創建線程（實現 Callable 接口或者 Runnable 接口），然後通過提交給線程池 ( ExecutorService Pool )去執行。若不使用線程池</p>
-<h2 id="Runnable"><a href="#Runnable" class="headerlink" title="Runnable"></a>Runnable</h2><p>先實作Runnable的RunnableTaskA</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">RunnableTaskA</span> <span class="keyword">implements</span> <span class="title class_">Runnable</span> &#123;</span><br><span class="line">  <span class="keyword">private</span> <span class="keyword">final</span> <span class="keyword">static</span> <span class="type">Logger</span> <span class="variable">logger</span> <span class="operator">=</span> LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());</span><br><span class="line">  <span class="meta">@Override</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">run</span><span class="params">()</span> &#123;</span><br><span class="line">    logger.info(<span class="string">&quot;RunnableTaskA start&quot;</span>);</span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">      Thread.sleep(<span class="number">5000</span>);</span><br><span class="line">    &#125; <span class="keyword">catch</span> (InterruptedException e) &#123;</span><br><span class="line">      e.printStackTrace();</span><br><span class="line">    &#125;</span><br><span class="line">    logger.info(<span class="string">&quot;RunnableTaskA end&quot;</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>然後實作主線程與異步線程的程式，main thread 的執行過程中，呼叫異步任務RunnableTaskA。</p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">RunnableTask</span> &#123;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">private</span> <span class="keyword">final</span> <span class="keyword">static</span> <span class="type">Logger</span> <span class="variable">logger</span> <span class="operator">=</span> LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());</span><br><span class="line"></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">    <span class="comment">// set Pool</span></span><br><span class="line">    <span class="type">ExecutorService</span> <span class="variable">threadPool</span> <span class="operator">=</span> Executors.newFixedThreadPool(<span class="number">5</span>);</span><br><span class="line"></span><br><span class="line">    <span class="comment">// Thread tasks</span></span><br><span class="line">    <span class="type">RunnableTaskA</span> <span class="variable">taskA</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">RunnableTaskA</span>();</span><br><span class="line"></span><br><span class="line">    <span class="comment">// submit thread</span></span><br><span class="line">    threadPool.submit(taskA);</span><br><span class="line"></span><br><span class="line">    <span class="comment">// close pool</span></span><br><span class="line">    threadPool.shutdown();</span><br><span class="line"></span><br><span class="line">    <span class="comment">// main thread</span></span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">      Thread.sleep(<span class="number">2000</span>);</span><br><span class="line">    &#125; <span class="keyword">catch</span> (InterruptedException e) &#123;</span><br><span class="line">      e.printStackTrace();</span><br><span class="line">    &#125;</span><br><span class="line">    logger.info(<span class="string">&quot;main thread is done.&quot;</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>執行結果：</p>
-<blockquote>
-<p>22:49:32 INFO 2-thread-1 t.callable.RunnableTaskA      :12  RunnableTaskA start<br><br>22:49:34 INFO main       t.callable.RunnableTask       :39  main thread is done.<br><br>22:49:37 INFO 2-thread-1 t.callable.RunnableTaskA      :18  RunnableTaskA end<br></p>
-</blockquote>
-<p>由RunnableTaskA是實作Runnable，故無法返回任何結果。</p>
+    <title>王立、沈伯洋《阿共打來怎麼辦：你以為知道但實際一無所知的台海軍事常識》</title>
+    <url>/2023/05/23/Book-002-%E7%8E%8B%E7%AB%8B-%E6%B2%88%E4%BC%AF%E6%B4%8B-%E9%98%BF%E5%85%B1%E6%89%93%E4%BE%86%E6%80%8E%E9%BA%BC%E8%BE%A6/</url>
+    <content><![CDATA[<p><a href="https://news.ltn.com.tw/news/politics/breakingnews/4301016">新聞：阿共打來怎麼辦</a>，因為看到這篇新聞，反而引起我的興趣。用物理與地理的實際概念，破除以下十個常見的攻台軍事謠言，這十個謠言，都有其基礎的論述，值得花點時間理解一下。（其實作者還挺風趣）</p>
+<ul>
+<li>彈道飛彈無敵論</li>
+<li>千台無人機癱瘓防禦論</li>
+<li>空降部隊奇襲斬首論</li>
+<li>直升機快速打擊部隊斬首論</li>
+<li>民航機奪取機場論</li>
+<li>萬船齊發攻台論</li>
+<li>航空母艦夾擊論（台灣東部淪陷論）</li>
+<li>貨櫃改裝飛彈船突襲論（美軍航母擊沉論）</li>
+<li>近年正夯的巡弋飛彈與長程火箭彈襲台論</li>
+<li>萬年不變的經典謠言——封鎖台灣</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/books/%E9%98%BF%E5%85%B1%E6%89%93%E4%BE%86%E6%80%8E%E9%BA%BC%E8%BE%A6_%20%E7%8E%8B%E7%AB%8B_%E6%B2%88%E4%BC%AF%E6%B4%8B.png"></p>
 ]]></content>
       <categories>
-        <category>Java</category>
+        <category>Books</category>
       </categories>
       <tags>
-        <tag>Java</tag>
+        <tag>Books</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>What Is APIOps？什麼是APIOps？</title>
+    <url>/2023/04/05/DevOps-001-What-Is-APIOps-%E4%BB%80%E9%BA%BC%E6%98%AFAPIOps/</url>
+    <content><![CDATA[<p>作者：David Mckenna<br>譯者：B.K.</p>
+<p>自從首次引入 DevOps 一詞以來，新的“Ops”相關術語似乎與技術趨勢一樣迅速湧現。例如：</p>
+<ul>
+<li>AIOP：使用 AI 對各種 IT 流程提升與自動化。</li>
+<li>MLOps：對機器學習的開發、部署和管理。</li>
+<li>FinOps：優化和管理雲的成本。 </li>
+<li>DevSecOps：對軟體的開發與開發生命週期 (SDLC)，將安全性整合其中。</li>
+<li>GitOps：使用 Git 管理和部署基礎架構和應用程序（程式碼和配置）。</li>
+</ul>
+<p>作者打賭下一個與 Ops 相關的術語將是 ChatGPT-Ops ;-)。最近幾個月出現的一個 OP 術語是 APIOps，特別是 API 不是新的並且有許多不同的風格之下，它是什麼意思呢？</p>
+<p>APIOps 是一種在部署 API 時利用 GitOps 和 DevOps 原則的方法。與 DevOps 類似，APIOps 有助於簡化修改並將 API 更改自動部署到產品中。就像 DevOps 一樣，自動化是 APIOps 的關鍵，但要在 APIOps 上取得成功，必須考慮的不僅僅是自動化。也需要採用與CALMS相關的原則才能成功。<br>文化</p>
+<p><img src="https://dz2cdn1.dzone.com/storage/temp/16736746-1677721880598.png"></p>
+<p>您應該將 API 視為產品。這意味著需要遠離技術。</p>
+<p>API 不應僅僅被視為一項 Jira task，也不應僅是軟體工程師的唯一職責。API 應該有一個產品經理來幫助其成功。API產品應要有將具有產品路線、生命週期和商業的成功標準。</p>
+<p><strong>自動化(Automation)</strong></p>
+<p>DevOps 團隊使用<a href="https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance">DORA指標</a>（DevOps 研究和評估）來衡量他們的績效，並確定他們是否屬於“低績效”或“精英績效”的類別。採用 DORA 指標可以深入了解 CI&#x2F;CD 管道的交付性能，從而將 API 投入產品。</p>
+<p><strong>DORA 指標：</strong></p>
+<ul>
+<li>部署頻率(Deployment Frequency)：組織成功發佈到產品的頻率。</li>
+<li>變動的前置時間(Lead Time for Changes)：承諾轉入為產品所需的時間。</li>
+<li>變更失敗率(Change Failure Rate)：導致產品部署失敗的百分比。</li>
+<li>恢復服務的時間(Time to Restore Service)：組織從生產故障中恢復所需的時間。</li>
+</ul>
+<p>透過 DORA 指標時，請確保所有的項目以API視角都有包含進去。例如，將對 API 約定的重大變更引入產品應該包含在“變更失敗率”指標中，尤其是在變更不受管理的情況下。</p>
+<p><strong>精益(Lean )</strong> </p>
+<p>成功意味著採用精益方法( lean approach)消除浪費，並專注於快速、持續地為客戶提供價值。例如一棵樹倒在森林裡，會發出聲音嗎？同樣，如果一個 API 沒有在產品中使用，會有人關心嗎？不要急於實作 API 服務；首先，要先確認成功標準。應等到潛在消費者檢視審和批准後再實作 API 。例如，來自消費者的早期反饋顯示 API 將解決他們的使用案例或痛點。 </p>
+<p><strong>衡量(Measure)</strong></p>
+<p>技術 KPI 是任何 API 程式的籌碼；包括每秒事務數(transactions per second)、錯誤率(error rate)、延遲(latency)以及您提供給消費者的 API 的服務級別協定(SLA)的追蹤。此外，需要包括更多業務級目標，以進入下一個衡量<strong>真正重要</strong>事項的級別。以下是一些可以追蹤的例子：</p>
+<ul>
+<li><p>RoI（投資回報率）KPI 是 API 有助於推動直接或間接收入增長，如果達到 API 重用的必殺技，則可以降低成本等。 </p>
+</li>
+<li><p>消費(Consumption ) KPI：每月的 API 流量增長趨勢如何，或者 API 是否有助於發展組織的合作夥伴生態系統？ </p>
+</li>
+<li><p>約定(Engagement ) KPI： API 的 NPS（淨推薦值，Net Promoter Score），當 API 是的產品時，是否會追蹤保留(retention )和流失(churn)？</p>
+</li>
+</ul>
+<p><strong>分享</strong></p>
+<p>無論 API 的目標是私有（在組織內使用）、合作夥伴（由組織的合作夥伴使用）還是公共（由對 API 感興趣的任何人使用），都必須有一個工具來共享您的 API 並讓您從您的 API 消費者那裡接收反饋。此工具將是內部 API 開發人員進入入口(Portals)或公共市場(Public Marketplace)，API使用者可以在其中以發現&#x2F;加入&#x2F;註冊使用 。同樣重要的是，對於 API 的演進，要能夠提供作為 API 使用者有關 API 的反饋，以便可以朝著適當的方向演進。</p>
+<p>將上述 DevOps 原則應用於 API 生命週期，APIOps 可以幫助組織改善協作、縮短上市時間、提供更好的客戶體驗，並最終獲得更好的業務結果。</p>
+<p><a href="https://dzone.com/articles/what-is-apiops-and-how-to-be-successful-at-apiops">原文出處</a></p>
+]]></content>
+      <categories>
+        <category>DevOps</category>
+      </categories>
+      <tags>
+        <tag>DevOps</tag>
       </tags>
   </entry>
   <entry>
@@ -1134,37 +311,24 @@
       </tags>
   </entry>
   <entry>
-    <title>The Five People You Meet in Heaven</title>
-    <url>/2023/01/14/Poem-014-The-Five-People-You-Meet-in-Heaven/</url>
-    <content><![CDATA[<p>壹、The Blue Man</p>
-<p>無語<br>帶來聆聽的心，清晰著<br>對方的言語</p>
-<p>演著的故事<br>是你看著？還是我看著？<br>同一齣吧？在重疊的時間軸上！</p>
-<p>貳、The Captain</p>
-<p>時間的容貎<br>在腦海裡變化，一直一直<br>如何才能停駐讓人看清、看懂</p>
-<p>痛苦乘除延續的等式<br>擺在眼前是想像？<br>還是真實？</p>
-<p>給了或失去？<br>四下無聲之中清晰。</p>
-<p>  參、Ruby</p>
-<p>摒住氣息<br>平靜才不會受驚嚇<br>已走過的故事<br>偷偷刻劃著未來的線條</p>
-<p>惱火<br>抽出了雙面刃<br>還是收入劍鞘？</p>
-<p>解開綁在身上的結<br>掉落的繩，織起湖的鏡面</p>
-<p>肆、Marguerite</p>
-<p>路，有終點<br>仍可以遠眺</p>
-<p>失去的得到<br>得到的失去</p>
-<p>譜上一曲與回憶共舞<br>愛，只是換了裝扮。</p>
-<p>伍、 Tala girl</p>
-<p>哪裡有個位置？<br>在遍尋不著之際</p>
-<p>就算是一朵不知名的花<br>不會莫名奇妙地生長綻放</p>
-<p>末、Eddie</p>
-<p>成了個圓<br>帶著點寧靜的副作用。</p>
-<pre><code>                一一一年九月二十六日
-</code></pre>
-<p><img src="https://github.com/benjamin-kuo/images/blob/main/poem/Poem-014-The-Five-People-You-Meet-in-Heaven.jpg?raw=true"></p>
+    <title>Java threads</title>
+    <url>/2023/05/17/Java-004-Threads/</url>
+    <content><![CDATA[<p>要創建線程（實現 Callable 接口或者 Runnable 接口），然後通過提交給線程池 ( ExecutorService Pool )去執行。若不使用線程池</p>
+<h2 id="Runnable"><a href="#Runnable" class="headerlink" title="Runnable"></a>Runnable</h2><p>先實作Runnable的RunnableTaskA</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">RunnableTaskA</span> <span class="keyword">implements</span> <span class="title class_">Runnable</span> &#123;</span><br><span class="line">  <span class="keyword">private</span> <span class="keyword">final</span> <span class="keyword">static</span> <span class="type">Logger</span> <span class="variable">logger</span> <span class="operator">=</span> LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());</span><br><span class="line">  <span class="meta">@Override</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">run</span><span class="params">()</span> &#123;</span><br><span class="line">    logger.info(<span class="string">&quot;RunnableTaskA start&quot;</span>);</span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">      Thread.sleep(<span class="number">5000</span>);</span><br><span class="line">    &#125; <span class="keyword">catch</span> (InterruptedException e) &#123;</span><br><span class="line">      e.printStackTrace();</span><br><span class="line">    &#125;</span><br><span class="line">    logger.info(<span class="string">&quot;RunnableTaskA end&quot;</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>然後實作主線程與異步線程的程式，main thread 的執行過程中，呼叫異步任務RunnableTaskA。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">RunnableTask</span> &#123;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">private</span> <span class="keyword">final</span> <span class="keyword">static</span> <span class="type">Logger</span> <span class="variable">logger</span> <span class="operator">=</span> LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());</span><br><span class="line"></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">    <span class="comment">// set Pool</span></span><br><span class="line">    <span class="type">ExecutorService</span> <span class="variable">threadPool</span> <span class="operator">=</span> Executors.newFixedThreadPool(<span class="number">5</span>);</span><br><span class="line"></span><br><span class="line">    <span class="comment">// Thread tasks</span></span><br><span class="line">    <span class="type">RunnableTaskA</span> <span class="variable">taskA</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">RunnableTaskA</span>();</span><br><span class="line"></span><br><span class="line">    <span class="comment">// submit thread</span></span><br><span class="line">    threadPool.submit(taskA);</span><br><span class="line"></span><br><span class="line">    <span class="comment">// close pool</span></span><br><span class="line">    threadPool.shutdown();</span><br><span class="line"></span><br><span class="line">    <span class="comment">// main thread</span></span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">      Thread.sleep(<span class="number">2000</span>);</span><br><span class="line">    &#125; <span class="keyword">catch</span> (InterruptedException e) &#123;</span><br><span class="line">      e.printStackTrace();</span><br><span class="line">    &#125;</span><br><span class="line">    logger.info(<span class="string">&quot;main thread is done.&quot;</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>執行結果：</p>
+<blockquote>
+<p>22:49:32 INFO 2-thread-1 t.callable.RunnableTaskA      :12  RunnableTaskA start<br><br>22:49:34 INFO main       t.callable.RunnableTask       :39  main thread is done.<br><br>22:49:37 INFO 2-thread-1 t.callable.RunnableTaskA      :18  RunnableTaskA end<br></p>
+</blockquote>
+<p>由RunnableTaskA是實作Runnable，故無法返回任何結果。</p>
 ]]></content>
       <categories>
-        <category>Poem</category>
+        <category>Java</category>
       </categories>
       <tags>
-        <tag>Poem</tag>
+        <tag>Java</tag>
       </tags>
   </entry>
   <entry>
@@ -1240,57 +404,6 @@
       </tags>
   </entry>
   <entry>
-    <title>What Is APIOps？什麼是APIOps？</title>
-    <url>/2023/04/05/DevOps-001-What-Is-APIOps-%E4%BB%80%E9%BA%BC%E6%98%AFAPIOps/</url>
-    <content><![CDATA[<p>作者：David Mckenna<br>譯者：B.K.</p>
-<p>自從首次引入 DevOps 一詞以來，新的“Ops”相關術語似乎與技術趨勢一樣迅速湧現。例如：</p>
-<ul>
-<li>AIOP：使用 AI 對各種 IT 流程提升與自動化。</li>
-<li>MLOps：對機器學習的開發、部署和管理。</li>
-<li>FinOps：優化和管理雲的成本。 </li>
-<li>DevSecOps：對軟體的開發與開發生命週期 (SDLC)，將安全性整合其中。</li>
-<li>GitOps：使用 Git 管理和部署基礎架構和應用程序（程式碼和配置）。</li>
-</ul>
-<p>作者打賭下一個與 Ops 相關的術語將是 ChatGPT-Ops ;-)。最近幾個月出現的一個 OP 術語是 APIOps，特別是 API 不是新的並且有許多不同的風格之下，它是什麼意思呢？</p>
-<p>APIOps 是一種在部署 API 時利用 GitOps 和 DevOps 原則的方法。與 DevOps 類似，APIOps 有助於簡化修改並將 API 更改自動部署到產品中。就像 DevOps 一樣，自動化是 APIOps 的關鍵，但要在 APIOps 上取得成功，必須考慮的不僅僅是自動化。也需要採用與CALMS相關的原則才能成功。<br>文化</p>
-<p><img src="https://dz2cdn1.dzone.com/storage/temp/16736746-1677721880598.png"></p>
-<p>您應該將 API 視為產品。這意味著需要遠離技術。</p>
-<p>API 不應僅僅被視為一項 Jira task，也不應僅是軟體工程師的唯一職責。API 應該有一個產品經理來幫助其成功。API產品應要有將具有產品路線、生命週期和商業的成功標準。</p>
-<p><strong>自動化(Automation)</strong></p>
-<p>DevOps 團隊使用<a href="https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance">DORA指標</a>（DevOps 研究和評估）來衡量他們的績效，並確定他們是否屬於“低績效”或“精英績效”的類別。採用 DORA 指標可以深入了解 CI&#x2F;CD 管道的交付性能，從而將 API 投入產品。</p>
-<p><strong>DORA 指標：</strong></p>
-<ul>
-<li>部署頻率(Deployment Frequency)：組織成功發佈到產品的頻率。</li>
-<li>變動的前置時間(Lead Time for Changes)：承諾轉入為產品所需的時間。</li>
-<li>變更失敗率(Change Failure Rate)：導致產品部署失敗的百分比。</li>
-<li>恢復服務的時間(Time to Restore Service)：組織從生產故障中恢復所需的時間。</li>
-</ul>
-<p>透過 DORA 指標時，請確保所有的項目以API視角都有包含進去。例如，將對 API 約定的重大變更引入產品應該包含在“變更失敗率”指標中，尤其是在變更不受管理的情況下。</p>
-<p><strong>精益(Lean )</strong> </p>
-<p>成功意味著採用精益方法( lean approach)消除浪費，並專注於快速、持續地為客戶提供價值。例如一棵樹倒在森林裡，會發出聲音嗎？同樣，如果一個 API 沒有在產品中使用，會有人關心嗎？不要急於實作 API 服務；首先，要先確認成功標準。應等到潛在消費者檢視審和批准後再實作 API 。例如，來自消費者的早期反饋顯示 API 將解決他們的使用案例或痛點。 </p>
-<p><strong>衡量(Measure)</strong></p>
-<p>技術 KPI 是任何 API 程式的籌碼；包括每秒事務數(transactions per second)、錯誤率(error rate)、延遲(latency)以及您提供給消費者的 API 的服務級別協定(SLA)的追蹤。此外，需要包括更多業務級目標，以進入下一個衡量<strong>真正重要</strong>事項的級別。以下是一些可以追蹤的例子：</p>
-<ul>
-<li><p>RoI（投資回報率）KPI 是 API 有助於推動直接或間接收入增長，如果達到 API 重用的必殺技，則可以降低成本等。 </p>
-</li>
-<li><p>消費(Consumption ) KPI：每月的 API 流量增長趨勢如何，或者 API 是否有助於發展組織的合作夥伴生態系統？ </p>
-</li>
-<li><p>約定(Engagement ) KPI： API 的 NPS（淨推薦值，Net Promoter Score），當 API 是的產品時，是否會追蹤保留(retention )和流失(churn)？</p>
-</li>
-</ul>
-<p><strong>分享</strong></p>
-<p>無論 API 的目標是私有（在組織內使用）、合作夥伴（由組織的合作夥伴使用）還是公共（由對 API 感興趣的任何人使用），都必須有一個工具來共享您的 API 並讓您從您的 API 消費者那裡接收反饋。此工具將是內部 API 開發人員進入入口(Portals)或公共市場(Public Marketplace)，API使用者可以在其中以發現&#x2F;加入&#x2F;註冊使用 。同樣重要的是，對於 API 的演進，要能夠提供作為 API 使用者有關 API 的反饋，以便可以朝著適當的方向演進。</p>
-<p>將上述 DevOps 原則應用於 API 生命週期，APIOps 可以幫助組織改善協作、縮短上市時間、提供更好的客戶體驗，並最終獲得更好的業務結果。</p>
-<p><a href="https://dzone.com/articles/what-is-apiops-and-how-to-be-successful-at-apiops">原文出處</a></p>
-]]></content>
-      <categories>
-        <category>DevOps</category>
-      </categories>
-      <tags>
-        <tag>DevOps</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Database、Data Warehouse、Data Lake</title>
     <url>/2024/02/05/Data-001-Database-DataWarehouseDataLake/</url>
     <content><![CDATA[<ul>
@@ -1334,6 +447,945 @@
       </categories>
       <tags>
         <tag>Data Science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Kotaro Oshio(押尾光太郎) - あの夏の白い雲(白色夏季雲)</title>
+    <url>/2022/08/28/Guitar-001-Kotaro-Oshio-%E6%8A%BC%E5%B0%BE%E5%85%89%E5%A4%AA%E9%83%8E-%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%AE%E7%99%BD%E3%81%84%E9%9B%B2-%E7%99%BD%E8%89%B2%E5%A4%8F%E5%AD%A3%E9%9B%B2/</url>
+    <content><![CDATA[<p>Kotaro Oshio(押尾光太郎) （<a href="https://www.kotaro-oshio.com/">官網</a>）</p>
+<p>押尾桑於1968&#x2F;02&#x2F;01出生於日本大阪</p>
+<p>他的音樂被歸類在pop、new age、jazz等領域</p>
+<p>他常用的技巧有finger picking、tab harmonics 還有一種他很獨特的叫”Nail Attack”</p>
+<p>聽他的作品也一陣子了</p>
+<p>是聽不膩的那一型喔</p>
+<p>押尾桑很愛笑</p>
+<p>如果各位有去看一些他在網路上的曲子就可以知道我的意思</p>
+<p>有時候覺得押尾桑有點笑到傻掉的樣子(這只是題外話啦！大家不要太介意我的說法)</p>
+<p>Anyway，只能用厲害兩個字來形容押尾桑</p>
+<p>給各位一首他的曲子</p>
+<p>曲名叫：あの夏の白い雲(白色夏季雲)</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lf95QMuaoY8" title="あの夏の白い雲(白色夏季雲)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+      <categories>
+        <category>Guitar</category>
+      </categories>
+      <tags>
+        <tag>Guitar</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>The Five People You Meet in Heaven</title>
+    <url>/2023/01/14/Poem-014-The-Five-People-You-Meet-in-Heaven/</url>
+    <content><![CDATA[<p>壹、The Blue Man</p>
+<p>無語<br>帶來聆聽的心，清晰著<br>對方的言語</p>
+<p>演著的故事<br>是你看著？還是我看著？<br>同一齣吧？在重疊的時間軸上！</p>
+<p>貳、The Captain</p>
+<p>時間的容貎<br>在腦海裡變化，一直一直<br>如何才能停駐讓人看清、看懂</p>
+<p>痛苦乘除延續的等式<br>擺在眼前是想像？<br>還是真實？</p>
+<p>給了或失去？<br>四下無聲之中清晰。</p>
+<p>  參、Ruby</p>
+<p>摒住氣息<br>平靜才不會受驚嚇<br>已走過的故事<br>偷偷刻劃著未來的線條</p>
+<p>惱火<br>抽出了雙面刃<br>還是收入劍鞘？</p>
+<p>解開綁在身上的結<br>掉落的繩，織起湖的鏡面</p>
+<p>肆、Marguerite</p>
+<p>路，有終點<br>仍可以遠眺</p>
+<p>失去的得到<br>得到的失去</p>
+<p>譜上一曲與回憶共舞<br>愛，只是換了裝扮。</p>
+<p>伍、 Tala girl</p>
+<p>哪裡有個位置？<br>在遍尋不著之際</p>
+<p>就算是一朵不知名的花<br>不會莫名奇妙地生長綻放</p>
+<p>末、Eddie</p>
+<p>成了個圓<br>帶著點寧靜的副作用。</p>
+<pre><code>                一一一年九月二十六日
+</code></pre>
+<p><img src="https://github.com/benjamin-kuo/images/blob/main/poem/Poem-014-The-Five-People-You-Meet-in-Heaven.jpg?raw=true"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Programming Version</title>
+    <url>/2024/03/06/Programming-001-version/</url>
+    <content><![CDATA[<p>軟體版本號怎麼訂？只要，團隊可以正確理解並遵循就好。</p>
+<p><a href="https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred">https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred</a></p>
+<p>為何要有版本號？<br>因為軟體會不斷進化、迭代。</p>
+<p>假設我們推出一個 API（或是套件、服務）讓客戶使用，如果沒有壓上版本號，客戶順利的使用了第一個版本後，我們在第二個版本可能調整了呼叫 API 的輸入、輸出介面或參數。我們通知客戶使用新版何時會上線，這時候客戶如果沒有在版本更新時將所有 request response 根據最新版本規格調整好，就會出現與新版本系統不相容的狀況。甚至即使客戶馬上將所有 request response 調整了，也可能因為舊版的一些 request 還沒跑完但系統已經更新而發生錯誤。</p>
+<p>因為要兼容不同版本的系統使用，所以有了版本號這個東西。也就是說，系統的使用者或客戶在軟體更版的時候，得以辨識他們拿到的系統版本是哪一版，做對應的處理（可能分開處理升級與尚未升級的部分）。</p>
+<p>作為一名專業的開發者、或是一間專業的軟體服務提供者，如果改變對你的使用者是重要的，就要透過版號真實傳達修訂的意義。</p>
+<p>保持專案高效率的一個重要部分是掌控軟體複雜度，如果今天沒有人知道使用你的軟體哪些函數可以可靠的呼叫，就無法好好的控制複雜度。</p>
+<p>事實上，生活處處皆版號，例如我現在打文章用的 macOS 是 Big Sur 版本是 11.2.1、我上班的 Windows 版本是 Windows 10、我的 Python 版本是 3.8.7、同事借我的計算機概論是第 4 版（這個的意義應該就跟軟硬體不大相同了，但提供辨識版本別的機制這主軸類似）……。</p>
+<p>而相容性 (compatibility) 就是系統發生變更後表現一致的特性。</p>
+<p>Semantic Versioning<br>這個版本制定格式中文翻譯為「語意化版本」，是由 Tom Preston-Werner 提出的版本號訂製規則。</p>
+<p>A meaningful method for incrementing version numbers.</p>
+<p>按照 Semantic Versioning 文件，版本格式定義如下：</p>
+<blockquote>
+<p>MAJOR.MINOR.PATCH</p>
+</blockquote>
+<p>也就是「主版號.次版號.修訂號」，例如：1.0.0。</p>
+<p>而版號遞增規則如下：</p>
+<p>主版號：當你做了不相容的 API 修改，<br>次版號：當你做了向下相容的功能性新增，<br>修訂號：當你做了向下相容的問題修正。<br>先行版號及版本編譯資訊可以加到「主版號.次版號.修訂號」的後面，作為延伸。</p>
+<p>Backward compatibility is a property of a system, product, or technology that allows for interoperability with an older legacy system, or with input designed for such a system, especially in telecommunications and computing.</p>
+<p>A complementary concept is forward compatibility. A design that is forward-compatible usually has a roadmap for compatibility with future standards and products.</p>
+<p>向下相容 (Upward compatibility) &#x3D; 向後相容 (Backward compatibility)：意指當系統（如程式、library 等）更新後，使用較落後版本建立的檔案、系統仍可以在新的系統中正常使用，或用舊版本仍可正常編譯執行</p>
+<p>向上相容 (Downward compatibility) &#x3D; 向前相容 (Forward compatibility)：意指舊版本系統（如程式、library 等）可以支援新版本的資料或服務</p>
+]]></content>
+      <categories>
+        <category>programming</category>
+      </categories>
+      <tags>
+        <tag>programming</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Masaaki Kishibe(岸部真明) - Hajimari(啟航)</title>
+    <url>/2022/08/28/Guitar-003-Masaaki-Kishibe-%E5%B2%B8%E9%83%A8%E7%9C%9F%E6%98%8E-Hajimari-%E5%95%9F%E8%88%AA/</url>
+    <content><![CDATA[<p>Masaaki Kishibe(岸部真明)（<a href="https://masaaki-kishibe.com/">官網</a>）</p>
+<p>日本的一個Finger Style名人</p>
+<p>1964出生在大阪</p>
+<p>有人說他的音樂有一種清新的感覺</p>
+<p>我也認為的確有他自己清新的味道</p>
+<p>對這位吉他大師的第一個印象就是他好像都戴著帽子</p>
+<p>整個Fu就跟其他的吉他手不太一樣</p>
+<p>網路上並沒有太多關於他的介紹</p>
+<p>我還是去挖了他不少的音樂來聽聽看</p>
+<p>選一首自己認為很舒服的曲子給大家</p>
+<p>曲名叫：Hajimari(啟航) </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHdPy8CfzXE" title="Hajimari(啟航)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+      <categories>
+        <category>Guitar</category>
+      </categories>
+      <tags>
+        <tag>Guitar</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Kotaro Oshio(押尾光太郎) - Libertang(自由探戈)</title>
+    <url>/2022/08/28/Guitar-002-Kotaro-Oshio-%E6%8A%BC%E5%B0%BE%E5%85%89%E5%A4%AA%E9%83%8E-Libertang-%E8%87%AA%E7%94%B1%E6%8E%A2%E6%88%88/</url>
+    <content><![CDATA[<p>Kotaro Oshio(押尾光太郎) （<a href="https://www.kotaro-oshio.com/">官網</a>）</p>
+<p>Libertang (自由探戈，又名現實交會三分鐘)</p>
+<p>這是手風琴大師皮耶左拉 (Astor Piazzolla)的大作</p>
+<p>應該有很多人聽過這首曲子才是</p>
+<p>馬友友也曾演奏過這曲子</p>
+<p>想讓大家聽聽吉他版的風味</p>
+<p>由押尾桑操刀, 品質當然不在話下。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PHD_e5QE_N4" title="Libertang(自由探戈)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+      <categories>
+        <category>Guitar</category>
+      </categories>
+      <tags>
+        <tag>Guitar</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Kanaho 奏帆 - November (Masaaki Kishibe)</title>
+    <url>/2022/09/09/Guitar-004-Kanaho-%E5%A5%8F%E5%B8%86-November-Masaaki-Kishibe/</url>
+    <content><![CDATA[<p>Kanaho (奏帆)（<a href="https://www.facebook.com/profile.php?id=100050262229098">官網</a>）</p>
+<p>選了一首她早期演奏岸部真明的曲子，</p>
+<p>曲名是：November</p>
+<p>或許是當時青澀年紀</p>
+<p>然就演奏的部份已經是滿好狀態</p>
+<p>但流露出的意味，還是與原作有相當大的不同(至少給我的感受是如此)</p>
+<p>讓大家看一下兩個人的演奏</p>
+<p>或許大家也會有不一樣的感受</p>
+<p>曲名：November (Masaaki Kishibe)</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CSNsBPhNBiI" title="November" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<p>曲名：November (Cover by Kanano)</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nllg1L5XSqM" title="November" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+      <categories>
+        <category>Guitar</category>
+      </categories>
+      <tags>
+        <tag>Guitar</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello Hexo</title>
+    <url>/2022/08/17/Hexo-001-Hello-/</url>
+    <content><![CDATA[<p><a href="https://hexo.io/">Hexo</a> 是快速、簡單的網誌框架，透過 Node.js 執行檔案產生，並支援 GitHub Markdown 的功能。並可搭配布署指令把網站部署到 GitHub Pages。</p>
+<h2 id="起手式"><a href="#起手式" class="headerlink" title="起手式"></a>起手式</h2><h3 id="建立新文章"><a href="#建立新文章" class="headerlink" title="建立新文章"></a>建立新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>相關寫作資訊：<a href="https://hexo.io/docs/writing.html">參考連結</a></p>
+<h3 id="啟動伺服器"><a href="#啟動伺服器" class="headerlink" title="啟動伺服器"></a>啟動伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>相關伺服器資訊: <a href="https://hexo.io/docs/server.html">參考連結</a></p>
+<h3 id="產生靜態檔案"><a href="#產生靜態檔案" class="headerlink" title="產生靜態檔案"></a>產生靜態檔案</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>相關資訊: <a href="https://hexo.io/docs/generating.html">參考連結</a></p>
+<h3 id="布署至遠端伺服器"><a href="#布署至遠端伺服器" class="headerlink" title="布署至遠端伺服器"></a>布署至遠端伺服器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>相關布署資訊: <a href="https://hexo.io/docs/one-command-deployment.html">參考連結</a></p>
+<h3 id="Hexo-相關資訊"><a href="#Hexo-相關資訊" class="headerlink" title="Hexo 相關資訊"></a>Hexo 相關資訊</h3><p><a href="https://hexo.io/">Hexo官方網站</a> </p>
+<p><a href="https://hexo.io/docs/">Hexo文件</a></p>
+<p><a href="https://hexo.io/docs/troubleshooting.html">Hexo排錯</a> </p>
+<p><a href="https://github.com/hexojs/hexo/issues">Hexo GitHub</a>.</p>
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>反射機制</title>
+    <url>/2022/08/23/Java-001-%E5%8F%8D%E5%B0%84%E6%A9%9F%E5%88%B6/</url>
+    <content><![CDATA[<p>Reflection is a feature in the Java programming language. It allows an executing Java program to examine or “introspect” upon itself, and manipulate internal properties of the program. For example, it’s possible for a Java class to obtain the names of all its members and display them. (<a href="https://www.oracle.com/technical-resources/articles/java/javareflection.html">https://www.oracle.com/technical-resources/articles/java/javareflection.html</a>)</p>
+<p>一般而言，我們會訂義interface來描述不同類別的共通行為。以ITest為例，定義了一個testReflect的method，而ITestImpl1及ITestImpl2分別去實作ITest。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="title class_">ITest</span> &#123;</span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">testReflect</span><span class="params">()</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">ITestImpl1</span> <span class="keyword">implements</span> <span class="title class_">ITest</span> &#123;</span><br><span class="line">  <span class="meta">@Override</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">testReflect</span><span class="params">()</span> &#123;</span><br><span class="line">    System.out.println(<span class="string">&quot;I am ITestImpl1 !&quot;</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">ITestImpl2</span> <span class="keyword">implements</span> <span class="title class_">ITest</span> &#123;</span><br><span class="line">  <span class="meta">@Override</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">testReflect</span><span class="params">()</span> &#123;</span><br><span class="line">    System.out.println(<span class="string">&quot;I am ITestImpl2 !&quot;</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">InterfaceMain</span> &#123;</span><br><span class="line">  <span class="comment">//降低耦合度（通過介面來實現）</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">    <span class="comment">//普通寫法，使用New 關鍵字</span></span><br><span class="line">    <span class="type">ITest</span> <span class="variable">iTest</span> <span class="operator">=</span> createITest(<span class="string">&quot;ITestImpl1&quot;</span>);</span><br><span class="line">    iTest.testReflect();</span><br><span class="line">    <span class="type">ITest</span> <span class="variable">iTest2</span> <span class="operator">=</span> createITest(<span class="string">&quot;ITestImpl2&quot;</span>);</span><br><span class="line">    iTest2.testReflect();</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="comment">//createITest 普通寫法，使用New關鍵字, 缺點, 每新加一種實作, 就需加入程式段落判斷</span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> ITest <span class="title function_">createITest1</span><span class="params">(String name)</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (name.equals(<span class="string">&quot;ITestImpl1&quot;</span>)) &#123;</span><br><span class="line">      <span class="keyword">return</span> <span class="keyword">new</span> <span class="title class_">ITestImpl1</span>();</span><br><span class="line">    &#125; <span class="keyword">else</span> <span class="keyword">if</span> (name.equals(<span class="string">&quot;ITestImpl2&quot;</span>)) &#123;</span><br><span class="line">      <span class="keyword">return</span> <span class="keyword">new</span> <span class="title class_">ITestImpl2</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">null</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>透過interface的實作，可以有效降低程式的偶合，但也有其相對的缺點，每新加一種實作, 就需加入程式段落判斷！當實作的類別多了，就會是一種困擾。</p>
+<p><strong>要怎麼讓這個每新加一種實作，就需加入程式段落判斷的狀況消除，讓程式可以自動調配，可以使用 Reflection 這個機制來達成。</strong></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">ReflectionMain</span> &#123;</span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">    <span class="comment">//使用反射機制</span></span><br><span class="line">    <span class="comment">// class forName 需要包含 package</span></span><br><span class="line">    <span class="type">ITest</span> <span class="variable">iTest1</span> <span class="operator">=</span> createITest(<span class="string">&quot;ITestImpl1&quot;</span>);</span><br><span class="line">    iTest1.testReflect();</span><br><span class="line">    <span class="type">ITest</span> <span class="variable">iTest2</span> <span class="operator">=</span> createITest(<span class="string">&quot;ITestImpl2&quot;</span>);</span><br><span class="line">    iTest2.testReflect();</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="comment">//createITest 使用反射機制:當有N個不同ITest需要建立時，不用針對每個建立ITest物件   </span></span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> ITest <span class="title function_">createITest2</span><span class="params">(String name)</span> &#123;</span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">      <span class="comment">// class forName 需要包含 package</span></span><br><span class="line">      Class&lt;?&gt; clazz = Class.forName(name);</span><br><span class="line">      <span class="keyword">return</span> (ITest) clazz.getDeclaredConstructor().newInstance();</span><br><span class="line">    &#125; <span class="keyword">catch</span> (ClassNotFoundException | NoSuchMethodException | InstantiationException | IllegalAccessException | InvocationTargetException e) &#123;</span><br><span class="line">      e.printStackTrace();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">null</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>createITest2 就是利用反射機制”動態”的建立物件，讓程式可以自動去適應新的實作類別。</p>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Regular Expression</title>
+    <url>/2022/09/24/Java-003-Regular-Expression/</url>
+    <content><![CDATA[<p>正規表示式(Regular Expression)用以針對特定內文做其搜尋、比對、取代等的模式。</p>
+<p>這裡有一個測試正則表達式滿方便的網站（<a href="https://regex101.com/">regex101.com</a>），可以去在這裡設計你想要做比對、檢核的正規表示式。</p>
+<p>在Java中，在許多場景也會需要進行對文字內容做搜尋、比對、取代。針對這三個場景，都各用一個簡單的範例，來感受一下正規表示式的方便，當然，前提還是得對該表示式有一些認識才可以。</p>
+<p><strong>搜尋、比對</strong>，如想要針對一個文字段落中檢查是否存在IP的格式。  </p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 透過 Regular Expressions 來檢視字串中是否有符合 ipv4 的格式</span></span><br><span class="line"><span class="type">String</span> <span class="variable">ipString</span> <span class="operator">=</span> <span class="string">&quot;jdbc:postgresql://192.168.0.200:5432/ooxx&quot;</span>;</span><br><span class="line"><span class="type">String</span> <span class="variable">ipv4Pattern</span> <span class="operator">=</span> <span class="string">&quot;(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.)&#123;3&#125;([01]?\\d\\d?|2[0-4]\\d|25[0-5])&quot;</span>;</span><br><span class="line"></span><br><span class="line"><span class="type">Pattern</span> <span class="variable">pattern</span> <span class="operator">=</span> Pattern.compile(ipv4Pattern);</span><br><span class="line"><span class="type">Matcher</span> <span class="variable">matcher</span> <span class="operator">=</span> pattern.matcher(ipString);</span><br><span class="line"><span class="type">boolean</span> <span class="variable">matchFound</span> <span class="operator">=</span> matcher.find();</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span>(matchFound) &#123;</span><br><span class="line">  System.out.println(<span class="string">&quot;Match&quot;</span>);</span><br><span class="line">&#125; <span class="keyword">else</span> &#123;</span><br><span class="line">  System.out.println(<span class="string">&quot;Not Match&quot;</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> (matchFound) &#123;</span><br><span class="line">  System.out.println(matcher.group());</span><br><span class="line">&#125;</span><br><span class="line">   </span><br></pre></td></tr></table></figure>
+<p>範列程式中的2-3行為檢測的文字內容與正規表示式的格式。而5-13行則是Java中進行比對與搜尋的method。若檢查文字裡有符合正規表示式的格式則回傳<strong>Match</strong>，反之則回傳<strong>Not Match</strong>。</p>
+<p>而若想要取得符合表示式的段落內容，參照第16行matcher.group()，就可以取得。</p>
+<p><strong>替代</strong>，如想要針對一個文字段落中符合的格式進行取代。  </p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="type">String</span> <span class="variable">values</span> <span class="operator">=</span> <span class="string">&quot;&#123;&#123;&#123;&#123;1000&#125;10&#125;&quot;</span>;</span><br><span class="line"><span class="type">String</span> <span class="variable">replacedValue</span> <span class="operator">=</span> values.replaceAll(<span class="string">&quot;([&#123;&#125;])&quot;</span>, <span class="string">&quot;&quot;</span>);</span><br><span class="line">System.out.println(replacedValue);</span><br><span class="line">   </span><br></pre></td></tr></table></figure>
+<p>範列程式中透過 Regular Expressions 把 大括號 取代成空白。</p>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Mockito：doReturn與 thenReturn</title>
+    <url>/2022/09/14/Java-002-Mockito-doReturn-thenReturn/</url>
+    <content><![CDATA[<p>Mokito（<a href="https://site.mockito.org/">官網</a>）<br>Mokito是一個針對Java單元測試可口的模擬框架(Tasty mocking framework for unit tests in Java)。</p>
+<p>這裡針對Mokito在執行單元測試時，呼叫Method時如何定義它的回傳，Mockito可以使用以下兩種方式來達成。  </p>
+<ol>
+<li>when-thenReturn  </li>
+<li>doReturn-when</li>
+</ol>
+<p>在大部份的場景下，使用when-thenReturn，在測試程式的撰寫過程具較佳的可讀性。</p>
+<p><strong>when-thenReturn</strong> 與 <strong>doReturn-when</strong> 兩者在撰寫測試的時候，有一個最大的差別為型別安全(Type Safety)。前者不具型別安全的檢查，故在撰寫測試的過程，就比較不有寫作上的副作用，例如IDE工具的型別檢查。而後者，則存在型別必須等同mockito的method所回傳的型別。</p>
+<p>以下舉個子來說明</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@Service</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">MockitoService</span> &#123;</span><br><span class="line">  <span class="keyword">public</span> String <span class="title function_">helloMockito</span><span class="params">(String key)</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (<span class="string">&quot;hello&quot;</span>.equals(key)) &#123;</span><br><span class="line">      <span class="keyword">return</span> <span class="string">&quot;Hello Mockito&quot;</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="string">&quot;Bye&quot;</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="meta">@MockBean</span></span><br><span class="line">MockitoService mockitoService;</span><br><span class="line"></span><br><span class="line"><span class="meta">@Test</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">doTest</span><span class="params">()</span> &#123;</span><br><span class="line">  <span class="comment">// when-theReturn</span></span><br><span class="line">  when(mockitoService.helloMockito(<span class="string">&quot;123&quot;</span>)).thenReturn(<span class="string">&quot;Bye&quot;</span>);</span><br><span class="line"></span><br><span class="line">  <span class="type">String</span> <span class="variable">valExpected</span> <span class="operator">=</span> mockitoService.helloMockito(<span class="string">&quot;123&quot;</span>);</span><br><span class="line">  <span class="type">String</span> <span class="variable">valReturned</span> <span class="operator">=</span> <span class="string">&quot;Bye&quot;</span>;</span><br><span class="line">  assertEquals(valReturned, valExpected, <span class="string">&quot;expected value eq &quot;</span> + valExpected);</span><br><span class="line">  </span><br><span class="line">  <span class="comment">// doReturn-when</span></span><br><span class="line">  doReturn(<span class="number">123</span>).when(mockitoService).helloMockito(anyString());</span><br><span class="line"></span><br><span class="line">  valExpected = <span class="string">&quot;Hello Mockito&quot;</span>;</span><br><span class="line">  valReturned = mockitoService.helloMockito(<span class="string">&quot;hello&quot;</span>);</span><br><span class="line">  assertEquals(valReturned, valExpected, <span class="string">&quot;expected value eq &quot;</span> + valExpected);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>實作一個Spring service class，同時也針對此service class進行單元測試。於單元測試程式裡第7行使用 <strong>when-theReturn</strong>， 而第14行使用 <strong>doReturn-when</strong>。</p>
+<p>由於when-theReturn是Type Safety，而我們要測試的目標method回傳型別為String，所以在mocktio return 的value，也必須符合String 型別，所以填入的Bye為String，如此一來執行測試前的編譯才會正常通過。</p>
+<p>反之doReturn-when並非Type Safety，在doReturn可以填入Integer的的123，此時在測試前的編譯並不會報錯。但在執行時，則會出現WrongTypeOfReturnValue的狀況。就是一種寫起來比較隨興，但之後得再付出額外成本的感覺。</p>
+<p>兩種模式，雖都能達到單元測試的效果，但個人是傾向使用<strong>when-theReturn</strong>，因為一則代表正確理解了要測試的method所回傳的型別或物件。再者如一開頭所言，其閱讀的體驗上也比較好。</p>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+        <tag>Spring</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>思想選擇</title>
+    <url>/2022/08/21/Murmur-001-%E6%80%9D%E6%83%B3%E9%81%B8%E6%93%87/</url>
+    <content><![CDATA[<p>正思想然後言論正</p>
+<p>我們無法阻擋別人的言語</p>
+<p>但，我們能選擇進入心房的語句。</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>心的廣度</title>
+    <url>/2022/08/22/Murmur-002-%E5%BF%83%E7%9A%84%E5%BB%A3%E5%BA%A6/</url>
+    <content><![CDATA[<p>孩子要懂得珍惜周遭人、事、物</p>
+<p>更要懂得原諒與接受原諒</p>
+<p>心，該是很寬廣的。</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>思考評判</title>
+    <url>/2022/08/25/Murmur-003-%E6%80%9D%E8%80%83%E8%A9%95%E5%88%A4/</url>
+    <content><![CDATA[<p>既然，你的心還會跳</p>
+<p>你就該用心思考</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>拿捏妝扮</title>
+    <url>/2022/08/25/Murmur-006-%E6%8B%BF%E6%8D%8F%E5%A6%9D%E6%89%AE/</url>
+    <content><![CDATA[<p>化妝與喬裝只是一線之差</p>
+<p>喬裝與偽裝僅距咫呎</p>
+<p>拿捏失當就是循環的開始</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>叉路永存</title>
+    <url>/2022/08/25/Murmur-004-%E5%8F%89%E8%B7%AF%E6%B0%B8%E5%AD%98/</url>
+    <content><![CDATA[<p>別因為你錯過某些路口</p>
+<p>就忘了依然有叉路等著你</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>休息</title>
+    <url>/2022/08/25/Murmur-005-%E4%BC%91%E6%81%AF/</url>
+    <content><![CDATA[<p>不休息的時候</p>
+<p>你永遠不知道「你累了」</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生之路</title>
+    <url>/2022/08/25/Murmur-008-%E4%BA%BA%E7%94%9F%E4%B9%8B%E8%B7%AF/</url>
+    <content><![CDATA[<p>人生難得完美</p>
+<p>所以需要懂得如何不完美地往下走</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>愛情結局</title>
+    <url>/2022/08/25/Murmur-007-%E6%84%9B%E6%83%85%E7%B5%90%E5%B1%80/</url>
+    <content><![CDATA[<p>愛情結局的圓滿與否</p>
+<p>都該在你的心底刻劃痕跡</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>愛？</title>
+    <url>/2022/08/25/Murmur-009-%E6%84%9B%EF%BC%9F/</url>
+    <content><![CDATA[<p>有人問：「愛，是什麼？」</p>
+<p>我回答：「愛，永遠都是疑問號！」</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>想念 I</title>
+    <url>/2022/08/26/Murmur-011-%E6%83%B3%E5%BF%B5I/</url>
+    <content><![CDATA[<p>無論睜眼及閉眼</p>
+<p>若你懂得想念</p>
+<p>它會一直存在</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>相知</title>
+    <url>/2022/08/26/Murmur-012-%E7%9B%B8%E7%9F%A5/</url>
+    <content><![CDATA[<p>關於心情</p>
+<p>說完後若你不懂，沒有關係</p>
+<p>但你懂的話，我會投予你一抺微笑</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>微笑</title>
+    <url>/2022/08/26/Murmur-015-%E5%BE%AE%E7%AC%91/</url>
+    <content><![CDATA[<p>懂得微笑時</p>
+<p>也會懂得冷靜</p>
+<p>Go for your life with calming smile. </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>體會快樂</title>
+    <url>/2022/08/26/Murmur-013-%E9%AB%94%E6%9C%83%E5%BF%AB%E6%A8%82/</url>
+    <content><![CDATA[<p>懂得不快樂後</p>
+<p>才能體會快樂</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>轉彎</title>
+    <url>/2022/08/25/Murmur-010-%E8%BD%89%E5%BD%8E/</url>
+    <content><![CDATA[<p>碰到叉路時，你總須選擇彎向</p>
+<p>不然，撞牆的慘劇免不了發生</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>雨</title>
+    <url>/2022/08/28/Murmur-016-%E9%9B%A8/</url>
+    <content><![CDATA[<p>聞到雨的味道時</p>
+<p>這位哭泣，因為雨小</p>
+<p>那位哭泣，因為雨大 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>誇實</title>
+    <url>/2022/08/26/Murmur-014-%E8%AA%87%E5%AF%A6/</url>
+    <content><![CDATA[<p>當你宣告著未完成的事已完成時</p>
+<p>懸空的心情</p>
+<p>理應油然而起 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>未來</title>
+    <url>/2022/08/28/Murmur-018-%E6%9C%AA%E4%BE%86/</url>
+    <content><![CDATA[<p>當你驚覺時</p>
+<p>它已與你擦身而過</p>
+<p>在前方看著你，是它特有的表徵 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>寶貴的事</title>
+    <url>/2022/08/28/Murmur-022-%E5%AF%B6%E8%B2%B4%E7%9A%84%E4%BA%8B/</url>
+    <content><![CDATA[<p>這些事如果帶給你與他人共同的愉悅</p>
+<p>請保留些時間來做這些事</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於做</title>
+    <url>/2022/08/28/Murmur-020-%E9%97%9C%E6%96%BC%E5%81%9A/</url>
+    <content><![CDATA[<p>做與不做</p>
+<p>該做與不該做</p>
+<p>不就是一個二乘二矩陣結果嗎？ </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>＄</title>
+    <url>/2022/08/28/Murmur-019-%EF%BC%84/</url>
+    <content><![CDATA[<p>這個符號</p>
+<p>只是你買通生命的必要元件而已</p>
+<p>你該是它的主人、而非它的奴役 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>相伴</title>
+    <url>/2022/08/28/Murmur-017-%E7%9B%B8%E4%BC%B4/</url>
+    <content><![CDATA[<p>知你</p>
+<p>而且愛你</p>
+<p>是攜手相伴的基石 </p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>想念II</title>
+    <url>/2022/08/28/Murmur-021-%E6%83%B3%E5%BF%B5II/</url>
+    <content><![CDATA[<p>無論睜眼或閉眼</p>
+<p>對方的身影如幻燈投射於前</p>
+<p>這等強烈，令人著迷卻也焦慮</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>活得如何？</title>
+    <url>/2022/08/28/Murmur-023-%E6%B4%BB%E5%BE%97%E5%A6%82%E4%BD%95%EF%BC%9F/</url>
+    <content><![CDATA[<p>如果你不需猶疑就能回答出你活得如何</p>
+<p>不管是好、是壞</p>
+<p>我都會給你我的掌聲。</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>心意</title>
+    <url>/2022/08/28/Murmur-025-%E5%BF%83%E6%84%8F/</url>
+    <content><![CDATA[<p>若是心意不是用心來衡量</p>
+<p>那，要心意做甚!</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>情緒藝術</title>
+    <url>/2022/08/28/Murmur-026-%E6%83%85%E7%B7%92%E8%97%9D%E8%A1%93/</url>
+    <content><![CDATA[<p>以杯量度</p>
+<p>一直處於可搖晃的境界而不溢出</p>
+<p>動而均衡堪稱之於情緒藝術</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>青鳥</title>
+    <url>/2022/08/28/Murmur-024-%E9%9D%92%E9%B3%A5/</url>
+    <content><![CDATA[<p>不要只因還沒看見你的青鳥就躊躇不前</p>
+<p>需要的可能是再一點時間</p>
+<p>若你已可以遠眺見你的青鳥</p>
+<p>真的只要再一點時間的堅持</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>品質</title>
+    <url>/2022/08/28/Murmur-027-%E5%93%81%E8%B3%AA/</url>
+    <content><![CDATA[<p>用金錢、物質衡量出來的品質</p>
+<p>與精神衡量出來的品質</p>
+<p>那個可以恆久呢？</p>
+]]></content>
+      <categories>
+        <category>Murmur</category>
+      </categories>
+      <tags>
+        <tag>Murmur</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Garbage Warrior</title>
+    <url>/2022/08/21/Poem-001-Garbage-Warrior/</url>
+    <content><![CDATA[<p>我想，你是瘋了<br>存在由無到有的念頭<br>把生命浪費在廢物建築<br>一樣打造美好願景<br>長遠的簡單  </p>
+<p>諾亞的傻夢<br>刻劃在你的腦中<br>條規的局限<br>鎖你在不可前進的窘境<br>喪失犯錯的自由？<br>曙光才逐漸顯露  </p>
+<p>因為自然動了動身子<br>頓時醒悟了嗎？<br>眼前的渺小<br>才對稱了悲哀<br>請別躊躇<br>蹣跚只會帶來接續的苦難  </p>
+<p>我想，你踏出了第一步<br>在奇形怪狀的視界裡<br>我想，我是瘋了<br>為你描述著掙扎的事蹟。  </p>
+<pre><code>                零八年六月十一日  
+</code></pre>
+<p>Ps.<br>這部片，是部值得去看的片子<br>用力想想我們的世界倒底怎麼了</p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-001-Garbage-Warrior.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>The Great Debaters</title>
+    <url>/2022/08/22/Poem-003-The-Great-Debaters/</url>
+    <content><![CDATA[<p><span style="color:red">Who’s the judge?</span><br>The judge is God.<br><span style="color:red">Why is God?</span><br>Because he decides who wins or loses not my opponent.<br><span style="color:red">Who is your opponent?</span><br>He doesn’t exist.<br><span style="color:red">Why he does not exist?</span><br>Because he is one voice of dissent against the truth that I speak.</p>
+<p>有種色系的悲哀<br>在1930年代<br>眼神對峙<br>誰是弱者</p>
+<p>方向是對的<br>不會因為無知而轉向<br>風吹來時<br>不會分辨對象是誰</p>
+<p>站穩你的腳跟<br>堅持<br>時代的劃分<br>向正確的方向走</p>
+<p>你鏗鏘聲音<br>堅韌的短字<br>己印在心中<br>迴響</p>
+<pre><code>                零八年十一月十四日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-003-The-Great-Debaters.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Darfur Now</title>
+    <url>/2022/08/22/Poem-002-Darfur-Now/</url>
+    <content><![CDATA[<p>你的角色是那一個？</p>
+<p>原來，有一個種族名為人類<br>只是，被膚色遺忘<br>被大陸區隔了<br>從言語分離<br>持槍對峙</p>
+<p>那是父親的苦痛<br>母親的淚水<br>孩子的無助<br>死亡凝聚<br>流離匯集<br>在黃沙塵塵<br>希望渺渺的Darfur</p>
+<p>我的角色是那一個？</p>
+<p>原來，有一種不變的精神<br>在孩子眼神中流露<br>沒有區隔<br>沒有分離<br>沒有對峙<br>純真常駐、生命延續<br>竟是一點小小希望</p>
+<p>我不是行動派<br>希冀一點言語<br>擊落荼毒煞星</p>
+<p>你的角色是那一個？</p>
+<pre><code>                零八年六月十四日
+</code></pre>
+<p>Ps.<br>這部片在描述Darfur的現狀<br>種族仇殺、暴力綿延<br>透過一些人的努力，希望展現一點光明<br>加油。</p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-002-Darfur-Now.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Youth Without Youth</title>
+    <url>/2022/08/22/Poem-004-Youth-Without-Youth/</url>
+    <content><![CDATA[<p>自一開始，你就界定了一個問號<br>放置在劇終的前緣</p>
+<p>一道白光燃燒你老去的軀殼<br>褪去了過往<br>映現短暫的新生<br>是誰睿智、是誰？<br>追溯堅持八十個年頭的方向<br>並著新生的異象<br>刻劃著、隱藏著、逃離著、閃躲著<br>找著你的玫瑰<br>指著你的路</p>
+<p>下一道白光揭開前進的序幕<br>從第一聲梵語對話開始<br>攜著你的愛離開<br>接著囈出的語言<br>等同拿減損的生命<br>鋪出接近那誰堅持的源頭？</p>
+<p>離開，是故事的另一種開始。</p>
+<p>用什麼來交易什麼呢？<br>你的愛是嬌人的玫瑰<br>你卻是凋零的那朵</p>
+<p>第三朵玫瑰<br>自一開始就放置那兒了</p>
+<pre><code>                零九年十一月五日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-004-Youth-Without-Youth.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>The Rebound</title>
+    <url>/2022/08/22/Poem-005-The-Rebound/</url>
+    <content><![CDATA[<p>背叛的瞬間<br>穿越場景的聲音<br>實現了切換<br>舊式藩籬關上<br>開啟<br>需要時間等待</p>
+<p>愛情故事的原本<br>埋藏了正確的錯誤<br>配角的眼神笑著<br>話語帶上驚奇<br>交會持續        直至<br>數字上的差異<br>她覺得不行<br>他喊著可以</p>
+<p>離開遠走<br>沈澱在最底<br>時間在流<br>空間轉換<br>鏡頭拉回另一個數字<br>她、他<br>覺得可以<br>桌下的雙手執牽</p>
+<p>同樣數字上的差異<br>方向是向左或向右<br>拿什麼來考驗?<br>問她?<br>還是他?</p>
+<pre><code>                一Ｏ年二月二十六日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-005-The-Rebound.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第36個故事 Taipei Exchange</title>
+    <url>/2022/08/22/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange/</url>
+    <content><![CDATA[<p>用故事的開端譜出了場景<br>潟著輕繞的音樂<br>和著淡苦微甜的提拉米蘇<br>品著濃烈的Espresso<br>記憶一開始<br>化成故事<br>故事　　交換著</p>
+<p>帶來了香氣的時間<br>要怎麼描述<br>懂得意像的瞬間<br>執筆繪出<br>色彩與時間的結合<br>帶走了我走進了你</p>
+<p>記憶並行<br>時間共進<br>端著咖啡香的你<br>等候我<br>接續的故事</p>
+<pre><code>                一Ｏ年九月二日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-007-%E7%AC%AC36%E5%80%8B%E6%95%85%E4%BA%8B-Taipei-Exchange.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>(500) Days of Summer</title>
+    <url>/2022/08/22/Poem-006-500-Days-of-Summer/</url>
+    <content><![CDATA[<p>原來生命的線條呈現著某種弧度<br>開始的交會<br>只是時間剛好<br>地點恰巧<br>屬於你的命運<br>不屬於妳的命運<br>挑明地講，卻總是有人愛往下跳</p>
+<p>要花一些時間觀察妳的可愛<br>用一點心思瞭解與妳的互動<br>你的前行<br>妳的前行<br>交會的開始<br>交會的結束<br>要花一些時間觀察對妳的恨<br>用一點心思回收對妳的喜歡<br>不屬於你的命運，關閉<br>屬於妳的命運，開啟</p>
+<p>時間的刻痕<br>並不是想像中的深<br>大多數的365天<br>不曾記得些什麼<br>在時間剛好<br>地點恰巧<br>屬於他的命運、妳的命運<br>屬於你的命運、她的命運<br>跨了出去<br>交會才會無限延申</p>
+<pre><code>                一Ｏ年五月二十六日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-006-500-Days-of-Summer.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>夏天協奏曲 Summer times</title>
+    <url>/2022/08/22/Poem-008-%E5%A4%8F%E5%A4%A9%E5%8D%94%E5%A5%8F%E6%9B%B2-Summer-times/</url>
+    <content><![CDATA[<p>用六個連結點<br>就可以關連起妳、我<br>那相遇的島嶼<br>不是只有過客能駐足<br>不是只有旅人能去留</p>
+<p>用離開創下的痕跡<br>留下冷漠的心<br>因為感受而感動<br>是夫妻魚的生死相守<br>是夏日精靈的比翼而飛<br>在陽光的祝福下<br>妳的愛情<br>我的愛情<br>發酵、昇華</p>
+<p>歌聲唱到了獨自一人的段落<br>用呼喊落出悲傷<br>”到死了，也要飛回來”<br>一個人的時候<br>一樣會想妳</p>
+<p>坐在妳的墓前<br>陪妳聊聊天<br>在夕陽的祝福下<br>是一版哀傷的愛情</p>
+<pre><code>                一Ｏ年九月三日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-008-%E5%A4%8F%E5%A4%A9%E5%8D%94%E5%A5%8F%E6%9B%B2-Summer-times.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>親愛的醫生 Dear Doctor</title>
+    <url>/2022/08/22/Poem-009-%E8%A6%AA%E6%84%9B%E7%9A%84%E9%86%AB%E7%94%9F-Dear-Doctor/</url>
+    <content><![CDATA[<p>遠處路環著綠意<br>和著緩緩的步伐<br>夾著松青的吆呼<br>也有嫩芽般的嬉戲<br>在放眼的綠意裡<br>竄來流去</p>
+<p>呼喊著您的到來<br>已然成了安心呼吸的常態<br>對應著您揚著魚尾紋的話語<br>讓緩慢的生命<br>順著您揚起的紋路<br>走得清爽愉悅</p>
+<p>是啊!<br>“他們一個一個離開了村子，過著他們夢寐以求生活。”<br>一屋子滿載的空洞<br>填塞得讓句子喘不過氣<br>交疊的感情<br>在視覺上是一段似而同軌的平行線</p>
+<p>您的離去<br>帶走一些希望與信任<br>帶來一些冷清與悵然<br>掉進思索的同時<br>揚著魚尾紋的笑語<br>伴著一杯熱茶溢起了香氣。</p>
+<pre><code>                一一年一月七日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-009-%E8%A6%AA%E6%84%9B%E7%9A%84%E9%86%AB%E7%94%9F-Dear-Doctor.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>久違了</title>
+    <url>/2022/08/22/Poem-010-%E4%B9%85%E9%81%95%E4%BA%86/</url>
+    <content><![CDATA[<p>久違了，我的衝動<br>輕吼一聲<br>盪開山嵐<br>風，吹著這個來由<br>涼意夾帶暖流</p>
+<p>久違了，我的懦弱<br>踏出一步的思索<br>佔據多少刻鐘<br>雨水刷洗著塵囂<br>映出最末的線條</p>
+<p>久違了，我的沈靜<br>用雙眼凝視、雙手緊抱<br>穿透血脈<br>流動下，掙出四面八方的<br>意向</p>
+<p>久違了，我的感動<br>停罷<br>重歸振盪</p>
+<pre><code>                零八年六月二日 
+</code></pre>
+<p>　　　　　　　　　　　　　</p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>景氣</title>
+    <url>/2022/08/22/Poem-012-%E6%99%AF%E6%B0%A3/</url>
+    <content><![CDATA[<p>吹來一陣涼風<br>拉緊衣領<br>走的步伐呈現休息的狀態<br>煥散的眼神<br>望向<br>那一點星光遠遠的地方</p>
+<p>把一生託寄於一張紙上<br>是你給的<br>他給的</p>
+<p>達成<br>是第一波的上峰<br>未殆<br>是第幾波的下緣<br>形成的反覆<br>與心底的聲?同時<br>呼應</p>
+<p>要走多遠呢？<br>要走多久呢？<br>要等多長呢？<br>孩子這樣問著。<br>要等、要等‧‧‧<br>誰，這樣回答著？</p>
+<p>它，只是一個無法解釋的名詞<br>不懂或懂<br>存在的意義遠小於擲出去的履歷<br>不想聽惠帝的話語<br>不想看杜工部的文詞<br>捨件衣裳給孩子吧！<br>捨碗飯給溫飽吧！<br>是因為吶喊聲音太小？<br>還是因為距離太遠？<br>只是小小的祈求<br>誰有聽見？</p>
+<pre><code>                零八年十二月八日
+</code></pre>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>記錄</title>
+    <url>/2022/08/22/Poem-011-%E8%A8%98%E9%8C%84/</url>
+    <content><![CDATA[<p>關於生命的描述<br>擺在第幾順位<br>關於靈魂的去留<br>置前或後<br>把雙眼聚焦<br>仔細定位</p>
+<p>原本就是脆弱的爭戰<br>從他方來<br>自這裡去<br>短促自由<br>快門捕捉瞬間<br>是你料想得到<br>是我想像不及</p>
+<p>關於所有的歷程<br>不該假手他人<br>要呼吸的自我<br>在你剝奪我之前<br>逃脫</p>
+<p>卡擦、停止呼吸後<br>流傳</p>
+<pre><code>                零八年六月七日				
+</code></pre>
+<p>Ps.<br>以下是兩張朋友想要我去挖掘的相片<br>我想，我很謝謝她提醒。	</p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-1.jpg" alt=" The Falling Man(911)"></p>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-011-%E8%A8%98%E9%8C%84-2.jpg" alt="Trang Bang after a VNAF napalm attack.">				</p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>虛實二十法 - 白靈</title>
+    <url>/2022/09/11/Poem-%E8%99%9B%E5%AF%A6%E4%BA%8C%E5%8D%81%E6%B3%95-%E7%99%BD%E9%9D%88/</url>
+    <content><![CDATA[<p>節錄自白靈《一首詩的誔生》</p>
+<ol>
+<li>象則意之(景則情之)</li>
+<li>意則象人(情則景之)</li>
+<li>小則大之</li>
+<li>大則小之</li>
+<li>遠之近之</li>
+<li>近則遠之</li>
+<li>此覺則彼覺之(感官移位)</li>
+<li>靜之動之</li>
+<li>動則靜之</li>
+<li>主動則被動之</li>
+<li>被動則主動之</li>
+<li>多則少之</li>
+<li>少則多之</li>
+<li>正則反之</li>
+<li>反則正之</li>
+<li>急則緩之</li>
+<li>緩則急之</li>
+<li>密則疏之</li>
+<li>雜則序之</li>
+<li>全體則部份之</li>
+</ol>
+<p>所謂之詩，則在此虛實不定之中。</p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>冰路</title>
+    <url>/2022/08/22/Poem-013-%E5%86%B0%E8%B7%AF/</url>
+    <content><![CDATA[<p>襲來的風<br>紅了雙頰<br>蒼白了唇</p>
+<p>顫著的手<br>曳拖身軀<br>路映前方</p>
+<p>來時風雪<br>冷冽<br>回首<br>望穿白原</p>
+<p>走過<br>白皓印下<br>接續<br>前進</p>
+<pre><code>                一一年一月二十五日
+</code></pre>
+<p><img src="https://raw.githubusercontent.com/benjamin-kuo/images/main/poem/Poem-013-%E5%86%B0%E8%B7%AF.jpg"></p>
+]]></content>
+      <categories>
+        <category>Poem</category>
+      </categories>
+      <tags>
+        <tag>Poem</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>pg_stat_statements SQL語句統計模組</title>
+    <url>/2022/08/24/PostgreSQL-001-pg-stat-statements-SQL%E8%AA%9E%E5%8F%A5%E7%B5%B1%E8%A8%88%E6%A8%A1%E7%B5%84/</url>
+    <content><![CDATA[<p>The <code>pg_stat_statements</code> module provides a means for tracking planning and execution statistics of all SQL statements executed by a server.(<a href="https://www.postgresql.org/docs/current/pgstatstatements.html">https://www.postgresql.org/docs/current/pgstatstatements.html</a>)</p>
+<h4 id="✔️-最耗IO-SQL，單次調用最耗IO-SQL-TOP-50-milliseconds"><a href="#✔️-最耗IO-SQL，單次調用最耗IO-SQL-TOP-50-milliseconds" class="headerlink" title="✔️ 最耗IO SQL，單次調用最耗IO SQL TOP 50 , milliseconds"></a>✔️ 最耗IO SQL，單次調用最耗IO SQL TOP 50 , milliseconds</h4><p><code>select userid::regrole, dbid, (blk_read_time+blk_write_time) as times , calls , query from pg_stat_statements order by (blk_read_time+blk_write_time)/calls desc limit 50;</code></p>
+<h4 id="✔️-總最耗IO-SQL-TOP-50"><a href="#✔️-總最耗IO-SQL-TOP-50" class="headerlink" title="✔️ 總最耗IO SQL TOP 50"></a>✔️ 總最耗IO SQL TOP 50</h4><p><code>select userid::regrole, dbid,  (blk_read_time+blk_write_time) as times,  query from pg_stat_statements order by (blk_read_time+blk_write_time) desc limit 50;</code></p>
+<h4 id="✔️-最耗時-SQL，單次調用最耗時-SQL-TOP-50"><a href="#✔️-最耗時-SQL，單次調用最耗時-SQL-TOP-50" class="headerlink" title="✔️ 最耗時 SQL，單次調用最耗時 SQL TOP 50"></a>✔️ 最耗時 SQL，單次調用最耗時 SQL TOP 50</h4><p><code>select userid::regrole, dbid, to_char(mean_time,&#39;999999999999.999&#39;) as min_time , query from pg_stat_statements order by mean_time desc limit 50;</code></p>
+<h4 id="✔️-總最耗時-SQL-TOP-50"><a href="#✔️-總最耗時-SQL-TOP-50" class="headerlink" title="✔️ 總最耗時 SQL TOP 50"></a>✔️ 總最耗時 SQL TOP 50</h4><p><code>select userid::regrole, dbid, to_char(total_time,&#39;999999999999.999&#39;) as total_time, query from pg_stat_statements order by total_time desc limit 50;</code></p>
+<h4 id="✔️-響應時間振盪最嚴重-SQL"><a href="#✔️-響應時間振盪最嚴重-SQL" class="headerlink" title="✔️ 響應時間振盪最嚴重 SQL"></a>✔️ 響應時間振盪最嚴重 SQL</h4><p><code>select userid::regrole, dbid,to_char(stddev_time,&#39;999999999999.999&#39;) as stddev_time, query from pg_stat_statements order by stddev_time desc limit 50;</code></p>
+<h4 id="✔️-最耗共享記憶體-SQL"><a href="#✔️-最耗共享記憶體-SQL" class="headerlink" title="✔️ 最耗共享記憶體 SQL"></a>✔️ 最耗共享記憶體 SQL</h4><p><code>select userid::regrole, dbid,(shared_blks_hit+shared_blks_dirtied) as shared, query from pg_stat_statements order by (shared_blks_hit+shared_blks_dirtied) desc limit 50;</code></p>
+<h4 id="✔️-最耗臨時空間-SQL"><a href="#✔️-最耗臨時空間-SQL" class="headerlink" title="✔️ 最耗臨時空間 SQL"></a>✔️ 最耗臨時空間 SQL</h4><p><code>select userid::regrole, dbid, temp_blks_written, query from pg_stat_statements order by temp_blks_written desc limit 50;</code></p>
+]]></content>
+      <categories>
+        <category>PostgreSQL</category>
+      </categories>
+      <tags>
+        <tag>PostgreSQL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Recursive SQL 找上下級樹</title>
+    <url>/2024/04/18/PostgreSQL-002-Recursive-SQL-%E6%89%BE%E4%B8%8A%E4%B8%8B%E7%B4%9A%E6%A8%B9/</url>
+    <content><![CDATA[<h4 id="✔️-建立使用者"><a href="#✔️-建立使用者" class="headerlink" title="✔️ 建立使用者"></a>✔️ 建立使用者</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">CREATE TABLE user_info (</span><br><span class="line">    id bigserial PRIMARY KEY,</span><br><span class="line">    superior_id BIGINT NOT NULL,</span><br><span class="line">    user_name VARCHAR(64) NOT NULL</span><br><span class="line">);</span><br><span class="line"></span><br><span class="line">INSERT INTO user_info (superior_id,user_name) VALUES</span><br><span class="line"> (-1,&#x27;A&#x27;), (1,&#x27;A1&#x27;), (1,&#x27;A2&#x27;), (2,&#x27;A11&#x27;), (2,&#x27;A12&#x27;), (2,&#x27;A13&#x27;), (3,&#x27;A2&#x27;);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h4 id="✔️-找上級樹-Function"><a href="#✔️-找上級樹-Function" class="headerlink" title="✔️ 找上級樹 Function"></a>✔️ 找上級樹 Function</h4><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">CREATE</span> <span class="keyword">OR</span> REPLACE <span class="keyword">FUNCTION</span> fn_user_hierarchy_up(user_id <span class="type">bigint</span>)</span><br><span class="line"> <span class="keyword">RETURNS</span> <span class="keyword">TABLE</span>(id <span class="type">bigint</span>, superior_id <span class="type">bigint</span>, user_name <span class="type">character</span> <span class="type">varying</span>, up_level <span class="type">integer</span>, tree_path  <span class="type">bigint</span>[])</span><br><span class="line"> <span class="keyword">LANGUAGE</span> <span class="keyword">SQL</span></span><br><span class="line"> </span><br><span class="line"><span class="keyword">AS</span> $<span class="keyword">function</span>$</span><br><span class="line"><span class="keyword">select</span> id, superior_id, user_name, up_level, tree_path <span class="keyword">from</span> (</span><br><span class="line">    <span class="keyword">WITH</span> <span class="keyword">RECURSIVE</span> fctree <span class="keyword">as</span>(</span><br><span class="line">      <span class="keyword">select</span> id, superior_id, user_name,  <span class="number">1</span> <span class="keyword">as</span> up_level, <span class="keyword">array</span>[id] <span class="keyword">as</span> tree_path <span class="keyword">from</span> user_info <span class="keyword">where</span> id <span class="operator">=</span> user_id</span><br><span class="line">      <span class="keyword">UNION</span> <span class="keyword">ALL</span></span><br><span class="line">      <span class="keyword">select</span> v.id, v.superior_id, v.user_name, fctree.up_level <span class="operator">+</span> <span class="number">1</span>, fctree.tree_path <span class="operator">||</span> v.id</span><br><span class="line">      <span class="keyword">from</span> fctree <span class="keyword">inner</span> <span class="keyword">join</span> user_info <span class="keyword">as</span> v <span class="keyword">on</span> v.id <span class="operator">!=</span> fctree.id <span class="keyword">and</span> v.id  <span class="operator">=</span> fctree.superior_id </span><br><span class="line">    )</span><br><span class="line">    <span class="keyword">SELECT</span> <span class="operator">*</span> <span class="keyword">FROM</span> fctree <span class="keyword">order</span> <span class="keyword">by</span> up_level <span class="keyword">desc</span>,user_id <span class="keyword">asc</span>) <span class="keyword">as</span> f</span><br><span class="line">$<span class="keyword">function</span>$;</span><br></pre></td></tr></table></figure>
+
+<h4 id="✔️-查詢上級樹"><a href="#✔️-查詢上級樹" class="headerlink" title="✔️ 查詢上級樹"></a>✔️ 查詢上級樹</h4><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> <span class="operator">*</span> <span class="keyword">FROM</span> fn_user_hierarchy_up(<span class="number">5</span>);</span><br></pre></td></tr></table></figure>
+<h4 id="✔️-找下級樹-Function"><a href="#✔️-找下級樹-Function" class="headerlink" title="✔️ 找下級樹 Function"></a>✔️ 找下級樹 Function</h4><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">CREATE</span> <span class="keyword">OR</span> REPLACE <span class="keyword">FUNCTION</span> fn_user_hierarchy_down(user_id <span class="type">bigint</span>)</span><br><span class="line"> <span class="keyword">RETURNS</span> <span class="keyword">TABLE</span>(id <span class="type">bigint</span>, superior_id <span class="type">bigint</span>, user_name <span class="type">character</span> <span class="type">varying</span>, root_id <span class="type">bigint</span>, down_level <span class="type">integer</span>)</span><br><span class="line"> <span class="keyword">LANGUAGE</span> <span class="keyword">sql</span></span><br><span class="line"><span class="keyword">AS</span> $<span class="keyword">function</span>$</span><br><span class="line"><span class="keyword">select</span> id, superior_id, user_name, user_id <span class="keyword">as</span> root_id, down_level <span class="keyword">from</span>(</span><br><span class="line">   <span class="keyword">with</span> <span class="keyword">recursive</span> fctree <span class="keyword">as</span> (</span><br><span class="line">     <span class="keyword">select</span> id, superior_id, user_name, user_id <span class="keyword">as</span> root_id, <span class="number">1</span> <span class="keyword">as</span> down_level <span class="keyword">from</span> user_info <span class="keyword">where</span> id <span class="operator">=</span> user_id</span><br><span class="line">     <span class="keyword">union</span> <span class="keyword">all</span></span><br><span class="line">     <span class="keyword">select</span> v.id, v.superior_id, v.user_name, user_id <span class="keyword">as</span> root_id, fctree.down_level <span class="operator">+</span> <span class="number">1</span></span><br><span class="line">     <span class="keyword">from</span> fctree <span class="keyword">inner</span> <span class="keyword">join</span> user_info <span class="keyword">as</span> v <span class="keyword">on</span> v.id <span class="operator">!=</span> fctree.id <span class="keyword">and</span> fctree.id <span class="operator">=</span> v.superior_id</span><br><span class="line">   )</span><br><span class="line">   <span class="keyword">select</span> <span class="operator">*</span> <span class="keyword">from</span> fctree <span class="keyword">order</span> <span class="keyword">by</span> down_level, id <span class="keyword">asc</span>) <span class="keyword">as</span> t</span><br><span class="line">$<span class="keyword">function</span>$;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h4 id="✔️-查詢下級樹"><a href="#✔️-查詢下級樹" class="headerlink" title="✔️ 查詢下級樹"></a>✔️ 查詢下級樹</h4><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">SELECT</span> <span class="operator">*</span> <span class="keyword">FROM</span> fn_user_hierarchy_down(<span class="number">1</span>);</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>PostgreSQL</category>
+      </categories>
+      <tags>
+        <tag>PostgreSQL</tag>
       </tags>
   </entry>
 </search>

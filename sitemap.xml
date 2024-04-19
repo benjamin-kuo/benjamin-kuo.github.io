@@ -594,7 +594,7 @@
   </url>
   
   <url>
-    <loc>https://benjamin-kuo.github.io/tags/DevOps/</loc>
+    <loc>https://benjamin-kuo.github.io/tags/Java/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -608,7 +608,7 @@
   </url>
   
   <url>
-    <loc>https://benjamin-kuo.github.io/tags/Java/</loc>
+    <loc>https://benjamin-kuo.github.io/tags/DevOps/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -622,21 +622,7 @@
   </url>
   
   <url>
-    <loc>https://benjamin-kuo.github.io/tags/PostgreSQL/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://benjamin-kuo.github.io/tags/Java-Spring/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://benjamin-kuo.github.io/tags/Data-Science/</loc>
+    <loc>https://benjamin-kuo.github.io/tags/Poem/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -650,14 +636,7 @@
   </url>
   
   <url>
-    <loc>https://benjamin-kuo.github.io/tags/Poem/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://benjamin-kuo.github.io/tags/programming/</loc>
+    <loc>https://benjamin-kuo.github.io/tags/Java-Spring/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -684,14 +663,28 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://benjamin-kuo.github.io/categories/Books/</loc>
+    <loc>https://benjamin-kuo.github.io/tags/PostgreSQL/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/tags/Data-Science/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/tags/programming/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
   
   <url>
     <loc>https://benjamin-kuo.github.io/categories/Investment/</loc>
@@ -701,14 +694,7 @@
   </url>
   
   <url>
-    <loc>https://benjamin-kuo.github.io/categories/DevOps/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://benjamin-kuo.github.io/categories/App/</loc>
+    <loc>https://benjamin-kuo.github.io/categories/Books/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -722,35 +708,21 @@
   </url>
   
   <url>
+    <loc>https://benjamin-kuo.github.io/categories/App/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/categories/DevOps/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://benjamin-kuo.github.io/categories/Microservices/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://benjamin-kuo.github.io/categories/PostgreSQL/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://benjamin-kuo.github.io/categories/Java-Spring/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://benjamin-kuo.github.io/categories/Data-Science/</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://benjamin-kuo.github.io/categories/Guitar/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -764,7 +736,14 @@
   </url>
   
   <url>
-    <loc>https://benjamin-kuo.github.io/categories/programming/</loc>
+    <loc>https://benjamin-kuo.github.io/categories/Guitar/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/categories/Java-Spring/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -772,6 +751,27 @@
   
   <url>
     <loc>https://benjamin-kuo.github.io/categories/Murmur/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/categories/PostgreSQL/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/categories/Data-Science/</loc>
+    <lastmod>2024-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://benjamin-kuo.github.io/categories/programming/</loc>
     <lastmod>2024-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
